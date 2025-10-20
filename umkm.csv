@@ -1,0 +1,98 @@
+employee_id,owner_name,business_name,business_address,region_id,subdistrict_id,postal_code,umkm_coordinate,business_type,products,partner_id
+120,Setya Ningsih,NH,"Perumahan Alam bukit raya Blok C 4 No. 4, RT. 005. RW. 009, Gunung, Jl. Malang, Gn. Malang, Randuagung, Kec. Kebomas, Kabupaten Gresik, Jawa Timur",8,105,61124,"-6.7033011,108.3847249",Makanan,Olahan Bandeng Khas Gersih,120
+151,Nafsiyah,Jasa,"Perum Permata Candiloka Blok M 4/23 Rt 004/Rw 004, Kel Balonggabus, Kec Candi, Kab Sidoarjo",8,131,61271,"-6.9159364,108.5165074",Barang,Kerajinan keset dan bros dari kain percah,151
+129,Lilik Eliyatin,Sewa Baju Adat,jl Kombes pol m duryat GG Mlaten 24 RT 03 /RW 03 Kel Jetis kab Lamongan Jatim 62211,8,113,62212,"-6.9947154,112.3078048",Barang,Persewaan baju adat,129
+123,Laili Dunyati Rohmaidah,Ternak Bebek,Dusun nglawan kedungwangi Sambeng Lamongan,8,107,62284,"-7.3142535,112.259100",Barang,Peternakan bebek,123
+94,Novi Erisca,Warung Kelontong,"Jl. Pekunden Tengah No.1070, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah",4,40,50241,"-6.9853434,110.4115979",Barang,Warung kelontong,94
+92,Hanny Diarsha,Cake Chiffon,"jl mentawai no 68 rt03 rw 11 gedanganak, ungaran timur,kabupaten semarang,jateng",4,82,50519,"-7.1423624,110.4176745",Makanan,Kue modern,92
+85,Nisa Barqi,Chatering,"Jl. Nakula A 7; 008/008, Kel Kejambon, Kec. Tegal Timur, Kota Tegal, Jateng",4,76,52124,"-6.8812092,109.1387502",Makanan,Chattering & Aneka Kue,85
+262,Suzanti,Warung Sembako,"Jalan Bhayangkara No.27, RT.5/RW.6, Cihaseum Pandeglang, banten PANDEGLANG, KAB. PANDEGLANG, BANTEN, ID 42213",1,210,42213,"-6.3097264,106.0944047",Barang,"Sembako, Gas Lpg dll",262
+59,Titi Irawanti,Nasi Jagung,"Jl. Elang II No. 173 , Andir , Bandung , Jawa Barat (Ibu Kota Bandung)",2,53,40184,"-6.9138542,107.5739412",Makanan,Nasi Jagung & Sembako,59
+216,Susheniati,Kantin Ibu susheniati,"Jl. Abdul Muis No.18, Gedong Meneng, Kec. Rajabasa, Kota Bandar Lampung, Lampung",13,304,35145,"-5.4055066,105.2610525","Makanan, Minuman",Warung Kantin,216
+195,Lasmini,Warung Makan,"Jl. Teuku Umar Gg.Putra No 46 RT03 Sawah Brebes, Kec. Tanjungkarang Timur, Kota Bandar Lampung, Lampung",13,161,35212,"-6.9074944,107.6133888",Makanan,Warung Nasi,195
+272,Mahmudah,Vania Jus,"Jl. Raya Kedungbanteng No.6, Dusun II, Kedungbanteng, Kec. Kedungbanteng, Kabupaten Banyumas, Jawa Tengah",5,219,53152,"-7.3889727,109.1985015",Minuman,Jus Buah,272
+228,Dwi Puspa,Toko Berkah Baru,"RT01/RW 04 Karang Blimbing, Karangklesem, Pekuncen, Kabupaten Banyumas, Jawa Tengah",5,305,53164,"-7.3604363,109.1287869",Barang,Sembako & Baju,228
+234,Ike Andriati,"Warung Sembako ""Berkah""",JL. MANCAKUSUMA RT/RW 01/01 KEDUNGWRINGIN PATIKRAJA KAB BANYUMAS PURWOKERTO,5,190,53171,"-7.4463116,109.2123209",Barang,Sembako,234
+260,Maesatul,Warung Sembako,KP Koya Bugis Rt/Rw 10/03 Kasemen Serang Desa Mergaluyu,1,208,42191,"-6.0514476,106.1638478",Barang,Sembako,260
+254,Widiastuti,Kantiin Ibu widi,"Jl. Komp. Pendidikan No.16, Muara Ciujung Tim., Kec. Rangkasbitung, Kabupaten Lebak, Banten",1,195,42314,"-6.3564944,106.2534806",Makanan,Bakso Di kantin,254
+173,Siti Cholijah,Kkebaz,"Jl Setia Luhur GG mesjid LK VI no 79, Kec. Medan Helvetia, Kota Medan, Sumatera Utara",10,149,20123,"3.601361,98.6328872",Makanan,Gorengan ditipkan warung,173
+270,Sumarni,Warung Sembako,Jalan empat likngkungan 6 no. C 33 pulo brayan bengkel medan sumatra utara,10,206,20239,"3.6366522,98.6717282",Barang,Sembako,25
+174,Sri Indriani,Kabur ( kakak bubur ),"Pasar Jahe Simalingkar, Jl. Jahe Raya, Mangga, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara",10,306,20141,"3.5140126,98.6268344",Makanan,Bubur Manis,174
+175,Damayanti,Syifa Konveksi,"jl mangaan 3 Mabar pasar no 120. 2 LK 12, Mabar, Medan Deli, Kota medan, Sumatera Utara",10,148,20242,"3.6598958,98.678571",Barang,Jual Perlengkapan Jait,175
+176,Yanti Muningsih,Warung Makan,"huta 2 Songal, Naori Bah Tobu, Kecamatan Dolok Batu Nanggara, kab Simalungun, sumut. bahiobu kecamatan dolok batunaggar kab simalungun",10,151,21155,"3.1298285,99.1255759",Makanan,Jual Makanan Jadi,176
+179,Wisma Linda,Laundry,Jln.Fatahillah no 5 dusun koto Kaciak desa pauh timur kota Pariaman Sumbar,11,271,25519,"-0.326361,100.0216429",Makanan,Jual Kebutuhan Pokok Sayur & cabai,179
+340,Erida,,"Jl. Gajah Mada Rt 01 / Rw 07, kel. Alai Parak Kopi kec. Padang Utara Sumbar",11,269,25173,"-0.9145252,100.3564173",Minuman,Es teh,339
+66,Santi,Warung Makan,"Segayam, Kec. Gelumbang, Kabupaten Muara Enim, Sumatera Selatan",12,307,31461,"-3.2363264,104.5209949",Barang,Sembako & Pempek,66
+189,Farko,,"Perumahan sako park residence Blok E6, Jl. Lebak Murni Lrg. Karya Murni 5, Sako, Kec. Sako, Kota Palembang, Sumatera Selatan",12,159,30961,"-2.9167297,104.7704192",Makanan,Jual Nasi Uduk,189
+65,Zurna,Jual Bawang di Pasar,"Curahdringu Krajan, RT.12/RW.05, Desa Curahdringu, Kec. Tongas, Kab Probolinggo",12,58,30258,"-1.9560449,109.6597633",Barang,Sayuran di Pasar,65
+315,Sunarmi,Moro Seneng,"Dsn Bulu, RT.03, RW.08, Desa. Bakalan, Kec. Polokarto, Kab, Sukoharjo, Jawa. tengah",6,251,57555,"-7.6403841,110.864366",Barang,Toko Detergen dan Parfum Laundry,315
+101,Sri Fatonah,Ps Kids Collection,"RT01 RW 01 Kebonan, Sumberadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta",6,88,55288,"-7.7112865,110.3364273",Barang,Jual Baju,101
+222,Sumarni,Warung Klontong,"Jl olah raga No 19 / 205 A, RT.003, RW.006, Kel. Sukapura, Kec. Kejaksaan, Kota Cirebon Prov, Jawa Barat",3,180,45122,"-6.7322898,108.4975782",Barang,Kios Roko Dan Minuman,25
+105,Merin Irnawati,Es Teh Wasgitel & Kedai Candu,"Ngembat kembang rt 13 rw 3 Kragilan kecamatan gemolong, Kabupaten Sragen, Jawa Tengah",7,251,57274,"-7.4003539,110.8215461",Minuman,Franchise Es Teh,105
+72,Astriyani,Warung Dek Atha,"Mojokulon, RT.04, RW. 06 Seragen Kulon, Sragen, Jawa Tengah",6,94,57212,"-7.4345202,111.0128581",Barang,Warung Kelontong,72
+164,Wahyu Diandriyani,Pecel Kertosono,"Jl. Pundak, RT. 001. RW. 018 Ds. Banaran, Kec. Kertosono Nganjuk, Jawa Timur",7,12,64311,"-7.5920832,112.1013024",Makanan,Nasi Pecel Kertosono,164
+215,Lilis Setiawati,Mie tek-tek bu lilis,"Jl. Lintas Sumatera, Merak Batin, Kec. Natar, Kabupaten Lampung Selatan, Lampung (foodcourt candra natar)",13,20,35362,"-5.3094028,105.1929737",Makanan dan Minuman,Warung Makan,215
+163,Romawati,Es doger & Penthol,"Jl. Cisadane No. 63, RT. 001. RW 007 Ds. Bendo, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur",7,310,66117,"-8.0909227,112.1573272",Makanan dan Minuman,Pentol dan Es Doger,163
+78,Nunung,Telor Asin Bebek,"Gatak Klegung, RT. 003, RW.025, Kel. Dinokerto, Kec. turki, Kab. Sleman Provinsi Yogya",6,162,55572,"-7.614237,110.4838944",Makanan,Telur Asin,78
+114,Istiyana,,"Kriyan, RT. 116. RW. 035 Kokap, Desa. Hargorejo, Kab. Kulon Progo, Daerah Istimewa Yogyakarta (Ibu, Kota Yogyakarta)",6,100,55654,"-7.8489018,110.0839925",Makanan,Kripik Tempe,114
+257,Eni Nuraeni,Nasi Uduk,"Curahdringu Krajan, RT.12/RW.05, Desa Curahdringu, Kec. Tongas, Kab Probolinggo",1,13,67252,"-7.7437179,113.0814549",Makanan,warung Nasi uduk,257
+13,Candra,Berkah Jaya Toserba,"JL. GATOT SUBROTO, kertosono, nganjuk, Jawa Timur",8,12,64482,"-7.5918104,112.1019073",Barang,jualan tas dan aksesoris,13
+200,Noor Chasanah,Toko Barokah,jln. Udowo timur 3 nmr 23 (RT 03 RW 10) KEL. BULU LOR SMG UTARA,4,165,50179,"-6.99304,110.3742711","Makanan, Minuman, Barang",Warung Makan,200
+15,Muslikha,Warung Sembako,"Curahdringu Krajan, RT.12/RW.05, Desa Curahdringu, Kec. Tongas, Kab Probolinggo",9,13,67252,"-7.7437179,113.0814549",Barang,Penjual plastik dan sembako,15
+269,Arin Yuni Susilowati,Gemilang Tambak,"Perum Graha Permata Indah AE36, Desa Kranjingan , Kec. Sumbersari, Kab. Jember, Jawa Timur",9,217,68126,"-8.1980479,113.7164949",Barang,Penjual figura,269
+17,Ester,Aksesoris,"Perumahan Duta Mas Indah Jl. Fl. Tobing No.12 Blok AA3, Gambir Baru, Kec. Kota Kisaran Timur, Kabupaten Asahan, Sumatera Utara",10,15,21221,"2.9920172,99.6324737",Barang,Aksesoris,17
+344,Devi Susanti,Sembako,"Komp perumka v no, Limau Manis, Kec. Pauh, Kota Padang, Sumatera Barat 25158",11,271,25158,"-0.9394009,100.3821955",Makanan,Jualan kue dan Sarapan,342
+345,Silvi susanti,Toko Disil P & D,"toko sisil P & d, jalan balai baru no 75 balai baru, kulurahan sungai sapih, kecamatan kuranji, padang, sumbar",11,152,25173,"-3.8898174,101.3598205",Sembako,Warung Sembako,343
+343,Helmi susanti,,"Jl. DR. M. Hatta Simp BY PASS Ketaping No. 41 RT 002, RW 003, Kel. Pasar Ambacang, Kec. Kuranji, Kota padang.",11,152,25121,"-0.9360806,100.3858547","Makanan, Barang",Warung Rokok dan Kue kue kecil,341
+306,Tuminah,Dapoer Bunda,"RT 02 RW 06 Grantung, Kecamatan Bayan, Kota Purworejo, Jawa Tengah",5,86,54224,"-7.7218739,109.9526385",Makanan,Jajanan Pasar dan Catering,306
+331,Dewi Sari,,"Lingkungan Aglik Utara no.35 RT 02 RW 08 kelurahan semawung daleman Kecamatan Kutoarjo, Kabupaten Purworejo, Jawa Tengah",5,282,54212,"-7.7251021,109.9035495",Jasa,Griya cantik wedding,331
+322,Nurjanah,Warung Sembako,"Perumahan De' Keraton blok M6 No 25 Desa Pancawati Kec. Klari, Karawang, Jawa Barat",1,255,41371,"-6.3567913,107.3800856",Barang,Warung Sembako,322
+248,Andri Sri,Dimdim Fried Chicken,"Jl. Pandansimo, Poncosari, Srandakan, Kabupaten Bantul, DIY",6,90,55762,"-7.9609898,110.2339399",Makanan,"Ayam crispy, catering, bubur sore, bebek/ayam kampung goreng/bakar, es teh",248
+276,Wiwi Widaningsih,warung kopi mak wiwi,"Kosambi, Belendung, Kec. Klari, Karawang, Jawa Barat",1,201,41371,"-6.3372108,107.3619782",Makanan,Gado gado,276
+131,Vicky (Anak),Deodorant,"jl. mangaan III M A B A R, Medan Deli, Kota Medan, Sumatra Utara",10,148,20241,"3.6596356,98.6749132",Barang,Deodorant,#N/A
+292,Dewi Widiawati,Pakaian,"Perumahan Permata Buah Batu Blok B12, Bojongsoang, Kota Bandung, Jawa Barat",2,311,40287,"-6.9717506,107.6336856","Makanan, Barang",Jual Makanan & Bouqet,292
+268,Nurul hasanah,Jajan Kekinian,"KTP Jl Citarum Perum Mutiara Ageng Blok E2, RT.05 RE01, Kel. Curahginting, Kec. Kanigaran, Kota Probolinggo",9,216,67212,"-6.8645102,107.9491311",Makanan,Rengginang,268
+348,Yeni Dwi Arisanti,Kedai Moms Yora,"Dsn Tepas 3 RT/RW 04/05 Kec Geneng Kab Ngawi, Jawa Timur",7,273,63271,"-7.4935742,111.3946847",Makanan,"Dimsum Chili Oil Wonton, Mie level Pedas",347
+317,Putri Gita,Jajan Mama Uti,"Jl. Pogot X No.12-A, RT.014/RW.05, Tanah Kali Kedinding, Kec. Kenjeran, Surabaya, Jawa Timur",8,125,60129,"-7.2340576,112.7653024",Makanan,Frozen Food,317
+198,Marminah,Es Teh Jumbo,"Boweh Rejosari RT/RW 06/16, Wangon, Rejosari, Kec. Karangawen, Kabupaten Demak, Jawa Tengah",4,163,59566,"-7.0369003,110.6246134",Barang,Sembako,198
+249,Imas Masitoh,Warung Sembako,"Jl.Raya Telaga Sari RT/RW 22/06, Kecamatan Klari, Karawang Timur, Jawa Barat",1,255,41371,"-6.3310908,107.3344851",Barang,Sembako,249
+232,Fitri Apriyanti,Es Teh Poci,"Dusun krajan remaja rt/rw: 004/004.desa cikampek kota. kecamatan cikampek, kabupaten karawang, jawa barat",1,188,41373,"-6.4039455,107.4538241",Minuman,The Poci,232
+60,Kartika (Wali),Risol Mayo,"Kp.pasir kuray RT.05 RW.09 Des.Ciranjang Kec.Ciranjang Kab.Cianjur, Jawa Barat",2,54,42394,"-6.8461341,107.1946184",Makanan,Risol,#N/A
+335,Siti Marsiyah,Rejeki Lancar,"Jl. Prajurit Kulon Gg IV No. 174, Kel. Prajurit Kulon, Kec. Prajurit Kulon, Kota Mojokerto",8,264,61326,"-7.4795619,112.415984",Barang,Toko Kelontong,334
+18,Riri (Wali),Nasi Goreng,Santiong Utara RT 03/RW 16 kel.Nagasari kec.Karawang Barat Kab.Karawang,1,318,40115,"-6.9026982,107.6121177",Makanan,Nasi Goreng Wahana,#N/A
+300,Parwinah,Jenang,"Kebon dalem lor Rt. 13/5. jln anis renggo km. 3. kecamatan Prambanan, kabupaten klaten, jawa tengah",6,162,57454,"-7.7268836,110.4912287",Makanan,Jenang,300
+87,Junaedah,,"Desa Kedokan Bunder Wetan RT002 RW001, Kec. Kedokan Bunder, Kab. Indramayu",3,78,45280,"-6.5041369,108.3985654",Barang,Warung Sembako,87
+86,Sri Sutanti,Dapur Bu Tanti,"Balun lr 1 Rt 04 Rw 08 ,cepu ,blora jawa tengah",4,77,58311,"-7.1461193,111.5734167",Makanan,Nasi Bakar dan Pempek,86
+116,Sri Indarti,Toko Kalisya,"Ds Pesen RT/RW 02/01 Kec. Kanor Kab. Bojonegoro, Jawa Timur",8,265,62193,"-7.1554869,112.0030841",Barang,Warung Sembako,335
+287,Ani Suryani,Warung Aca  Idiq,"Jl. Cikabuyutan Tim. No.99, Hegarsari, Kec. Pataruman, Kota Banjar, Jawa Barat",2,232,46322,"-7.379113,108.5413217",Barang,gas dan beras,287
+328,Emi Kustanti,Aksesoris,"Kp Panyosogan Rt 02 Rw 10, Desa Wanakerta, Kecamatan Cibatu, Kabupaten Garut, Jawa Barat",2,240,44185,"-7.1053412,107.9916599",Barang,Souvenir,328
+290,Surtika Sari,Ternak Kambing,"Dusun karangpucung kulon Rt 14 Rw 04 Desa jajawar kecamatan banjar, Jawa Barat",2,235,46313,"-7.355645,108.4916281",Barang,Ternak Kambing,290
+57,Susi Indriawati,Warung Risky,"Jl. Ciayunan No.77, Cicalengka Kulon, Kec. Cicalengka, Kabupaten Bandung, Jawa Barat",2,52,40395,"-6.9865431,107.8446781",Barang,Warung Sembako,57
+408,Sri Sularmi,Seblak Prasmanan,Bulu RT 03 RW 08 Bakalan Kec.Polokarto Kab.Sukoharjo,6,251,57555,"-7.646004,110.877771",Makanan,Seblak,345
+170,Leni Hariati,Warung Sembako,"Psr 7 tengah dusun XI tembung Medan, Hutan, Percut Sei Tuan, Kota Deli Serdang, Sumatera Barat",10,147,20371,"3.5871833,98.7405469",Barang,Toko Sembako,170
+341,Yoyoh,Budidaya Ikan,"Jl.Pejuang, Dusun Karangpucung Kulon, RT/RW 17/04, Kelurahan/Desa Jajawar, Kecamatan Banjar, Kota Banjar, Provinsi Jawa Barat.",2,235,46317,"-7.3565803,108.4837923",Barang,Budidaya ikan gurame,405
+197,Sri Lestari,Warung Sembako,"Ngoro-oro, RT 002/RW 011, Bokoharjo, Kecamatan Prambanan, Kabupaten Sleman Yogyakarta",6,162,55572,"-7.7654148,110.4844916",Makanan,Angkirangan,197
+100,Yunlis,Sablon Baju,"Griya Harmoni C4 rt 1/7 Kalipelang Demakan, Kecamatan Mojolaban, Kabupaten Sukoharjo, Jawa Tengah",6,87,57554,"-7.5971366,110.8782084",Barang,sablon baju,100
+116,Annisa Octaviana (Anak),Teh Walu,"Desa Ngemplak, RT.003, RW.000, Desa. karang malang, Kec. marasan, Kab. Sragen, Jawa. tengah",6,101,57222,"-7.4848148,110.9158901",Minuman,Teh Gunung Lawu,#N/A
+289,Santy Marthalena,,"Jl. Srikaton, RT.007, RW.003, Kel. Pagar Agung, Kec. Lahat, Kota Lahat Prov, Sumatera Selatan mau pindah ke metro lampung",14,28,31419,"-4.4654892,103.7716698",Makanan,Dimsum,289
+402,Siti Bariyah,Catering,"Wirogaten Banjarnegara Rt/Rw 03/01, Kota Kebumen, Jawa Tengah",5,312,54395,"-7.7669286,109.7551553",Makanan,Cathering,422
+83,Dewi Wistiawati,Pakaian,"Jl. Genok Karanglo Rt/Rw 01/08 Kelurahan Tegalsari Kec Candisari, Kota Semaran, Jawa Tengah",4,74,50231,"-7.0066088,110.4161917",Barang,Pakaian,83
+362,Wiwik Sulistyorini,Berkah Food,"Jl. Bangetayu Wetan Kecamatan Genuk, Kabupaten Semarang, Jawa tengah",4,280,50115,"-6.9828114,110.4722513",Makanan,Rice Bowl,361
+157,Arimbi,Begja Ceapstow,"Jl. Taman Melati, RT. 07, RW. 02, Desa Tamanan, Kec. Mojoroto, Kota Kediri, Jawa Timur.",7,137,64116,"-7.6382745,110.4230663",Jasa,Online Shop Design,157
+238,Sri Rahayu,Mie Ayam & Bakso rizky,"GG H Amiun.Rt 03/03 no 59. Loji, kecamatan bogor barat, kota bogor, jawa barat",1,313,16117,"-6.5833032,106.76728",Makanan,Bakso,238
+219,R Ati Hidajati,Atykitchen,"Perum Kopasus, Jl. Mawar Blok K 8 Rt/Rw 04/03 Wirogunan Kecamatan Kartasura, kabupaten sukoharjo, Jawa Tengah",6,178,57166,"-7.0648927,107.4414709",Makanan,Snack Ringan & Kue Kering,219
+27,Farida,Kantin Mama Athaya,"Jl. W. R. Supratman No.74, Tlk. Betung, Kec. Tlk. Betung Utara, Kota Bandar Lampung, Lampung (Kantin Sekolah Taman Siswa Teluk Betung)",13,314,35211,"-5.4451348,105.2616721",Barang,Warung Jajan,27
+26,Wiwik Prihatini,Aqil Cell & Acesoris,"Jl. Airan Raya Gg. Kutilang kelurahan Way Huwi, Jati Agung, Kabupaten Lampung Selatan, Lampung",13,24,35365,"-5.3539054,105.295176",Barang,"Voucher,Snack dll",26
+208,Leni Artiana,Pempek Oni,"Jl. Tirtayasa Sukabumi Perum GKAL Blok E No 11 Campang Raya, Kecamatan Sukabumi, Kota Bandar Lampung, Lampung",13,315,35122,"-5.4193793,105.3227981",Makanan,Pempek Oni,208
+194,Winda (Anak),Warung Gen Z,"Jl DR Moh Hatta LR Binjai, RT. 003, RW. 007, Kel. AIR Paoh, Kec. Baturaja Timur, Kab. Ogan Komering Ulu Prov, Sumatera Selatan",13,19,32111,"-4.1364282,104.1622927",Makanan,Jajan Kekinian,#N/A
+159,Suci Malia Fika,Sambel Pecel,"Genengan, RT. 003. RW. 001 Ds. Genengan, Kec. Kawedanan, Kab. Magetan Jawa Timur",7,139,63382,"-7.6815337,111.4138003",Makanan,Sambel Pecel,159
+149,Ning Alfiyah,Warung Sembako,"DSN Johowinong, RT.007, RW. 002, Kel. Johowinong, Kec. Mojoagung, Kab. Jombang Prov Jawa Timur",8,32,61482,"-7.5269299,112.3556131",Barang,Toko Sembako,149
+294,Anita,,"Perum Permata Indah Getasan Blok Tunggak Jati, RT.004, RW. 002, Desa. Getasan, Kec. Depok, Kab. Cirebon, Jawa Barat",3,239,45155,"-6.7396756,108.4512402",Barang,Warung Sembako,35
+362,Sutiah,,"Blok 03, RT. 013, RW. 003, Kel. Karang Sambung, Kec. Arjawinangun, Kota Cirebon, Jawa Barat",3,316,45162,"-6.6043087,108.3813996",Barang,Warung Sembako,79
+383,Wiranti,,Jl Teuku Umar Gg Dipo No 21 RT 02 RW Sawah Berebes Tanjungkarang,13,161,35126,"-6.1611379,105.8456593",Barang,Warung Sembako,381
+211,Yuliet,,"Jl Panda Gg Tewak No 17, Kecamatan Kedaton, Bandar Lampung",13,303,35132,"-5.3784484,105.2372595","Makanan, Minuman",Kantin Sekolah,211
+339,Desti Nur Apni,Warung Sembako,"Griya Raffi Residence Blok G NO.10 RT088 RW.005 Kel. Talang Kelapa, Kec. Alang-alang Lebar, Kota Palembang",13,268,30155,"-2.9504727,104.6838877",Barang,Warung Sembako,338
+188,Ramiana,Warung Sembako,"jl.laskar syamsudin. No c.14 RT.013, RW. 005, kel : bandar agung kec. lahat, kab. lahat, Sumatra Selatan. 29MQ+Q4, Trans SP II Padang Muara Dua, Kec. Gumay Ulu, Kabupaten Lahat, Sumatera Selatan.,",12,28,31356,"-3.9642849884642533,103.39457689490295",Barang,Warung Sembako,188
+327,Dewi Rinawati,Jasa Jahit,"KP Babakan Garut, RT.02, RW.10, Des. Mekarsari, Kec. Ngamprah",2,85,40552,"-6.8482396,107.5031784",,,327
+381,Elly Setyowati,Catering,"Kebulusan Rt/Rw 02/01 Desa Kebulusan Kecamatan Pejagoan Kab Kebumen, Jawa Tengah",5,291,54361,"-7.6731095,109.6246901",,,379
+361,Ida Kumalasari,Warung Sembako,"Jl. Kradenan, Kec Kradenan Rt 01/03 Desa Kradenan Kab Grobongan, Jawa Tengah",11,279,58182,"-7.1652293,111.1372333",,,360

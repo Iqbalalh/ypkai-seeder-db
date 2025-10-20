@@ -1,0 +1,309 @@
+subdistrict_id,city_id,subdistrict_code,subdistrict_name
+1,1,1,Kebun Bunga
+2,1,2,Pasir putih
+3,1,3,Sutusari
+4,1,4,Petajaten Timur
+5,1,5,Desa Rende
+6,1,6,Purwokerto Utara
+7,1,7,Maos Kidul
+8,1,8,Kembaran
+9,1,9,Sempor
+10,1,10,Pakal
+11,1,11,Banjarsari
+12,1,12,Kertosono
+13,1,13,Tongas
+14,1,14,Gunung Maligas
+15,1,15,Kisaran Timur
+16,1,16,Medan Helvetia
+17,1,17,Padang Timur
+18,1,18,Belatung
+19,1,19,Baturaja Timur
+20,1,20,Natar
+21,1,21,Sukajadi
+22,1,22,Martapura
+23,1,23,Lubai
+24,1,24,Jati Agung
+25,1,25,Campang Jaya
+26,1,26,Lubuk Kilangan
+27,1,27,Tanjung Karang Timur
+28,1,28,Lahat
+29,1,29,Way Kandis
+30,1,30,Tanah Datar
+31,1,31,Mangunharjo
+32,1,32,Mojoagung
+33,1,33,Wonokromo
+34,1,34,Enam Lingkung
+35,1,35,Batang Anai
+36,1,36,Prabumulih Timur
+37,1,37,Cikampek Barat
+38,1,38,Jatibarang
+39,1,39,Kramatjati
+40,1,40,Semarang Tengah
+41,1,41,Ngampel
+42,1,42,Purwokerto
+43,1,43,Maos
+44,1,44,Situraja
+45,1,45,Tanjung Rambang
+46,1,46,Sungkal Utara
+47,1,47,Coblong
+48,1,48,Gedong Air
+49,1,49,Muara Enim
+50,1,50,Pondok Salam
+51,1,51,Jatiluhur
+52,1,52,Cicalengka
+53,1,53,Andir
+54,1,54,Ciranjang
+55,1,55,Medan Tembung
+56,1,56,Rambutan
+57,1,57,Kroya
+58,1,58,Kertapati
+59,1,59,Prabumulih
+60,1,60,Gunung Gajah
+61,1,61,Pulau Pinang
+62,1,62,Kemiling
+63,1,63,Cibabat
+64,1,64,Gunung Jati
+65,1,65,Harjamukti
+66,1,66,Cipunegara
+67,1,67,Ciwaringin
+68,1,68,Bekasi Utara
+69,1,69,Turi
+70,1,70,Prumbon
+71,1,71,Sumber
+72,1,72,Lengkong
+73,1,73,Adiwerna
+74,1,74,Candisari
+75,1,75,Banyudono
+76,1,76,Kejambon
+77,1,77,Cepu
+78,1,78,Kedokan Bunder
+79,1,79,Dempet
+80,1,80,Deli Tua
+81,1,81,Dukun
+82,1,82,Gedang Anak
+83,1,83,Bojonegoro
+84,1,84,Klaten Tengah
+85,1,85,Ngamprah
+86,1,86,Bayan
+87,1,87,Mojolaban
+88,1,88,Mlati
+89,1,89,Jeberes
+90,1,90,Srandakan
+91,1,91,Kalasan
+92,1,92,Kalijambe
+93,1,93,Bantul
+94,1,94,Sragen Kulon
+95,1,95,Wates
+96,1,96,Trirenggo
+97,1,97,Godean
+98,1,98,Sentolo
+99,1,99,Kasihan
+100,1,100,Hargorejo
+101,1,101,Marasan
+102,1,102,Sawahan
+103,1,103,Mojoanyar
+104,1,104,Driyorejo
+105,1,105,Kebomas
+106,1,106,Bangil
+107,1,107,Sambeng
+108,1,108,Tulangan
+109,1,109,Pakisaji
+110,1,110,Pucuk
+111,1,111,Sumber Pucung
+112,1,112,Bondowoso
+113,1,113,Lamongan
+114,1,114,Padas
+115,1,115,Tambak Sari
+116,1,116,Kanigoro
+117,1,117,Gombong
+118,1,118,Sukowinangun
+119,1,119,Batang Kuis
+120,1,120,Majalaya
+121,1,121,Rancaekek
+122,1,122,Tunjungan
+123,1,123,Genteng
+124,1,124,Gedangan
+125,1,125,Kenjeran
+126,1,126,Krian
+127,1,127,Prambon
+128,1,128,Benowo
+129,1,129,Mojo Agung
+130,1,130,Beji
+131,1,131,Balonggabus Candi
+132,1,132,Blimbing
+133,1,133,Socah
+134,1,134,Selorejo
+135,1,135,Trucuk
+136,1,136,Ngadiluwih
+137,1,137,Mojoroto
+138,1,138,Nganjuk
+139,1,139,Kawedanan
+140,1,140,Madiun
+141,1,141,Wonoasri
+142,1,142,Ngantru
+143,1,143,Cimahi Utara
+144,1,144,Tambun Selatan
+145,1,145,Padang Hilir
+146,1,146,Sibolga Selatan
+147,1,147,Percut Sei Tuan
+148,1,148,Medan Deli
+149,1,149,Dwikora
+150,1,150,Pancur Batu
+151,1,151,Dolok Batu Nanggar
+152,1,152,Kuranji
+153,1,153,Bungo Pasang
+154,1,154,Pariaman Tengah
+155,1,155,2 X 11 Enam Lingkung
+156,1,156,2x11 Kayutanam
+157,1,157,Tanjung Harapan
+158,1,158,Lubuk Linggau
+159,1,159,Sako
+160,1,160,Jakabaring
+161,1,161,Sawah Brebes
+162,1,162,Prambanan
+163,1,163,Karangawe
+164,1,164,Padangan
+165,1,165,Semarang Utara
+166,1,166,Welahan
+167,1,167,Mangunjiwan
+168,1,168,Kota Bumi
+169,1,169,Sungkai Utara
+170,1,170,Kedamaian
+171,1,171,Beringin Raya
+172,1,172,Baturaja Barat
+173,1,173,Buay Pemuka Peliung
+174,1,174,Lubai Ulu
+175,1,175,Baturaja
+176,1,176,Brebes
+177,1,177,Panjang
+178,1,178,Kartasura
+179,1,179,TambakSari
+180,1,180,Kejaksaan
+181,1,181,Kedawung
+182,1,182,Kesambi
+183,1,183,Cimenyan
+184,1,184,Pecuken
+185,1,185,Tembung
+186,1,186,Bogor Selatan
+187,1,187,Parung Panjang
+188,1,188,Cikampek
+189,1,189,Ciawi Gebang
+190,1,190,Patikraja
+191,1,191,Tanjung Priok
+192,1,192,Bojong Gede
+193,1,193,Karawang Timur
+194,1,194,Sindang Barang
+195,1,195,Rangkasbitung
+196,1,196,Pancoran Mas
+197,1,197,Tambun Selatan
+198,1,198,Cipayung
+199,1,199,Cibungbulang
+200,1,200,Tambun Utara
+201,1,201,Duren Klari
+202,1,202,Cibereum
+203,1,203,Sawangan
+204,1,204,Pasar Minggu
+205,1,205,Pasar Rebo
+206,1,206,Pulobrayan Bengkel
+207,1,207,Tenjo
+208,1,208,Margaluyu
+209,1,209,Pancoran
+210,1,210,Pandeglang
+211,1,211,Singojuruh
+212,1,212,Dringu
+213,1,213,Jati Rogo
+214,1,214,Mayangan
+215,1,215,Pakusari
+216,1,216,Kanigaran
+217,1,217,Sumbersari
+218,1,218,Kiaracondong
+219,1,219,Kedungbanteng
+220,1,220,Semampir
+221,1,221,Taman
+222,1,222,Blendungan
+223,1,223,Bandar Jaya
+224,1,224,Purwokerto Barat
+225,1,225,Talang
+226,1,226,Kebak Kramat
+227,1,227,Bumi Panyawangan
+228,1,228,Pasar Kemis
+229,1,229,Tebet
+230,1,230,Nusawungu
+231,1,231,Mlati
+232,1,232,Pataruman
+233,1,233,Pagar Agung
+234,1,234,Sukarame
+235,1,235,Banjar
+236,1,236,Cicendo
+237,1,237,Ciamis
+238,1,238,Pantian Woro
+239,1,239,Depok
+240,1,240,Cibatu
+241,1,241,Cikeungjing
+242,1,242,Klaten Utara
+243,1,243,Gedongkusuman
+244,1,244,Rancasari
+245,1,245,Antapani
+246,1,246,Batu Nunggal
+247,1,247,Kebumen
+248,1,248,Kutorajo
+249,1,249,Purwarkarta
+250,1,250,Taragong Kidul
+251,1,251,Polokarto
+252,1,252,Plaju Darat
+253,1,253,Cilodong
+254,1,254,Geyer
+255,1,255,Klari
+256,1,256,Ujungberung
+257,1,257,Manonjaya
+258,1,258,Parongpong
+259,1,259,Jember
+260,1,260,Medan Denai
+261,1,261,Sampiran Talun
+262,1,262,Kramat
+263,1,263,Wangon
+264,1,264,Prajurit Kulon
+265,1,265,Kanor
+266,1,266,Bandung Kulon
+267,1,267,Tamansari
+268,1,268,Alang-alang Lebar
+269,1,269,Padang Utara
+270,1,270,Indralaya
+271,1,271,Pauh
+272,1,272,Plaju
+273,1,273,Geneng
+274,1,274,Kalipuro
+275,1,275,Karawang Barat
+276,1,276,Binjai Timur
+277,1,277,Binjai Selatan
+278,1,278,Padang Panjang
+279,1,279,Kradenan
+280,1,280,Genuk
+281,1,281,Grabag
+282,1,282,Kutoarjo
+283,1,283,Mirit
+284,1,284,Berbek
+285,1,285,Wagir
+286,1,286,Tanjung Rejo
+287,1,287,Pakishaji
+288,1,288,Sematang Borang
+289,1,289,Kartoharjo
+290,1,290,Padang Barat
+291,1,291,Pejagoan
+292,1,292,Jatilawang
+293,1,293,Gedong Tataan
+294,1,294,Nan Sabaris
+295,1,295,Perak
+296,1,296,Kranjean
+297,1,297,Krembung
+298,1,298,Menteng
+299,1,299,Ciampea
+300,1,300,Tanjung Bintang
+301,1,301,Mangunharjo
+302,1,302,Cikampek Utara
+303,1,303,Kedaton
+304,1,304,Gedong Meneng
+305,1,305,Pekuncen
+306,1,306,Medan Tuntungan
+307,1,307,Gelumbang
+308,1,308,Unknown

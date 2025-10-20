@@ -1,0 +1,697 @@
+employee_id,children_name,partner_id
+1,Salsabillah Putri,1
+2,Nasywa Kholda,2
+254,Salsabila Windyani,254
+254,aditya rahman fahrezi,254
+254,zoffi haida rahman,254
+3,Fadia Ramadani,3
+3,Fadilah Nur Romdona,3
+3,Fadlan rizki pratama,3
+4,Mey Rachmawati,4
+5,Regita Rustira Melia,5
+6,Muhammad Idham Chali,6
+7,Dimas Sidiq Waskito,7
+7,Dhia Ghaisani,7
+8,Aqila Putri Mayadhi,8
+9,Anugrah Bintang Prat,9
+9,Kirana Isna Ramadhan,9
+10,Muhammad Arkan Al Gh,10
+11,Muhammad Rayyan Hafizh Aprilianto,11
+11,Clarysa Islami Putri Yulianto,11
+13,Thoriq Ranjas Muhaimin,13
+14,Adinda Putri Pratama,14
+14,Muhammad Arhan Hafiz,14
+73,Mira Sofiani,73
+73,Faramir Diputra,73
+15,Abdul Qodir,15
+15,Muhammad Nur Hidayat,15
+16,Moradiva Qolbu Purba,16
+16,Inez Haura Sakhi Purba,16
+17,Jeremy Averio Naibaho,17
+17,Jeevan Theodore Naibaho,17
+17,Jordan Barton Naibaho,17
+18,Rahma Widya,18
+18,Fandi Wirayudha,18
+18,Rahma Yulia,18
+19,Dhea Fitri Handayani,19
+19,Defani Astuti Jamil,19
+19,Devi Ermi Jamil,19
+20,Angga Purnomo,20
+20,Muhammad Risqi,20
+20,Hafizh Apriyan,20
+21,Randika Pratama,21
+21,Adinda Putri Purnama sari,21
+22,Intan Pitaloka,22
+22,Hanifah Wira Aliyya,22
+22,Arif Maulana Wirawan,22
+23,Tasya Safitri,23
+23,Syahra Safri,23
+24,Karin Selsilia,24
+24,Muhammad Hardiansyah,24
+24,Citra Aprilia,24
+25,Bima Suseno,25
+26,Rifqi Aditya Wibowo,26
+26,Muhammad Aqil Wicaks,26
+27,Raisha Bintang Kuncoro,27
+27,Nazwa Rinda Dwi Kuncoro,27
+27,Raffasya Athaya Alfarizqi,27
+28,Sakhiya Raisa Andrea,28
+29,Eshan Evanto Assyauqi,29
+29,Farrez Yusuf Alhanan,29
+30,FENI NOVIA ANGGRAINI,30
+31,Muhammad Anggun Novriadi S,31
+74,Ahmad Fauzi,74
+74,Reza Saputra,74
+32,MUHAMMAD AL AWZA'IY,32
+32,Nida Al Hafizhah,32
+32,Syakira Az Zahidah,32
+33,Yusra Fadhilah,33
+33,uzunu khaira,33
+33,Erza,33
+34,Aulil Fatimah Az Zahra,34
+35,WIJI AFAN NAUFAL DERI ABRIKA,35
+35,Bagas Deri Wiji Pramudito,35
+35,Bagus Deri Wiji Pramudya,35
+36,Gilang Syahrtu Ramadhan,36
+37,Yudha susanto,37
+37,Nurina Fitriani,37
+38,Tessa Aida Trisna,38
+38,Tesy Muhardina,38
+39,Keysha Berliana Sard,39
+39,Vania Bernika Sardi,39
+39,Zafran qaisardi,39
+40,Ayudiah Salsabila,40
+40,Najwa Kartika Syifa,40
+41,Ari Ryansa,41
+41,Dinda Ayu Antika,41
+42,Agung Ahmad Prayoga,42
+42,Aditya Dwi Prayepta,42
+43,Edo Fajar Prakoso,43
+43,Tyas Wahyu Saqinah,43
+44,Niken Puspa Maydikna,44
+44,Nicko Martien Firmansyah,44
+45,Novita Murti Ningrum,45
+46,Naizsylla Zahra Adhi,46
+46,Listiya Arsa,46
+46,Arfan Putra Utomo,46
+47,Wiji Nurdiansyah,47
+47,Dewi Nursinta Muliani,47
+48,Zainul Wildan,48
+49,Den Arif Triadi Dara,49
+49,Destia Julianti Dara,49
+50,M Supriyanto,50
+50,Zelvie Triwidia,50
+50,Fegie Destria,50
+51,Tri Handayani,51
+52,Matsa Asywaq Mudhiah,52
+52,Alma Sayyidah Claris,52
+53,Danu Yoga Taruna,53
+54,Muhammad Rafif Pratama,54
+55,Testa Putri Aulandar,55
+55,Amelia Putri Marlina,55
+57,Muhamad Rizki,57
+57,Faturahman Akbar,57
+58,Ibra Abidal Gusha,58
+59,Muhammad dzaki,59
+59,Rasyidan Akmal,59
+60,Annisa Agustina,60
+61,Lola Amaliya,61
+61,Wildan,61
+62,Rizka Tiara Citra,62
+63,Muhammad Wildan,63
+63,Muhammad Abyan Haqqi,63
+64,Bimasena Yudhistira,64
+65,Cini Rembulan,65
+65,Halya Saba Tini,65
+66,Nia Ramdhani,66
+66,M. Faqi Ardiyan,66
+67,M. Noufal Febuarrahm,67
+68,Gibran Rafa Pradipta,68
+68,Ghazala Nashwa Alfiy,68
+69,Reynanda Taufiqurrah,69
+70,Sendhy Dimas Saefull,70
+70,Syafa Putri Raisya,70
+71,Muhammad Renata Fairuz,71
+71,Muhammad Rizqi Fauzan,71
+71,Myesha Allesya Zahra,71
+72,Putri Arrumi,72
+75,Siti Badriah,75
+76,Rafli Arisandi Prata,76
+76,Risma Aristiani Putr,76
+76,Rival Ahnaf Baihaqi,76
+77,Delia Anggraini Purnamasari,77
+77,Siska Agustina,77
+78,Syafa Lintang Fadela,78
+78,Khalis Khairul Hadza,78
+79,Zahrotu Syita,79
+79,Muhamad Guntur Saput,79
+80,Althaf Abrisam Nawaf,80
+80,Danesh Assyifatu Hai,80
+81,Raziq Fadjirian,81
+81,Khairani Nurul Syabi,81
+81,Nayra Shanum Triyani,81
+82,ARIF,82
+82,Mohamad Nabil Fauzan,82
+83,Ivander Asmara,83
+83,Thalita Asmara,83
+83,Ayra Dewi Asmara,83
+84,Aura Febi Rahmawati,84
+84,Nuriesta Novianti Pu,84
+85,Fadhil Rizq Fauzan,85
+85,Ghazy Faiz Razan,85
+86,Reva Yulintan Puri A,86
+86,Ola Mardika Puri Dwi,86
+87,Washlihatur Ridho,87
+87,Sholichatun Nawa,87
+88,Farhan Setyo Mrih Husodo,88
+88,Afrizal Setya Pamungkas,88
+89,Intania Fadya Safitr,89
+89,Raffi Syahbani Akbar,89
+90,Fidelyano Ifza Brian,90
+90,Nikita Erlyana Alenta Putri,90
+91,Adistioothrun Nada,91
+91,Muhammad Adrauf Ayyasi,91
+92,Elfano Akbar Adinata,92
+93,Novecha Rachma Prynd,93
+94,Khansa Dayyana Shabr,94
+95,Rifki Arfananda Pras,95
+96,Faizal Rizal,96
+96,Adinda Alifia Assa F,96
+97,Nazwa aulia safitri,97
+98,Khansa Qonitah,98
+99,Adhitya Valentino,99
+100,Dion Cigra Ramadhan,100
+100,Challysta Cinta Adinditya Putri,100
+101,Sabrina Sakhi Naomi Azzahra,101
+101,Pandega Sakha Abiyan Hidayat,101
+102,Novita Ardhia Pratiwi,102
+102,Ardhia Dwi Pangga,102
+103,Dauna Gemy Maisha,103
+104,Muhammad Thoriq Nurcahyo,104
+104,Fadillah Hunafa Nurcahyani,104
+105,Michaela Adilla Martha Pradhana,105
+105,Arshaka Virendra Pradhana,105
+105,Kairha Anila Pradhana,105
+106,Muhamad Ilham Rahmat Saputra,106
+106,Rafif Arkan Nirwasita,106
+107,Fazia Maharani,107
+108,Agatha Firda Nur Yudiana,108
+109,Dinda Ramadhan,109
+110,Dafa Siswanto,110
+110,Septy Arum Melati,110
+111,Herjuno Srinarendra Wicaksono,111
+111,El Fatih Alvarendra,111
+112,Nihlah Adelistiani Putri,112
+112,Sevi Putria Nurohmah,112
+113,Hani Pratiwi,113
+114,Henggar Wahyu Pradana /ldriver rentalulus SMK/,114
+115,Deanisa Adonia Rahma,115
+115,Raid Abdurrahman Rafif,115
+116,Salma Novelinda Almas,116
+116,Salwa Elysia Zuhayr,116
+117,Maulana Afan Rachmansyah,117
+117,Maulana Afin Rachmansyah,117
+118,Yustac Miftachul Huda Fi Ali,118
+118,Zelda Farelia Yusuf,118
+118,Hiro Kenzie Farelino,118
+119,Muchamad Reza Dharma Putra,119
+120,Gege Jayyin Muhammad,120
+120,Galan Zaki Muhammad,120
+121,Atiqah Izzatunnisa Turizah,121
+121,Almahyra Alsha Turizah,121
+122,Salma Andri Shaliha,122
+122,Dzaki Andri Firdausi,122
+122,Kaysa Andri Adzkiya,122
+123,Ghifahry Pratama Putra Iswadi,123
+124,Damar Wahyu Firmansya,124
+124,Cinta Tri Wahyuningsih,124
+125,Rizky Alvieno Putra Pratama,125
+126,Mochamad Ardiansa,126
+127,Venyla Ivadianis,127
+127,Novrida Fitrianatasya,127
+128,Almira Andra Artanti,128
+32,DAUD ADNAN AL MUBARAH,32
+129,Maulinda Aprilia,129
+129,Naura Cila Novianti,129
+129,Muhammad Maulana Rizki Ariyanto,129
+129,AL FAIZDHIL HAFIZ APRIANTO,129
+319,Zidna Azkyatul Fahiroh,319
+319,Putri Ameera Zoya Annayla,319
+130,Zio Rama Hamizan,130
+131,Vicky Galang Satria Farhan,131
+131,Vannes Novia Tiara Farhan,131
+131,Nikko Tri Sasmitha Farhan,131
+132,Arif Roi Putra Pamungkas,132
+133,Nadya Trisna Gumilar Rizki,133
+134,Ernawati Samosir,134
+134,Martha Friska Samosir,134
+135,Faeyza Khairan Gibran,135
+135,bryan abrisam elmeer,135
+136,Yulia Dewi Anggraeni,136
+136,Raffi Rafsya,136
+137,Ayu Fatikah Rahma,137
+137,Nailah Nasyawa,137
+157,Arshaq Zafran Alfariq,157
+138,Ayasha Halwa Zafirah,138
+139,Sabilla Firdaus dwi purwanto,139
+140,Mita Kumalasari,140
+141,Narulita Elviana Rahayu,141
+142,Meiko Dwi Aji Nur Kuncoro,142
+143,Dino Sanjaya,143
+143,Ratih trisa Amelia,143
+144,Edriansyah Alif Putra Purwanto,144
+144,Audriansyah Rahmadhila Putri purwanto,144
+157,Asiah Elz Sita Anggraini,157
+157,FELISHA HANANIA,157
+145,Muchammad Arifin,145
+145,Muchammad Alfan,145
+145,Muchammad Ikhsan Maulana,145
+146,Dimas Saputra,146
+146,Meilani Ananda Putri,146
+147,Adiza Zahra Firdausy,147
+147,Syifa Aulia Ramadhani,147
+148,Fairel Atharizz Hanan,148
+148,Hanin Dhatu Keshwari,148
+149,Septian Dwi Firmansyah,149
+150,Nur meldiana,150
+151,Audina Okta putri,151
+151,Disty Vella Zaneta,151
+152,Risma Quinara Raharjo,152
+152,Naura Azzahra Salsabillah Raharjo,152
+153,Keisya Aurelia,153
+153,Khairus Zain Ramdhani,153
+154,Geby Dwi Valensia,154
+155,Ravasya El rafif Santoso,155
+155,Risvayana Az Zuhkrufa Santoso,155
+178,Akira Rafif Al Biruni,178
+158,Dimas Bintang Wicaksono,158
+159,Keisha Farras Aberico,159
+160,Nabila Anindya Falichah,160
+161,Lia Fitriana,161
+161,ZHAAFIRA SEVTYA NINGRUM,161
+161,Ekky Novita Dewi,161
+162,Naufa Zahrana,162
+162,SANIA ZAHRA NABILA,162
+163,Arfhan Masna Prasetyo,163
+164,Achmad Wahyuan Trisnanda,164
+165,Aditya Rafeal Tri Shaktar,165
+166,MUHAMMAD ANGSAN AL KAUTSAR,166
+166,Muhammad Ziyad Al Barra,166
+167,Ugi triyanto,167
+168,Elvira Ignasius BR sembiring,168
+168,Fran Fernando Sembiring,168
+169,ANDHARA KIRANA MAHESTRI,169
+169,Adam Khalid Akbar,169
+170,Siti Nurafni,170
+170,Inayah Syafitri,170
+171,Fary El Muaffin Simatupang,171
+171,Ryfa Adni Putri Simatupang,171
+171,Ryfa Zakira Simatupang,171
+172,Khafie Arian Siddiq,172
+172,Abian Rafish Siddiq,172
+173,Rahmad Hafiz,173
+173,Nazrey Fauzan Bahy,173
+173,Mirza Al Ghany,173
+174,Teguh Prasetya Ginting,174
+174,Wira Yudha Pratam Ginting,174
+174,Restu Rotamana GInting,174
+175,Viky Prasmana Agung,175
+175,sabrina Hidaya,175
+175,Sufi Hanifa,175
+176,Siti Nurhasanah,176
+176,Galang  Dwi Nugroho,176
+177,Livia Nurul Syafitri,177
+177,Visha Juan Syafitri,177
+178,Cucu Arif Mukhtiwarman,178
+179,Anugrah Pratama Allin,179
+180,Rufaidal Ansahri,180
+180,Qatrunada,180
+180,Oktafia Suryani,180
+181,Anisa Kharisma Yanti,181
+423,Muhammad Zaki,423
+182,Dinar Irfanda,182
+182,Zacky Ibrahim,182
+183,Chici Defril Triatna,183
+183,Pipit Defril Triatna,183
+184,Hafizhah Permata Puteri,184
+184,Muhammad Furqon,184
+185,Doni Pranomo warsito,185
+185,Dyah Pratiwi Warsito,185
+186,Olivia Gracia Margaretha,186
+187,Agnes Wanda Mariska,187
+187,Lionel Rizki Ramadhan,187
+188,Rey Pratama Stiawan,188
+189,Salwa Fadia Novariana,189
+189,Zaidan Abel Pranaja,189
+190,Barra Putra Perdana,190
+190,Tristan Askarullah CR,190
+191,Calvin Luisa Fernanda,191
+192,Yusda Satria Inka,192
+193,Randya Tuzza Ramdhani,193
+194,M Rizky Nurholis,194
+194,Winda Ayu Suratih,194
+195,Keysha Azhara Nathania,195
+196,Raditya Abidil Putra Pratama,196
+196,Nandhita Fatina Z,196
+197,Bunga Marchelia hadi,197
+197,Faruq Irfanul Hadi,197
+198,Dilan Mulia,198
+198,Muhammad Rizki,198
+199,Gibran Naufal Nurrahman,199
+199,Sekar Eiliya Nismara,199
+199,Erina Shafa Nismara,199
+200,Angga,200
+200,Syifa Nurdiana,200
+200,Syafira Rahma Dini,200
+201,Dira Nanda Nabila,201
+202,Fahrizal Firmansyah,202
+202,Friska Dian Novita,202
+203,Favian Felix Suprastyo,203
+203,Rakha Prayoga Suprasetyo,203
+204,Chandra Dwi Kusuma,204
+205,Nabila Verdiana,205
+206,Tristan Allegra Timor,206
+207,Diga Sanjaya,207
+208,Muhammad Rahman Fathoni,208
+208,M. ILHAM,208
+238,M ilham,238
+209,Bela Anjela,209
+209,Jesika Dwi Nanda puspa Anjela,209
+209,Klodia Anjela,209
+210,Rini Aufaliliani,210
+210,Rizka Margareta,210
+240,Ananda Aulia Wahyuni,240
+240,Nuralia Putri Wahyuni,240
+211,Sandi Perdian Putra,211
+211,Nadia Putri Veriani,211
+212,Muhammad Satriyo Abdi,212
+212,Syifa Zahra Utami,212
+213,Aprilyta Arisya,213
+213,Rasyid Al Abid Delfa,213
+214,M Ikhsan Prasetyo,214
+214,Alenavela,214
+215,Az Zahra Adellia,215
+215,Mas Syahmil Anugrah fizi,215
+216,Aqillah Esmeralda,216
+217,Oktafiani masinah,217
+217,Rizki M Farhan,217
+218,Daffa Roinan fauzi Farras,218
+218,Khafi fauzan Hafidz,218
+219,Nuuru Aqsa Rachmawati,219
+219,Chairunisa Putri,219
+220,Erdi Taruna Perkasa,220
+220,Adji Permana,220
+220,Wira tri Nugraha,220
+220,ARYA WIBISONO,220
+221,Nur ajizah suryani,221
+222,Yulia Anggraeni,222
+223,lautza Syafura Syaits,223
+224,Suprayoga Pangestu,224
+225,Rizki Saputra,225
+225,Nuraeni Haryati bvalid,225
+226,Wahyu Putra Pamungkas,226
+226,Adi Nugroho Jakti BValid,226
+227,Farah Amalina Firzana,227
+227,Luthfi Raditya Zaidan,227
+244,muhammad galih pratama,244
+244,gibran budi presetio,244
+228,Thoriq Aziz Mushoffa,228
+228,Hilmy Aziz Ulinnuha,228
+228,Rakha Aziz Mubarok,228
+229,MARYAM FILDZAH,229
+229,ALYSHA CHAIRA,229
+229,MUHAMMAD ADZAM,229
+230,ayra putri khaliqa dzahin,230
+231,salman alfaritsyi,231
+232,fina diniyanti,232
+233,azza alghifari,233
+234,safa adelia jelita,234
+235,waode kamelia oktavia,235
+236,heni herawati,236
+237,rajali ananda firsi,237
+237,syalwalia ananda firsi,237
+238,muhammad rizqy ramadhani,238
+239,zena Apriana,239
+239,rena restiana,239
+241,fajri rizki ramadhan,241
+241,Kastijan,241
+242,muhammad ozil ilham,242
+242,Anggie Martha,242
+243,rafael niki putra sigit,243
+245,muhammad aditya pratama,245
+245,muhammad hanif al ghifari,245
+246,rizkya cahya lestari,246
+246,fiqih maulana yusuf kurniawan,246
+247,amanda sekar,247
+248,Dyah Putri Angraini,248
+248,Amanda Syifa Dwi Anggraini,248
+248,raysya nugraini azzahra,248
+249,rafik hidayat,249
+250,septiarani yusman,250
+250,Balkis Tiara,250
+251,hafidzah nur radhwa,251
+252,bagas wijanarko,252
+252,carissa lirana putri,252
+253,evi apriani,253
+255,tb sulhan,255
+255,TB Maulana Rifky Aditya,255
+256,farold abigail saragih,256
+256,audrey yesa lonika,256
+257,muhammad fajar,257
+257,syaidu akbar,257
+257,nazua aulia suhada,257
+258,muhammad fadly,258
+258,putri aryanti,258
+258,Sahrudin,258
+259,baitin ilafah,259
+259,Khusnul Fajar,259
+259,kusnul Fajrina,259
+260,bayu kusmaedi,260
+260,danu septa kusuma,260
+260,azmi firdaus,260
+263,Vara Yuniar Abela,263
+264,Muhamad muklas,264
+303,Waffiq Hayyan Salamul Ghazy,303
+303,Jaddid Ayyadna Ghalibul Ghazy,303
+266,ANINDIA DEBIRA KUMALAHSARI,266
+305,Isayu Awiya Hasanah,305
+268,Agit Kafi Nur Afan,268
+268,Helga Ruly Hartita,268
+268,Dhegita Nancy Ruliyaputri,268
+269,NARATAMA KEENAN EDOGAWA,269
+270,Muhammad Vikri,270
+270,Aisah Amalia,270
+271,Muhammad Rizky Irsyad,271
+271,Aurora Khairunissa,271
+271,Muhammad Raihan Rasyid,271
+272,Jihan Aqmarina Mumtaaza,272
+272,Muhammad Raffa S P,272
+272,Vania Tri Purnama,272
+273,tita aulia sany,273
+274,Muhammad iqbal novarianto,274
+275,aristian candra mualim,275
+276,Dani,276
+276,Dhadan Ramdhany,276
+276,Alya Afifa widhan,276
+277,Taufik Hidayat,277
+277,Sri Devi Rosalina,277
+278,Rizma Dita Cahyani,278
+278,Hanif Tri Yuniar,278
+279,Fadlan Ananda Rizky,279
+279,Haikal Azhar,279
+279,Arbian Herwinda Faiko,279
+280,Faaris Syaifullah,280
+281,Novia Ega Putri,281
+282,Nadira Silmi Alifah,282
+282,Nayla Alillatulbariza Izzaty,282
+283,Nadila Azzahra Ritonga,283
+284,Nur Ismah Salsabila,284
+284,Shabrina Luthfiyah,284
+284,Sahila Ananada Toti SalShabrina,284
+285,Andy Reysa Nugroho,285
+286,Muna Ridadatul Aisya,286
+287,Salsa Marsela Mahpudin,287
+287,Shidiq Mutaqin Mahpudin,287
+288,AJENG MELVI RIANTI S,288
+288,Bima Dzaki Santoso,288
+288,Rai Pranaja Santoso,288
+289,Azzahra Qurota Aini,289
+289,Dawam Nugraha,289
+290,Indah Arum Sari,290
+291,Syifa Khairunisa,291
+292,Muhammad Raffa Husein,292
+292,Keiyla Fakhira Husein,292
+342,Nadila Febyanti,340
+342,Shikia Nafia Azizah,340
+343,Vivi Nurul Ismi,341
+344,Reival Nur Ihsan,342
+345,Vrisko Prasetya,343
+346,Eca Aditia Rifa,344
+346,Refa Aditia Nur,344
+346,Restu Aditia Octaviani,344
+347,M Hauvanza Almeer,346
+348,Pradybta Yenaya,347
+348,Nadira Dinar Asyifa,347
+349,MOCH. FANI IRSADI,348
+349,MOCH. HADI IRAWAN,348
+350,Raifan Tri Al Hakim,349
+358,Radiah Imanda,357
+359,Amellia Zulkira,358
+359,Adytia Fajar Zulma,358
+360,IQBAL DANISH FIANDY,359
+361,Azkha Ananda,360
+361,Muchammad Bintang,360
+361,Zoya Az Zahra,360
+362,Muri Nur Anisa,361
+300,M Andicka Saputra,300
+300,M Fahri Kurniawan,300
+300,Dina Oktaviana,300
+364,Arshaka Senandika Kresna,363
+365,Mohammad Irfan Anwar,364
+366,Wildan Athaya Fattan P,365
+366,Ghibran Aswindra Akmal P,365
+367,Zamara Nayuria Mars,366
+368,Ahmad Khalid Febrianto,367
+369,RAJENDRA PUTRA,368
+369,DIANDRA PUTRI,368
+370,Gatot Wibowo,369
+371,Rengganis Handini Wijaya,370
+371,Mutiara Paramita,370
+379,Arfan Tribudiman,377
+385,Irwansyah,383
+395,Alfia Wardah,393
+396,Ibrahim Ibnu Maharto,394
+397,Salma Astuti,395
+397,Fajar Muhammad,395
+398,Zalfa Al Zena,396
+399,Farid Nurfadillah,397
+400,Nur Azizah,398
+374,Budiati Purwaningtyas,373
+401,Silvia Triana,399
+402,Tegar Jati Nugroho,400
+403,Dwi Cahyono,401
+404,Keyla Mauren,402
+316,Wahyu Septianto,316
+12,Eliana Putri Aryajaya,12
+12,Helena Citra Aryajaya,12
+156,AKIRA RAFIF AL BIRUNI,156
+156,KITARO ARKANA ARSYAD,156
+216,AQILAH ESMERALDA,216
+340,MARISA IRDA MARNI,339
+265,SOLEHATUL AINAL FITRI,265
+260,FAHRI AL FAHRIZI,260
+293,DENAYA FERRARI NOVAL AGATRA,293
+322,ANDRIANTO,322
+301,KAMILIA NURKHAN,301
+294,DENZEL TOYIBA ANUGRAH,294
+295,LISNA FEBRIANINGSIH,295
+296,ANDIKA MAULANA,296
+299,RIFKY AZKA FEB,299
+298,RAIHAN FEBRIANSYAH,298
+298,REFAN FIRMANSYAH,298
+302,CHINDY ADISTYA,302
+304,MUHAMMAD DAFFA ALTHAF PURNAMA,304
+307,RYAN KUSUMAWARDHANA,307
+311,ARYO TRIPUTRA,311
+309,AKBAR PRASETYO,309
+310,ASSYFA LAYLA NABILA,310
+314,RASKI FAZIL MARYANDHI,314
+315,TAZKIYA NISA NURLILLAH,315
+315,MUHAMAD IZZUL MUTTAQIIN,315
+306,JELMA LIFA AGUSTI,306
+306,MEDINA AQSHALITA AGUSTI,306
+316,FAIREL ATHARIZZ CALIEF,316
+317,ARSEN AL FARIZI,317
+318,RHEA HANIFA AWANDITA,318
+318,MUHAMMAD GELENDRA ALFARISQY,318
+320,MUHAMMAD KHUSAIRI ILHAM,320
+320,MUHAMMAD SYAHRIAL IKHRAM,320
+321,SELLA FITRA SEPTIANA,321
+321,ELIFINA RAFFAZA PUTRI,321
+323,AN NAJMA NOURA SAEPULLOH,323
+329,SALMA WIDYA LESTARI,329
+330,NAUFAL SHIDQII RAMDHAN,330
+330,SHIDQIA INARA PUTRI,330
+330,SHIDQIA YHARA ALMAHYRA,330
+325,REYNALIEF PRIMAWISESA,325
+324,PRAMUDYA RAMDANI,324
+340,RIFQI ZAHID FEBRIAN,339
+326,RIZKI NOVIA RHOMADANTI,326
+326,MOH. ARIF SEPTIANTO,326
+313,AILSHA SHABILA,313
+313,Ramdhan Adjie Pratama,313
+327,INTAN MULYANI,327
+328,GHILYANA MAURITS,328
+328,LUTFI BAEDUDI RAMADHAN,328
+328,KANZA SHAFIRA MARITZA,328
+328,ZABDAN FATIH NURI FAEYZA,328
+333,BAYU NOVAL RENALDI,332
+339,MUHAMMAD DZAKY BIAIFIS,338
+339,VANIA KEYSHA ARAFAH,338
+334,GENDIS RARASATI NAJMUSABAH,333
+334,GHUMAISSA NAWANG,333
+331,FADEL MUHAMMAD ISRO,331
+335,MARSELLA ROSARI,334
+336,YUVITA NURKAMIN,335
+336,ALISSYA DWI NURANGGREINI,335
+337,NATHANIA LATISHA MAHESTRI,336
+337,FABIAN SHAWQI,336
+338,MUHAMMAD ZIDAN FATHURROHMAN,337
+338,MUHAMMAD FARHAN RAMADHAN,337
+408,AJUNA MANDALA AZYANO,345
+356,ADINDAR SETIAWAN,355
+351,SONYA FATIRA ADELIA,350
+352,NAZWA SALSABILAH W,351
+353,MUHAMMAD AGHA ALTHAF,352
+353,NADHIEF ARSHAKA YUSUF,352
+357,YASNIVA AGNES,356
+373,ANISSA,372
+409,NOVI FITRIANINGRUM,407
+409,NAUFAL RIFKI KAMID,407
+393,KEICIPTA AYUNING LINTANG,391
+394,MAULANA MALIK IBRAHIM,392
+380,FAIRUS ZULKIYAD DIMYATI,378
+380,IZDHAR AGUSTIN DIMUATI,378
+392,ANNISA NURMALITA,390
+382,DEWA BAGUS PUTRA YUDHISTIRA,380
+382,DEWI AYU CINTA APRILIA,380
+410,MUHAMAD ABYAN SYAKIR,408
+381,RIDHO NGALYYA EL ROSYID,379
+388,SITI MUFIKAH MUADZATUL,386
+389,M. SULTAN FANDHI SYAUQI,387
+391,KHALIMATUS SA ' DIYAH,389
+383,M. EXCEL ALFARISI,381
+384,nadia diva zulaikha,382
+384,NABILA TSANIYA FAZA,382
+384,RAJENDRA ZAFRAN,382
+387,SOFIA MASITAH,385
+390,MUHAMMAD RANDI FADILAH,388
+390,ATHALLAH,388
+411,RAFA ANUGERAH BHAYANGKARA,409
+412,NOVIANI,410
+412,FEBRIADY,410
+412,FATHIYYAH,410
+413,DIMITRI BRYANT IVANOV,411
+414,M. AVAN DWI ADI NUR KHOLIQ,412
+414,AEIRIL YN BELLVANIA ZAAFARANI,412
+415,SUMBI GARINTIS,413
+415,HILDARA PUNGGAR,413
+411,RAGIL KURNIA RAMADHAN SOLIHIN,409
+416,ALICIA MAHARANI,414
+417,FAREL RISKI ADITIYA,415
+418,AKBAR ADITAMA,416
+407,MAHARANI WIDANINGSIH,406
+419,NAVISA HAPSARI,417
+419,FATHIIYA HANI AZKIYA,417
+419,MUHAMAD WAHYU KURNIAWAN,417
+420,ROYYAN HALI SATRIAN,418
+421,RENDY MALANDI,419
+422,NUR CHASANAH,420
+312,Galih Saputra Sopyan,312
+312,Gilang Prasetya Sopyan,312
+312,Galvin Nurazhar,312
+297,Diana Utami,297
+363,Aqila Zahwa Naadhira,362
+267,ANNISA AGUSTINA RAMADHANI,267
+386,Andra Caesar Saputra,384
+386,M Aidil Arafah,384

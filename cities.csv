@@ -1,0 +1,47 @@
+city_id,province_id,city_code,city_name
+1,9,1604,Lahat
+2,7,1871,Bandar Lampung
+3,4,3279,Banjar
+4,4,3273,Bandung
+5,4,3207,Ciamis
+6,6,3518,Nganjuk
+7,4,3274,Cirebon
+8,4,3205,Garut
+9,5,3310,Klaten
+10,2,3471,Yogyakarta
+11,4,3275,Bekasi
+12,6,3573,Malang
+13,5,3306,Purworejo
+14,5,3305,Kebumen
+15,4,3214,Purwakarta
+16,4,3271,Bogor
+17,5,3311,Sukoharjo
+18,5,3301,Cilacap
+19,6,3578,Surabaya
+20,9,1671,Palembang
+21,6,3579,Pasuruan
+22,4,3276,Depok
+23,5,3315,Grobogan
+24,4,3215,Karawang
+25,4,3278,Tasikmalaya
+26,6,3510,Jember
+27,10,1271,Medan
+28,5,3302,Banyumas
+29,6,3577,Madiun
+30,5,3373,Tegal
+31,6,3576,Mojokerto
+32,6,3522,Bojonegoro
+33,9,1619,Ogan Ilir
+34,8,1371,Padang
+35,1,3602,Lebak
+36,6,3521,Ngawi
+37,6,3510,Banyuwangi
+38,10,1275,Binjai
+39,8,1374,Padang Panjang
+40,8,1306,Padang Pariaman
+41,6,3525,Gresik
+42,2,3404,Sleman
+43,9,1603,Ogan Komering Ulu
+44,6,3517,Jombang
+45,6,3515,Sidoarjo
+46,3,3173,DKI Jakarta
