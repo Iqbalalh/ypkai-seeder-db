@@ -1,423 +1,424 @@
-nip_nipp,employee_name,death_cause,last_position,region_id,notes,employee_gender,is_accident
-40828,Sudaryo,,,12,,M,false
-42402,Widodo,,,1,,M,false
-49559,Dudi,sakit,,2,,M,false
-41192,Kamijan,,,1,,M,false
-47837,Sukia Aam,,,2,,M,false
-42578,Nyaman Budiono,,,5,,M,false
-46231,Mukti Aprijanto Wibowo,,,5,,M,false
-55568,Adhi Yulianto,,,5,,M,false
-48247,Sofyan Rosadi,,,5,,M,false
-55573,Agung Priyanto,sakit darah tinggi,,5,,M,false
-45484,Yulianto,,,8,,M,false
-43094,Sri Wijaya,meninggal di meja ppka,,6,,M,false
-50220,Je Sugala Kristiyono,sakit,,8,,M,false
-59834,Sutaman,,,9,,M,false
-49125,Kukuh Aryanto,,,9,,M,false
-69887,Bobby Purnama Purba,,,10,,M,false
-54008,Manuel Barton Naibaho,,,10,,M,false
-45209,Wahyudi,,,10,,M,false
-1012247,Ermiwati,,,11,,F,false
-47760,Mispat,,,13,,M,false
-51652,Rispan Harizon,,,12,,M,false
-51689,Waluyo,,,13,,M,false
-41776,Taufik,,,13,,M,false
-51682,Suhar,,,13,,M,false
-46643,Yadi Bin Abdul Ayub Zakaria,,,13,,M,false
-46623,Supriyadi,,,13,,M,false
-49051,Tri Kuncoro,,,13,,M,false
-75602,Khairul Andre,,,10,,M,false
-75608,Pambudi,,,13,,M,false
-39684,Heri Pontias,Kecelakaan KA,,13,,M,true
-36471,Sajidin,Kecelakaan KA,,12,,M,true
-51709,Tri Siswanto,Kecelakaan KA,,13,,M,true
-39699,Ahmad Busra,Kecelakaan KA,,11,,M,true
-50302,Mustofa,Kecelakaan KA,,7,,M,true
-56108,Rinda Bagus S,Kecelakaan KA,,7,,M,true
-56023,Samsul Asadi,Kecelakaan KA,,7,,M,true
-37221,Nurhadi Karyono,Kecelakaan KA,,8,,M,true
-39627,Darmansah,Kecelakaan KA,,11,,M,true
-45638,Irwan Sardi,Kecelakaan KA,,11,,M,true
-44865,Victor August,Kecelakaan KA,,12,,M,true
-38552,Kamisa,Kecelakaan KA,,3,,M,true
-44278,Madsari,Kecelakaan KA,,3,,M,true
-35445,Wahyudi,Kecelakaan KA,,1,,M,true
-43164,Agus Supriyadi,Kecelakaan KA,,4,,M,true
-59138,Nur Sodikin,Kecelakaan KA,,4,,M,true
-59110,Budi Utomo,Kecelakaan KA,,4,,M,true
-33554,Ujang Priyadi,Kecelakaan KA,,5,,M,true
-39284,Samidi,Kecelakaan KA,,5,,M,true
-46087,Den Aam Darajat,Kecelakaan KA,,2,,M,true
-51612,Sujarwo,Kecelakaan KA,,12,,M,true
-57680,Ribut,Kecelakaan KA,,13,,M,true
-42026,Irfan Affandi,,,2,,M,true
-30257,Sjarkowi,Kecelakaan KA,,13,,M,true
-19770322060,Zaswir Zakaria,Kecelakaan KA,,12,,M,true
-48970,Bambang Setiawan,Tertabrak KA,,2,,M,true
-46131,Dede Suhara,Tertabrak KA ketika Dinas,,2,,M,true
-42966,R. Kusye Mulyana Mursyid,,,2,,M,true
-58783,Agus Supriyatna,,,2,,M,true
-43130,Bambang Suwartono,,,2,,M,false
-58811,Agus Mulyana,,,2,,M,false
-45173,Rudi,,,10,,M,true
-48660,Musa Hermanto,,,12,,M,false
-66813,Kasmadi,,,12,,M,false
-73247,Ahmad Zainudin,,,5,,M,false
-57291,Suhairi,,,12,,M,false
-52461,Sumardi,,,12,,M,false
-41933,Sulaiman,,,14,,M,false
-57320,Agustiar Ashari,,,14,,M,false
-40271,Naryoto,,,14,,M,false
-41006,Saefudin Juhri,,,2,,M,false
-41081,Iman Picaso,,,2,,M,false
-62362,Akhmad Taufik,sakit,,3,,M,false
-44283,Didi Kusnadi,,,3,,M,false
-44355,Tjetjep Muljadi,,,3,,M,false
-50636,Atot Suharta,Sakit mendadak,,3,,M,false
-46148,Suwandi,,,3,,M,false
-46209,Sutardo,,,1,,M,false
-40340,Entus Koswara,,,6,,M,false
-58880,Aris Wianto,,,3,,M,false
-66517,Al Ikrom,,,3,,M,false
-40861,Slamet Riyanto,,,2,,M,false
-43350,Mohamad Tantowi Gani,,,15,,M,false
-50110,Indo Bangun Asmara,,,4,,M,false
-59077,Iwan Riyanto,,,4,,M,false
-43266,Andy Noor Khristianto,,,4,,M,false
-45756,Purwono,,,4,,M,false
-46031,Pendi,,,3,,M,false
-68737,Tarom,,,4,,M,false
-46661,Syaiful Bachri,,,10,,M,false
-43224,Soepriyanto,,,4,,M,false
-45781,Andi Kusworo,,,6,,M,false
-55393,Indro Budi Rasmawan,,,4,,M,false
-43170,Soeprijono,,,4,,M,false
-45786,Asep Romdhoni,,,4,,M,false
-45766,Lasmidi,,,8,,M,false
-41300,Jamal Fauzi,,,4,,M,false
-120109301,Anjar Sugianto,,,2,,M,false
-41985,Rudi Purnomo,,,2,,M,false
-48674,Amat Saiin,,,6,,M,false
-67135,Maryadi,sedang tidur,,6,,M,false
-53459,Putut Wahyudi Hidayat,sakit,,6,,M,false
-59480,Suwardi,,,6,,M,false
-63870,Restu Wijidihastu,"panjat pinang jatuh ke air lalu meriang setelah 4 hari lalu meninggal, pada saat anak 7 bulan",,6,,M,false
-42968,Rachmat Indarto Cahyo Santoso,"sakit kelenjar getah bening , tumor di testis.",,6,,M,false
-59315,Bayu Nur Wahyudi,sakit kena virus Air kencing tikus,,6,,M,false
-50033,Rahmat Sutapa,"kangker lipoma, lambung kadang sakit, sempat di bedah",,6,,M,false
-62505,Hari Maruf,,,6,,M,false
-41290,Muhammad Wahyudi,,,6,,M,false
-41287,Rudi Irawan,,,16,,M,false
-43504,Suharso,sakit stroke. 4 hari langsung meninggal,,16,,M,false
-58057,Suhendra Wacana,"tidak ada riwayat sakit, 2 minggu pusing lalu meninggal",,16,,M,false
-41289,Triyadi,,,16,,M,false
-41690,Maryanto,,,6,,M,false
-45968,Atabigh Hasan Mudhofar,,,6,,M,false
-62119,Rahmat Wahyudi,,,16,,M,false
-41516,Elya Surya Awinata,,,8,,M,false
-42074,Supangat,,,8,,M,false
-45337,Haipon Yusuf,,,8,,M,false
-45417,Widarto,,,8,,M,false
-45453,Heriyanto,,,8,,M,false
-48430,Agus Turino Januardi,,,8,,M,false
-48921,Andriyanto,,,8,,M,false
-48926,Yuli Iswadi,,,8,,M,false
-43001,Wahyudi Utama,,,8,,M,false
-51307,Mistar,,,8,,M,false
-51322,Aman,,,8,,M,false
-51327,Priyono,,,8,,M,false
-51354,Drajat Sulistiono,,,9,,M,false
-51412,Supriyanto,,,8,,M,false
-69206,Adifa Paramasya Pertiwi,,,8,,F,false
-51331,Kasihan,,,8,,M,false
-2020111,Sri Hartati,,,8,,F,false
-2020112,Yunis Sulatifah,,,8,,F,true
-2020113,Duma Enci Manulang,PLH Tewas,,10,,M,true
-72307591,Adiansyah,PLH Tewas KA turangga dan Lokal,,2,,M,true
-10123815,Enjang Yudi,PLH Tewas KA Turangga dan Lokal,,2,,M,true
-44749,Ponisam,PLH Tewas KA turangga Lokal,,2,,M,true
-64741,Julian Dwi Setiyono,PLHTewas KA turanga dan lokal,,2,,M,true
-43029,Joko Purwanto,,,0,,M,false
-43045,Sutisno,,,0,,M,false
-43287,Lukman Hakim,,,0,,M,false
-41791,Sugiharto,,,8,,M,false
-45415,Isyahfrulloh,,,8,,M,false
-48116,Edy Purwanto,,,8,,M,false
-48279,Muhammad Saiful,,,8,,M,false
-48692,Sampur,,,8,,M,false
-48788,Budi Iswanto,,,8,,M,false
-50371,Jamal Ludin,,,8,,M,false
-51319,Juremi,,,8,,M,false
-51373,Mukadi,,,8,,M,false
-56203,Supardi,,,8,,M,false
-59649,Sumatri Raharjo,,,8,,M,false
-59671,Achmad Tihan,,,8,,M,false
-59694,Dwiyanto,,,8,,M,false
-49280,Budi Santoso,,,8,,M,false
-53099,Fuat Ali Arsyad,Sakit meningitis,,7,,M,false
-50290,Muhammad Suryo Utomo,,,7,,M,false
-67312,Eko Nurcahyo,,,7,,M,false
-49415,Eka Yudha Putra,,,7,,M,false
-59634,Ebri Narbowo,,,7,,M,false
-59503,Basuki,,,7,,M,false
-49869,Taufik Nur Azis,,,7,,M,false
-62330,Suryo Agung Prasetyo,,,7,,M,false
-59583,Adi Sutrisno,,,8,,M,false
-45848,Suparno,,,7,,M,false
-46894,Agus Setiyono,,,2,,M,false
-20290903,Sularni,,,1,,F,false
-42624,Herman Farmando S,,,10,,M,false
-60581,Akbar Sumin,,,10,,M,false
-51079,Edy Sutrisno,,,10,,M,false
-56776,Rully Hermansyah Simatupang,,,10,,M,false
-56797,Teguh Sumardi,,,10,,M,false
-45172,Juli Hendri,,,10,,M,false
-59856,Mejuah Ginting,,,10,,M,false
-46651,Muhammad Hasyim,,,10,,M,false
-46692,Siswa Ramayana,,,10,,M,false
-39593,Firdaus,,,11,,M,false
-57080,Andes Niko Sinapil,,,11,,M,false
-67550,Zuirman Ali,,,11,,M,false
-42959,Sudirman,,,11,,M,false
-38707,Yasnimar,,,11,,F,false
-43649,Damisir,,,11,,M,false
-43627,Asril Rusli,,,11,,M,false
-39726,Syaifuddin,,,11,,M,false
-40278,Warsito,,,11,,M,false
-40759,Mangihut Simanjuntak,,,12,,M,false
-45073,Bono,,,12,,M,false
-67621,Rian Stiawan,,,14,,M,false
-57299,Jumardianta,,,12,,M,false
-57413,Erius,,,12,,M,false
-52478,Irwan Julianto,,,12,,M,false
-39380,Sayuti,,,12,,M,false
-39518,Ruslan,,,12,,M,false
-39493,Kaelan,,,13,,M,false
-39200,Azhari Munawar,,,13,,M,false
-59112,Didik Supriyanto,,,4,,M,false
-43926,Nur Syamsudin,,,4,,M,false
-43196,Sutrisno,,,4,,M,false
-55354,Bambang Nursianto Dediciptonugroho,,,4,,M,false
-45767,Wardi,,,4,,M,false
-39728,Kasrin,,,4,,M,false
-41814,Slamet Nuradzi,,,4,,M,false
-43309,Dwie Suprasetyo,,,4,,M,false
-41450,Sunarto,,,13,,M,false
-57681,Sakir,,,13,,M,false
-57683,Mohammad Dahlan,,,13,,M,false
-40720,Agus Syaifudin,,,13,,M,false
-40796,M Rasyid,,,13,,M,false
-51678,Surahman,,,13,,M,false
-60261,Jamaludin,,,13,,M,false
-39910,Ferizal,,,13,,M,false
-40211,Ujang,,,13,,M,false
-41421,Ruslan,,,13,,M,false
-41921,Nizar Askomar,,,13,,M,false
-48333,Sumarna,Sakit kanker usus,,13,,M,false
-34595,Saparudin,,,13,,M,false
-57675,Saleh,,,13,,M,false
-41579,Pujianto,,,7,,M,false
-45798,Basuki Setiawan,,,6,,M,false
-49026,Erfin Sulistyo,,,8,,M,false
-120098781,Suryanto,,,3,,M,false
-120094305,Sunidja,,,3,,M,false
-17172,Kasmuni,,,3,,M,false
-31976,Sudjijo,,,3,,M,false
-54899,Yahya,,,2,,M,false
-40120,Slamet Dwi Prihanto,,,2,,M,false
-40965,Heri Susandi,,,2,,M,false
-46264,Safril Khamami,tewas saat pulang Dinas,,5,,M,true
-45207,Agustam,,,10,,M,false
-72027,ANGGI ANDRIANSYAH,sakit,,1,,M,false
-43966,Agung Gumilar Morgana,sakit,,1,,M,false
-58715,Nanang Kusnandar,sakit,,1,,M,false
-62285,Erwin Rizki Prabowo,sakit,,1,,M,false
-47826,Dadi,sakit,,5,,M,false
-72785,Laode Asrul Karim,sakit,,1,,M,false
-44035,Suryanto,sakit,,1,,M,false
-52320,Firman Sudrajat,sakit,,1,,M,false
-42422,Usep Jaelani,sakit,,1,,M,false
-52074,Ahmad Sujai,sakit,,1,,M,false
-42260,Ali Wahyu Santoso,sakit,,1,,M,false
-42448,Tumingin,sakit,,1,,M,false
-39962,Yoehanson,sakit,,1,,M,false
-43866,Sigit Widianto,sakit,,1,,M,false
-47371,Rian Budiana,sakit,,1,,M,false
-52357,Yani Suharyani,sakit,,1,,M,false
-43757,Safta Kurniawan,sakit,,1,,M,false
-43857,Suhaedi,sakit,,1,,M,false
-42294,A. H Sukasno N.,sakit,,6,,M,false
-44054,Solekhudin,sakit,,1,,M,false
-48661,Yus Rusmana,sakit,,1,,M,false
-48974,Shalahuddin,sakit,,1,,M,false
-52153,Surya Wiyata,sakit,,1,,M,false
-44011,Barna Pirmansyah,sakit,,1,,M,false
-52267,Abdul Rohman,sakit,,1,,M,false
-64425,Tb Danu Sr,sakit,,1,,M,false
-52370,Lely Kurniawati,sakit,,1,,M,false
-52161,Sukardi Effendi,sakit,,1,,M,false
-52121,ZULFAHMI NASUTION,sakit,,1,,M,false
-52317,Adi Sutriyono,sakit,,1,,M,false
-52159,Kusnadi,sakit,,1,,M,false
-42286,Bhakti Wibowo,sakit,,1,,M,false
-43809,Hartono,sakit,,1,,M,false
-41615,Hedi Susetyo Sudarmonno,sakit,,9,,M,false
-44265,Fadli,sakit,,9,,M,false
-51363,Kamim,sakit,,9,,M,false
-41663,Sahri,sakit,,9,,M,false
-44147,Tono Sujono,sakit,,9,,M,false
-45906,Sugiharto,sakit,,9,,M,false
-61494,Muarif Fiyanansyah,sakit,,9,,M,false
-36767,Muhamad Thaib,sakit,,10,,M,false
-42634,Indra Utama,sakit,,2,,M,false
-46287,Aris Purnama,sakit,,5,,M,false
-58067,Podo,sakit,,17,,M,false
-48295,Sugeng Iswanto,sakit,,17,,M,false
-38539,Oman Durahman,sakit,,3,,M,false
-44055,Sukarta,sakit,,1,,M,false
-39945,Sunaidi,tabrakan KA,,12,,M,true
-46310,Tris Pudiwarkoyo,sakit,,5,,M,false
-43950,SANDY KRISNANTO,sakit,,1,,M,false
-52536,Darman Prasetyo,PLH KRL KA 1131,,15,,M,true
-51903,Heru Susiyanto,sakit,,6,,M,false
-46868,Enang Suhendar,sakit,,2,,M,false
-71073,Deni Ardila Ritonga,sakit,,1,,M,false
-42500,Sudarminto,sakit,,1,,M,false
-44456,Sudarto,sakit,,5,,M,false
-41703,Basuki,sakit,,6,,M,false
-30210,Empud Marpudin,sakit,,2,,M,false
-60055,Pulung Santoso,sakit,,14,,M,false
-47219,Ridwan,sakit,,13,,M,false
-120092622,Ahim,operasi jantung,,2,,M,false
-42004,Dwidag Niko Antoro,sakit,,2,,M,false
-38410,Husein Nurrony,sakit,,2,,M,false
-29041,Samidi,sakit,,7,,M,false
-44337,Toyiba,sakit,,3,,M,false
-24908,Sudarno,sakit,,3,,M,false
-40458,Sugeng Mulyono,sakit,,3,,M,false
-28784,Rachmat,sakit,,3,,M,false
-51004,Agus,sakit,,2,,M,false
-48565,Novi Hadjiman,sakit,,2,,M,false
-35271,Masparso Budiyono,sakit,,6,,M,false
-38372,Nurul Yaqin,sakit,,16,,M,false
-52052,Ahmad Efendi,sakit,,1,,M,false
-46898,Dewi Sri Arianti,sakit,,2,,F,false
-61639,Ayu Dyah Kusumaningrum,sakit,,8,,F,false
-65568,Triyoga Bayu,sakit,,2,,M,false
-44399,R Agus Trianto,sakit,,5,,M,false
-40305,Agus Subaryanto,sakit,,2,,M,false
-28045,Yuyus Suprihat,sakit,,2,,M,false
-120134001,Mohamad Sujono,sakit,,5,,M,false
-47976,Muh Fatoni,sakit,,5,,M,false
-20242166,Yayat Rustandi,sakit,,2,,M,false
-2024111110,Asep Sopyani,sakit,,2,,M,false
-42406,Agus Bachtiar,sakit,,1,,M,false
-49286,Dian Maryandhi,sakit,,2,,M,false
-44567,Triyono,sakit,,6,,M,false
-41316,Darsono,sakit,,5,,M,false
-53933,Rafit Mandana,sakit,,8,,M,false
-63805,Apriyanto,sakit,,12,,M,false
-53743,Mukhamat Soleh,Ayah Sakit Ginjal dulu sering minuman berakohol ibu stres asam lambung naik kena jantung,,7,,M,false
-40971,Irwansyah,Sakit Jantung,,1,,M,false
-44521,Mochamad Fahrudin,sakit,,4,,M,false
-52160,Agus Heryanto,sakit,,1,,M,false
-69697,Rani Ratnawati,"MD setelah persalinan cesar, jahitan robek di dalam",,2,,F,false
-51013,Ina Sutisna,sakit jantung,,2,,M,false
-120145052,Ketut Suharta,sakit,,2,,M,false
-19395,Sopono,sakit,,9,,M,false
-48177,Rukmansyah,sakit,,2,,M,false
-52287,Nurjamah,sakit,,2,,M,false
-120091936,Tama Sutama,sakit,,2,,M,false
-49464,Agung Setiya Putra,sakit,,5,,M,false
-51188,Indra Sudrajat,sakit,,5,,M,false
-23529,Setjo Budi,MD Kecelkaan di laswi,,7,,M,false
-46013,Agus Rumito,sakit,,6,,M,false
-63493,Khoirul Rizaludin,sakit,,5,,M,false
-26477,Sumidjan,sakit,,8,,M,false
-48759,Muhammad Nurkarim,sakit,,8,,M,false
-49827,Yandi Noeryadin,sakit,,2,,M,false
-53039,Ar Rahman,sakit,,2,,M,false
-44860,Supriadi,sakit,,12,,M,false
-43532,Irwan,sakit,,11,,M,false
-35226,Kaswa,sakit,,2,,M,false
-44922,M Benny P,sakit,,12,,M,false
-45636,Iskandar,sakit,,11,,M,false
-43603,Iswandi,sakit,,11,,M,false
-41755,Khairulnas,sakit,,11,,M,false
-43939,Mohamad Rifai,sakit,,1,,M,false
-71728,Novri Triyonsaputra,sakit,,12,,M,false
-47076,Wiyono,sakit,,7,,M,false
-26401,Misuali,sakit,,9,,M,false
-42463,Wahyudi,kanker,,1,,M,false
-45200,Bayu Yudhistira Nugroho,sakit,,10,,M,false
-45117,Wahyu Mursito,sakit,,10,,M,false
-50006,Abdillah Ramdan,PLH MD Kecelkaan KA comuter,,8,,M,true
-samidjan,Samidjan,sakit,,8,,M,false
-639493,Khoirul Rizaludin,sakit,,5,,M,false
-44473,Supardi,sakit,,5,,M,false
-58363,Heni Sumarwati,Tewas tahun 2018,,2,,M,true
-45568,Ardinal,sakit,,11,,M,false
-41775,Zulkiman,sakit,,11,,M,false
-50977,Dody Muryanto,sakit,,17,,M,false
-59136,Nandung Widiyantoro,,,4,,M,false
-46320,Agus Eko Prasetyo,,,4,,M,false
-68117,Feri Untoro,,,6,,M,false
-70346,Jeki Kresnandi,,,6,,M,false
-59625,mohammad ihsan,,,7,,M,false
-64866,Dadang Prawiro,,,7,,M,false
-46488,Suhadak,,,8,,M,false
-45359,Mawan Nofrianto,,,8,,M,false
-49938,Amar Yusuf,,,8,,M,false
-35787,Eko Hari Djuni,,,8,,M,false
-48860,Ari Tri Wijaya,,,8,,M,false
-nurslamet,Nur Slamet,,,2,,M,false
-hermansyah,Hermansyah,,,13,,M,false
-35944,Suyitno,,,2,,M,false
-60573,Dedi Saputro,,,7,,M,false
-45586,Edmonevis,,,11,,M,false
-45617,Jamaris,,,11,,M,false
-waraskurniawan,waras kurniawan,,,8,,M,false
-38870,Yentrinal,,,11,,M,false
-59632,M Dimyati Rofingi,,,7,,M,false
-66382,Edi Purwono,,,5,,M,false
-53243,Deni Bagus Santoso,,,5,,M,false
-38519,zulyadi,,,13,,M,false
-49040,agus riyadi hantoro,,,13,,M,false
-40661,Alm bpk yuneldi,,,13,,M,false
-48352,M Andi Johari,,,12,,M,false
-45612,Dasril,,,11,,M,false
-51350,Nuryanto,,,8,,M,false
-40357,Djainuri,Sakit Jantung,,8,,M,false
-35022,Ujang Sukanta,,,1,,M,false
-51344,Agus Sutrisno,,,8,,M,false
-24677,Rujanto,,,5,,M,false
-43688,Sularno,,,1,,M,false
-46822,Junaedi,,,1,,M,false
-42467,Rosid,,,1,,M,false
-71905,Pajar Iman Maharto,,,1,,M,false
-48698,Asep Sulaiman,,,2,,M,false
-40408,R. Aang Luqman,,,2,,M,false
-44766,Suprianto,,,2,,M,false
-120040904,Didi Rosidi,,,2,,M,false
-42037,Yundeni,,,2,,M,false
-51527,Fajar Nugroho,,,5,,M,false
-42879,Sugiyanto,,,5,,M,false
-38817,Cahyoko,,,5,,M,false
-51195,Darsono,,,2,,M,false
-41321,Parmono,,,5,,M,false
-42977,Agus Gunawantoro,,,2,,M,false
-37887,WARDI,,,6,,M,false
-49595,SLAMET NURKAMID,,,2,,M,false
-66845,SEPTIAWAN,,,12,,M,false
-40381,GUGUN SOLIHIN,,,8,,M,false
-39038,ARSYAD MUDIN,,,12,,M,false
-42724,AHMAD TAUFIK,,,9,,M,false
-42740,ABDUL KHOLIQ,,,9,,M,false
-21393,HIDAJAT,,,2,,M,false
-43007,RIDUWAN,,,8,,M,false
-48686,RUSLAN,,,8,,M,false
-40544,SUMARLAN,,,8,,M,false
-43246,M. RIF' AN,,,4,,M,false
-41123,EKO ROSTRIAWAN,,,3,,M,false
-42935,ALISUN,,,4,,M,false
-41789,BURHAM,,,4,,M,false
+employee_id,nip_nipp,employee_name,death_status,death_cause,last_position,region_id,notes,employee_gender,is_accident
+1,17172,Kasmuni,Meninggal,,,3,,M,FALSE
+2,19395,Sopono,Meninggal,sakit,,9,,M,FALSE
+3,21393,HIDAJAT,Meninggal,,,2,,M,FALSE
+4,23529,Setjo Budi,Meninggal,MD Kecelkaan di laswi,,7,,M,FALSE
+5,24677,Rujanto,Meninggal,,,5,,M,FALSE
+6,24908,Sudarno,Meninggal,sakit,,3,,M,FALSE
+7,26401,Misuali,Meninggal,sakit,,9,,M,FALSE
+8,26477,Sumidjan,Meninggal,sakit,,8,,M,FALSE
+9,28045,Yuyus Suprihat,Meninggal,sakit,,2,,M,FALSE
+10,28784,Rachmat,Meninggal,sakit,,3,,M,FALSE
+11,29041,Samidi,Meninggal,sakit,,7,,M,FALSE
+12,30210,Empud Marpudin,Meninggal,sakit,,2,,M,FALSE
+13,30257,Sjarkowi,Tewas,Kecelakaan KA,,13,,M,TRUE
+14,31976,Sudjijo,Meninggal,,,3,,M,FALSE
+15,33554,Ujang Priyadi,Tewas,Kecelakaan KA,,5,,M,TRUE
+16,34595,Saparudin,Meninggal,,,13,,M,FALSE
+17,35022,Ujang Sukanta,Meninggal,,,1,,M,FALSE
+18,35271,Masparso Budiyono,Meninggal,sakit,,6,,M,FALSE
+19,35445,Wahyudi,Tewas,Kecelakaan KA,,1,,M,TRUE
+20,35787,Eko Hari Djuni,Meninggal,,,8,,M,FALSE
+21,35944,Suyitno,Meninggal,,,2,,M,FALSE
+22,36471,Sajidin,Tewas,Kecelakaan KA,,12,,M,TRUE
+23,36767,Muhamad Thaib,Meninggal,sakit,,10,,M,FALSE
+24,36779,Syafri Juldi,Meninggal,,,13,,M,
+25,37221,Nurhadi Karyono,Tewas,Kecelakaan KA,,8,,M,TRUE
+26,37887,WARDI,Meninggal,,,6,,M,FALSE
+27,38372,Nurul Yaqin,Meninggal,sakit,,16,,M,FALSE
+28,38410,Husein Nurrony,Meninggal,sakit,,2,,M,FALSE
+29,38519,zulyadi,Meninggal,,,13,,M,FALSE
+30,38539,Oman Durahman,Meninggal,sakit,,3,,M,FALSE
+31,38552,Kamisa,Tewas,Kecelakaan KA,,3,,M,TRUE
+32,38707,Yasnimar,Meninggal,,,11,,F,FALSE
+33,38817,Cahyoko,Meninggal,,,5,,M,FALSE
+34,38870,Yentrinal,Meninggal,,,11,,M,FALSE
+35,39038,ARSYAD MUDIN,Meninggal,,,12,,M,FALSE
+36,39200,Azhari Munawar,Meninggal,,,13,,M,FALSE
+37,39284,Samidi,Tewas,Kecelakaan KA,,5,,M,TRUE
+38,39380,Sayuti,Meninggal,,,12,,M,FALSE
+39,39493,Kaelan,Meninggal,,,13,,M,FALSE
+40,39518,Ruslan,Meninggal,,,12,,M,FALSE
+41,39593,Firdaus,Meninggal,,,11,,M,FALSE
+42,39627,Darmansah,Tewas,Kecelakaan KA,,11,,M,TRUE
+43,39684,Heri Pontias,Tewas,Kecelakaan KA,,13,,M,TRUE
+44,39699,Ahmad Busra,Tewas,Kecelakaan KA,,11,,M,TRUE
+45,39726,Syaifuddin,Meninggal,,,11,,M,FALSE
+46,39728,Kasrin,Meninggal,,,4,,M,FALSE
+47,39910,Ferizal,Meninggal,,,13,,M,FALSE
+48,39945,Sunaidi,Tewas,tabrakan KA,,12,,M,TRUE
+49,39962,Yoehanson,Meninggal,sakit,,1,,M,FALSE
+50,40120,Slamet Dwi Prihanto,Meninggal,,,2,,M,FALSE
+51,40211,Ujang,Meninggal,,,13,,M,FALSE
+52,40271,Naryoto,Meninggal,,,14,,M,FALSE
+53,40278,Warsito,Meninggal,,,11,,M,FALSE
+54,40305,Agus Subaryanto,Meninggal,sakit,,2,,M,FALSE
+55,40340,Entus Koswara,Meninggal,,,6,,M,FALSE
+56,40357,Djainuri,Meninggal,Sakit Jantung,,8,,M,FALSE
+57,40381,GUGUN SOLIHIN,Meninggal,,,8,,M,FALSE
+58,40408,R. Aang Luqman,Meninggal,,,2,,M,FALSE
+59,40458,Sugeng Mulyono,Meninggal,sakit,,3,,M,FALSE
+60,40544,SUMARLAN,Meninggal,,,8,,M,FALSE
+61,40661,Alm bpk yuneldi,Meninggal,,,13,,M,FALSE
+62,40720,Agus Syaifudin,Meninggal,,,13,,M,FALSE
+63,40759,Mangihut Simanjuntak,Meninggal,,,12,,M,FALSE
+64,40796,M Rasyid,Meninggal,,,13,,M,FALSE
+65,40828,Sudaryo,Meninggal,,,12,,M,FALSE
+66,40861,Slamet Riyanto,Meninggal,,,2,,M,FALSE
+67,40965,Heri Susandi,Meninggal,,,2,,M,FALSE
+68,40971,Irwansyah,Meninggal,Sakit Jantung,,1,,M,FALSE
+69,41006,Saefudin Juhri,Meninggal,,,2,,M,FALSE
+70,41081,Iman Picaso,Meninggal,,,2,,M,FALSE
+71,41123,EKO ROSTRIAWAN,Meninggal,,,3,,M,FALSE
+72,41192,Kamijan,Meninggal,,,1,,M,FALSE
+73,41287,Rudi Irawan,Meninggal,,,16,,M,FALSE
+74,41289,Triyadi,Meninggal,,,16,,M,FALSE
+75,41290,Muhammad Wahyudi,Meninggal,,,6,,M,FALSE
+76,41300,Jamal Fauzi,Meninggal,,,4,,M,FALSE
+77,41316,Darsono,Meninggal,sakit,,5,,M,FALSE
+78,41321,Parmono,Meninggal,,,5,,M,FALSE
+79,41421,Ruslan,Meninggal,,,13,,M,FALSE
+80,41450,Sunarto,Meninggal,,,13,,M,FALSE
+81,41516,Elya Surya Awinata,Meninggal,,,8,,M,FALSE
+82,41579,Pujianto,Meninggal,,,7,,M,FALSE
+83,41615,Hedi Susetyo Sudarmonno,Meninggal,sakit,,9,,M,FALSE
+84,41663,Sahri,Meninggal,sakit,,9,,M,FALSE
+85,41690,Maryanto,Meninggal,,,6,,M,FALSE
+86,41703,Basuki,Meninggal,sakit,,6,,M,FALSE
+87,41755,Khairulnas,Meninggal,sakit,,11,,M,FALSE
+88,41775,Zulkiman,Meninggal,sakit,,11,,M,FALSE
+89,41776,Taufik,Meninggal,,,13,,M,FALSE
+90,41789,BURHAM,Meninggal,,,4,,M,FALSE
+91,41791,Sugiharto,Meninggal,,,8,,M,FALSE
+92,41814,Slamet Nuradzi,Meninggal,,,4,,M,FALSE
+93,41921,Nizar Askomar,Meninggal,,,13,,M,FALSE
+94,41933,Sulaiman,Meninggal,,,14,,M,FALSE
+95,41985,Rudi Purnomo,Meninggal,,,2,,M,FALSE
+96,42004,Dwidag Niko Antoro,Meninggal,sakit,,2,,M,FALSE
+97,42026,Irfan Affandi,Tewas,,,2,,M,TRUE
+98,42037,Yundeni,Meninggal,,,2,,M,FALSE
+99,42074,Supangat,Meninggal,,,8,,M,FALSE
+100,42260,Ali Wahyu Santoso,Meninggal,sakit,,1,,M,FALSE
+101,42286,Bhakti Wibowo,Meninggal,sakit,,1,,M,FALSE
+102,42294,A. H Sukasno N.,Meninggal,sakit,,6,,M,FALSE
+103,42402,Widodo,Meninggal,,,1,,M,FALSE
+104,42406,Agus Bachtiar,Meninggal,sakit,,1,,M,FALSE
+105,42422,Usep Jaelani,Meninggal,sakit,,1,,M,FALSE
+106,42448,Tumingin,Meninggal,sakit,,1,,M,FALSE
+107,42463,Wahyudi,Meninggal,kanker,,1,,M,FALSE
+108,42467,Rosid,Meninggal,,,1,,M,FALSE
+109,42500,Sudarminto,Meninggal,sakit,,1,,M,FALSE
+110,42578,Nyaman Budiono,Meninggal,,,5,,M,FALSE
+111,42624,Herman Farmando S,Meninggal,,,10,,M,FALSE
+112,42634,Indra Utama,Meninggal,sakit,,2,,M,FALSE
+113,42724,AHMAD TAUFIK,Meninggal,,,9,,M,FALSE
+114,42740,ABDUL KHOLIQ,Meninggal,,,9,,M,FALSE
+115,42879,Sugiyanto,Meninggal,,,5,,M,FALSE
+116,42935,ALISUN,Meninggal,,,4,,M,FALSE
+117,42959,Sudirman,Meninggal,,,11,,M,FALSE
+118,42966,R. Kusye Mulyana Mursyid,Tewas,,,2,,M,TRUE
+119,42968,Rachmat Indarto Cahyo Santoso,Meninggal,"sakit kelenjar getah bening , tumor di testis.",,6,,M,FALSE
+120,42977,Agus Gunawantoro,Meninggal,,,2,,M,FALSE
+121,43001,Wahyudi Utama,Meninggal,,,8,,M,FALSE
+122,43007,RIDUWAN,Meninggal,,,8,,M,FALSE
+123,43029,Joko Purwanto,Meninggal,,,0,,M,FALSE
+124,43045,Sutisno,Meninggal,,,0,,M,FALSE
+125,43094,Sri Wijaya,Meninggal,meninggal di meja ppka,,6,,M,FALSE
+126,43130,Bambang Suwartono,Meninggal,,,2,,M,FALSE
+127,43164,Agus Supriyadi,Tewas,Kecelakaan KA,,4,,M,TRUE
+128,43170,Soeprijono,Meninggal,,,4,,M,FALSE
+129,43196,Sutrisno,Meninggal,,,4,,M,FALSE
+130,43224,Soepriyanto,Meninggal,,,4,,M,FALSE
+131,43246,M. RIF' AN,Meninggal,,,4,,M,FALSE
+132,43266,Andy Noor Khristianto,Meninggal,,,4,,M,FALSE
+133,43287,Lukman Hakim,Meninggal,,,0,,M,FALSE
+134,43309,Dwie Suprasetyo,Meninggal,,,4,,M,FALSE
+135,43350,Mohamad Tantowi Gani,Meninggal,,,15,,M,FALSE
+136,43504,Suharso,Meninggal,sakit stroke. 4 hari langsung meninggal,,16,,M,FALSE
+137,43532,Irwan,Meninggal,sakit,,11,,M,FALSE
+138,43603,Iswandi,Meninggal,sakit,,11,,M,FALSE
+139,43627,Asril Rusli,Meninggal,,,11,,M,FALSE
+140,43649,Damisir,Meninggal,,,11,,M,FALSE
+141,43688,Sularno,Meninggal,,,1,,M,FALSE
+142,43757,Safta Kurniawan,Meninggal,sakit,,1,,M,FALSE
+143,43809,Hartono,Meninggal,sakit,,1,,M,FALSE
+144,43857,Suhaedi,Meninggal,sakit,,1,,M,FALSE
+145,43866,Sigit Widianto,Meninggal,sakit,,1,,M,FALSE
+146,43926,Nur Syamsudin,Meninggal,,,4,,M,FALSE
+147,43939,Mohamad Rifai,Meninggal,sakit,,1,,M,FALSE
+148,43950,SANDY KRISNANTO,Meninggal,sakit,,1,,M,FALSE
+149,43966,Agung Gumilar Morgana,Meninggal,sakit,,1,,M,FALSE
+150,44011,Barna Pirmansyah,Meninggal,sakit,,1,,M,FALSE
+151,44035,Suryanto,Meninggal,sakit,,1,,M,FALSE
+152,44054,Solekhudin,Meninggal,sakit,,1,,M,FALSE
+153,44055,Sukarta,Meninggal,sakit,,1,,M,FALSE
+154,44147,Tono Sujono,Meninggal,sakit,,9,,M,FALSE
+155,44265,Fadli,Meninggal,sakit,,9,,M,FALSE
+156,44278,Madsari,Tewas,Kecelakaan KA,,3,,M,TRUE
+157,44283,Didi Kusnadi,Meninggal,,,3,,M,FALSE
+158,44337,Toyiba,Meninggal,sakit,,3,,M,FALSE
+159,44355,Tjetjep Muljadi,Meninggal,,,3,,M,FALSE
+160,44399,R Agus Trianto,Meninggal,sakit,,5,,M,FALSE
+161,44456,Sudarto,Meninggal,sakit,,5,,M,FALSE
+162,44473,Supardi,Meninggal,sakit,,5,,M,FALSE
+163,44521,Mochamad Fahrudin,Meninggal,sakit,,4,,M,FALSE
+164,44567,Triyono,Meninggal,sakit,,6,,M,FALSE
+165,44749,Ponisam,Tewas,PLH Tewas KA turangga Lokal,,2,,M,TRUE
+166,44766,Suprianto,Meninggal,,,2,,M,FALSE
+167,44860,Supriadi,Meninggal,sakit,,12,,M,FALSE
+168,44865,Victor August,Tewas,Kecelakaan KA,,12,,M,TRUE
+169,44922,M Benny P,Meninggal,sakit,,12,,M,FALSE
+170,45073,Bono,Meninggal,,,12,,M,FALSE
+171,45117,Wahyu Mursito,Meninggal,sakit,,10,,M,FALSE
+172,45172,Juli Hendri,Meninggal,,,10,,M,FALSE
+173,45173,Rudi,Tewas,,,10,,M,TRUE
+174,45200,Bayu Yudhistira Nugroho,Meninggal,sakit,,10,,M,FALSE
+175,45207,Agustam,Meninggal,,,10,,M,FALSE
+176,45209,Wahyudi,Meninggal,,,10,,M,FALSE
+177,45337,Haipon Yusuf,Meninggal,,,8,,M,FALSE
+178,45359,Mawan Nofrianto,Meninggal,,,8,,M,FALSE
+179,45415,Isyahfrulloh,Meninggal,,,8,,M,FALSE
+180,45417,Widarto,Meninggal,,,8,,M,FALSE
+181,45453,Heriyanto,Meninggal,,,8,,M,FALSE
+182,45484,Yulianto,Meninggal,,,8,,M,FALSE
+183,45568,Ardinal,Meninggal,sakit,,11,,M,FALSE
+184,45586,Edmonevis,Meninggal,,,11,,M,FALSE
+185,45612,Dasril,Meninggal,,,11,,M,FALSE
+186,45617,Jamaris,Meninggal,,,11,,M,FALSE
+187,45636,Iskandar,Meninggal,sakit,,11,,M,FALSE
+188,45638,Irwan Sardi,Tewas,Kecelakaan KA,,11,,M,TRUE
+189,45756,Purwono,Meninggal,,,4,,M,FALSE
+190,45766,Lasmidi,Meninggal,,,8,,M,FALSE
+191,45767,Wardi,Meninggal,,,4,,M,FALSE
+192,45781,Andi Kusworo,Meninggal,,,6,,M,FALSE
+193,45786,Asep Romdhoni,Meninggal,,,4,,M,FALSE
+194,45798,Basuki Setiawan,Meninggal,,,6,,M,FALSE
+195,45848,Suparno,Meninggal,,,7,,M,FALSE
+196,45906,Sugiharto,Meninggal,sakit,,9,,M,FALSE
+197,45968,Atabigh Hasan Mudhofar,Meninggal,,,6,,M,FALSE
+198,46013,Agus Rumito,Meninggal,sakit,,6,,M,FALSE
+199,46031,Pendi,Meninggal,,,3,,M,FALSE
+200,46087,Den Aam Darajat,Tewas,Kecelakaan KA,,2,,M,TRUE
+201,46131,Dede Suhara,Tewas,Tertabrak KA ketika Dinas,,2,,M,TRUE
+202,46148,Suwandi,Meninggal,,,3,,M,FALSE
+203,46209,Sutardo,Meninggal,,,1,,M,FALSE
+204,46231,Mukti Aprijanto Wibowo,Meninggal,,,5,,M,FALSE
+205,46264,Safril Khamami,Tewas,tewas saat pulang Dinas,,5,,M,TRUE
+206,46287,Aris Purnama,Meninggal,sakit,,5,,M,FALSE
+207,46310,Tris Pudiwarkoyo,Meninggal,sakit,,5,,M,FALSE
+208,46320,Agus Eko Prasetyo,Meninggal,,,4,,M,FALSE
+209,46488,Suhadak,Meninggal,,,8,,M,FALSE
+210,46623,Supriyadi,Meninggal,,,13,,M,FALSE
+211,46643,Yadi Bin Abdul Ayub Zakaria,Meninggal,,,13,,M,FALSE
+212,46651,Muhammad Hasyim,Meninggal,,,10,,M,FALSE
+213,46661,Syaiful Bachri,Meninggal,,,10,,M,FALSE
+214,46692,Siswa Ramayana,Meninggal,,,10,,M,FALSE
+215,46822,Junaedi,Meninggal,,,1,,M,FALSE
+216,46868,Enang Suhendar,Meninggal,sakit,,2,,M,FALSE
+217,46894,Agus Setiyono,Meninggal,,,2,,M,FALSE
+218,46898,Dewi Sri Arianti,Meninggal,sakit,,2,,F,FALSE
+219,47076,Wiyono,Meninggal,sakit,,7,,M,FALSE
+220,47219,Ridwan,Meninggal,sakit,,13,,M,FALSE
+221,47371,Rian Budiana,Meninggal,sakit,,1,,M,FALSE
+222,47760,Mispat,Meninggal,,,13,,M,FALSE
+223,47826,Dadi,Meninggal,sakit,,5,,M,FALSE
+224,47837,Sukia Aam,Meninggal,,,2,,M,FALSE
+225,47976,Muh Fatoni,Meninggal,sakit,,5,,M,FALSE
+226,48116,Edy Purwanto,Meninggal,,,8,,M,FALSE
+227,48177,Rukmansyah,Meninggal,sakit,,2,,M,FALSE
+228,48247,Sofyan Rosadi,Meninggal,,,5,,M,FALSE
+229,48279,Muhammad Saiful,Meninggal,,,8,,M,FALSE
+230,48295,Sugeng Iswanto,Meninggal,sakit,,17,,M,FALSE
+231,48333,Sumarna,Meninggal,Sakit kanker usus,,13,,M,FALSE
+232,48352,M Andi Johari,Meninggal,,,12,,M,FALSE
+233,48430,Agus Turino Januardi,Meninggal,,,8,,M,FALSE
+234,48565,Novi Hadjiman,Meninggal,sakit,,2,,M,FALSE
+235,48660,Musa Hermanto,Meninggal,,,12,,M,FALSE
+236,48661,Yus Rusmana,Meninggal,sakit,,1,,M,FALSE
+237,48674,Amat Saiin,Meninggal,,,6,,M,FALSE
+238,48686,RUSLAN,Meninggal,,,8,,M,FALSE
+239,48692,Sampur,Meninggal,,,8,,M,FALSE
+240,48698,Asep Sulaiman,Meninggal,,,2,,M,FALSE
+241,48759,Muhammad Nurkarim,Meninggal,sakit,,8,,M,FALSE
+242,48788,Budi Iswanto,Meninggal,,,8,,M,FALSE
+243,48860,Ari Tri Wijaya,Meninggal,,,8,,M,FALSE
+244,48921,Andriyanto,Meninggal,,,8,,M,FALSE
+245,48926,Yuli Iswadi,Meninggal,,,8,,M,FALSE
+246,48970,Bambang Setiawan,Tewas,Tertabrak KA,,2,,M,TRUE
+247,48974,Shalahuddin,Meninggal,sakit,,1,,M,FALSE
+248,49026,Erfin Sulistyo,Meninggal,,,8,,M,FALSE
+249,49040,agus riyadi hantoro,Meninggal,,,13,,M,FALSE
+250,49051,Tri Kuncoro,Meninggal,,,13,,M,FALSE
+251,49125,Kukuh Aryanto,Meninggal,,,9,,M,FALSE
+252,49280,Budi Santoso,Meninggal,,,8,,M,FALSE
+253,49286,Dian Maryandhi,Meninggal,sakit,,2,,M,FALSE
+254,49415,Eka Yudha Putra,Meninggal,,,7,,M,FALSE
+255,49464,Agung Setiya Putra,Meninggal,sakit,,5,,M,FALSE
+256,49559,Dudi,Meninggal,sakit,,2,,M,FALSE
+257,49595,SLAMET NURKAMID,Meninggal,,,2,,M,FALSE
+258,49827,Yandi Noeryadin,Meninggal,sakit,,2,,M,FALSE
+259,49869,Taufik Nur Azis,Meninggal,,,7,,M,FALSE
+260,49938,Amar Yusuf,Meninggal,,,8,,M,FALSE
+261,50006,Abdillah Ramdan,Tewas,PLH MD Kecelkaan KA comuter,,8,,M,TRUE
+262,50033,Rahmat Sutapa,Meninggal,"kangker lipoma, lambung kadang sakit, sempat di bedah",,6,,M,FALSE
+263,50110,Indo Bangun Asmara,Meninggal,,,4,,M,FALSE
+264,50220,Je Sugala Kristiyono,Meninggal,sakit,,8,,M,FALSE
+265,50290,Muhammad Suryo Utomo,Meninggal,,,7,,M,FALSE
+266,50302,Mustofa,Tewas,Kecelakaan KA,,7,,M,TRUE
+267,50371,Jamal Ludin,Meninggal,,,8,,M,FALSE
+268,50636,Atot Suharta,Meninggal,Sakit mendadak,,3,,M,FALSE
+269,50977,Dody Muryanto,Meninggal,sakit,,17,,M,FALSE
+270,51004,Agus,Meninggal,sakit,,2,,M,FALSE
+271,51013,Ina Sutisna,Meninggal,sakit jantung,,2,,M,FALSE
+272,51079,Edy Sutrisno,Meninggal,,,10,,M,FALSE
+273,51188,Indra Sudrajat,Meninggal,sakit,,5,,M,FALSE
+274,51195,Darsono,Meninggal,,,2,,M,FALSE
+275,51307,Mistar,Meninggal,,,8,,M,FALSE
+276,51319,Juremi,Meninggal,,,8,,M,FALSE
+277,51322,Aman,Meninggal,,,8,,M,FALSE
+278,51327,Priyono,Meninggal,,,8,,M,FALSE
+279,51331,Kasihan,Meninggal,,,8,,M,FALSE
+280,51344,Agus Sutrisno,Meninggal,,,8,,M,FALSE
+281,51350,Nuryanto,Meninggal,,,8,,M,FALSE
+282,51354,Drajat Sulistiono,Meninggal,,,9,,M,FALSE
+283,51363,Kamim,Meninggal,sakit,,9,,M,FALSE
+284,51373,Mukadi,Meninggal,,,8,,M,FALSE
+285,51412,Supriyanto,Meninggal,,,8,,M,FALSE
+286,51527,Fajar Nugroho,Meninggal,,,5,,M,FALSE
+287,51612,Sujarwo,Tewas,Kecelakaan KA,,12,,M,TRUE
+288,51652,Rispan Harizon,Meninggal,,,12,,M,FALSE
+289,51678,Surahman,Meninggal,,,13,,M,FALSE
+290,51682,Suhar,Meninggal,,,13,,M,FALSE
+291,51689,Waluyo,Meninggal,,,13,,M,FALSE
+292,51709,Tri Siswanto,Tewas,Kecelakaan KA,,13,,M,TRUE
+293,51903,Heru Susiyanto,Meninggal,sakit,,6,,M,FALSE
+294,52052,Ahmad Efendi,Meninggal,sakit,,1,,M,FALSE
+295,52074,Ahmad Sujai,Meninggal,sakit,,1,,M,FALSE
+296,52121,ZULFAHMI NASUTION,Meninggal,sakit,,1,,M,FALSE
+297,52153,Surya Wiyata,Meninggal,sakit,,1,,M,FALSE
+298,52159,Kusnadi,Meninggal,sakit,,1,,M,FALSE
+299,52160,Agus Heryanto,Meninggal,sakit,,1,,M,FALSE
+300,52161,Sukardi Effendi,Meninggal,sakit,,1,,M,FALSE
+301,52267,Abdul Rohman,Meninggal,sakit,,1,,M,FALSE
+302,52287,Nurjamah,Meninggal,sakit,,2,,M,FALSE
+303,52317,Adi Sutriyono,Meninggal,sakit,,1,,M,FALSE
+304,52320,Firman Sudrajat,Meninggal,sakit,,1,,M,FALSE
+305,52357,Yani Suharyani,Meninggal,sakit,,1,,M,FALSE
+306,52370,Lely Kurniawati,Meninggal,sakit,,1,,M,FALSE
+307,52461,Sumardi,Meninggal,,,12,,M,FALSE
+308,52478,Irwan Julianto,Meninggal,,,12,,M,FALSE
+309,52536,Darman Prasetyo,Tewas,PLH KRL KA 1131,,15,,M,TRUE
+310,53039,Ar Rahman,Meninggal,sakit,,2,,M,FALSE
+311,53099,Fuat Ali Arsyad,Meninggal,Sakit meningitis,,7,,M,FALSE
+312,53243,Deni Bagus Santoso,Meninggal,,,5,,M,FALSE
+313,53459,Putut Wahyudi Hidayat,Meninggal,sakit,,6,,M,FALSE
+314,53743,Mukhamat Soleh,Meninggal,Ayah Sakit Ginjal dulu sering minuman berakohol ibu stres asam lambung naik kena jantung,,7,,M,FALSE
+315,53933,Rafit Mandana,Meninggal,sakit,,8,,M,FALSE
+316,54008,Manuel Barton Naibaho,Meninggal,,,10,,M,FALSE
+317,54899,Yahya,Meninggal,,,2,,M,FALSE
+318,55354,Bambang Nursianto Dediciptonugroho,Meninggal,,,4,,M,FALSE
+319,55393,Indro Budi Rasmawan,Meninggal,,,4,,M,FALSE
+320,55568,Adhi Yulianto,Meninggal,,,5,,M,FALSE
+321,55573,Agung Priyanto,Meninggal,sakit darah tinggi,,5,,M,FALSE
+322,56023,Samsul Asadi,Tewas,Kecelakaan KA,,7,,M,TRUE
+323,56108,Rinda Bagus S,Tewas,Kecelakaan KA,,7,,M,TRUE
+324,56203,Supardi,Meninggal,,,8,,M,FALSE
+325,56776,Rully Hermansyah Simatupang,Meninggal,,,10,,M,FALSE
+326,56797,Teguh Sumardi,Meninggal,,,10,,M,FALSE
+327,57080,Andes Niko Sinapil,Meninggal,,,11,,M,FALSE
+328,57291,Suhairi,Meninggal,,,12,,M,FALSE
+329,57299,Jumardianta,Meninggal,,,12,,M,FALSE
+330,57320,Agustiar Ashari,Meninggal,,,14,,M,FALSE
+331,57413,Erius,Meninggal,,,12,,M,FALSE
+332,57675,Saleh,Meninggal,,,13,,M,FALSE
+333,57680,Ribut,Tewas,Kecelakaan KA,,13,,M,TRUE
+334,57681,Sakir,Meninggal,,,13,,M,FALSE
+335,57683,Mohammad Dahlan,Meninggal,,,13,,M,FALSE
+336,58057,Suhendra Wacana,Meninggal,"tidak ada riwayat sakit, 2 minggu pusing lalu meninggal",,16,,M,FALSE
+337,58067,Podo,Meninggal,sakit,,17,,M,FALSE
+338,58363,Heni Sumarwati,Tewas,Tewas tahun 2018,,2,,M,TRUE
+339,58715,Nanang Kusnandar,Meninggal,sakit,,1,,M,FALSE
+340,58783,Agus Supriyatna,Tewas,,,2,,M,TRUE
+341,58811,Agus Mulyana,Meninggal,,,2,,M,FALSE
+342,58880,Aris Wianto,Meninggal,,,3,,M,FALSE
+343,59077,Iwan Riyanto,Meninggal,,,4,,M,FALSE
+344,59110,Budi Utomo,Tewas,Kecelakaan KA,,4,,M,TRUE
+345,59112,Didik Supriyanto,Meninggal,,,4,,M,FALSE
+346,59136,Nandung Widiyantoro,Meninggal,,,4,,M,FALSE
+347,59138,Nur Sodikin,Tewas,Kecelakaan KA,,4,,M,TRUE
+348,59315,Bayu Nur Wahyudi,Meninggal,sakit kena virus Air kencing tikus,,6,,M,FALSE
+349,59480,Suwardi,Meninggal,,,6,,M,FALSE
+350,59503,Basuki,Meninggal,,,7,,M,FALSE
+351,59583,Adi Sutrisno,Meninggal,,,8,,M,FALSE
+352,59625,mohammad ihsan,Meninggal,,,7,,M,FALSE
+353,59632,M Dimyati Rofingi,Meninggal,,,7,,M,FALSE
+354,59634,Ebri Narbowo,Meninggal,,,7,,M,FALSE
+355,59649,Sumatri Raharjo,Meninggal,,,8,,M,FALSE
+356,59671,Achmad Tihan,Meninggal,,,8,,M,FALSE
+357,59694,Dwiyanto,Meninggal,,,8,,M,FALSE
+358,59834,Sutaman,Meninggal,,,9,,M,FALSE
+359,59856,Mejuah Ginting,Meninggal,,,10,,M,FALSE
+360,60055,Pulung Santoso,Meninggal,sakit,,14,,M,FALSE
+361,60261,Jamaludin,Meninggal,,,13,,M,FALSE
+362,60573,Dedi Saputro,Meninggal,,,7,,M,FALSE
+363,60581,Akbar Sumin,Meninggal,,,10,,M,FALSE
+364,61494,Muarif Fiyanansyah,Meninggal,sakit,,9,,M,FALSE
+365,61639,Ayu Dyah Kusumaningrum,Meninggal,sakit,,8,,F,FALSE
+366,62119,Rahmat Wahyudi,Meninggal,,,16,,M,FALSE
+367,62285,Erwin Rizki Prabowo,Meninggal,sakit,,1,,M,FALSE
+368,62330,Suryo Agung Prasetyo,Meninggal,,,7,,M,FALSE
+369,62362,Akhmad Taufik,Meninggal,sakit,,3,,M,FALSE
+370,62505,Hari Maruf,Meninggal,,,6,,M,FALSE
+371,63493,Khoirul Rizaludin,Meninggal,sakit,,5,,M,FALSE
+372,63805,Apriyanto,Meninggal,sakit,,12,,M,FALSE
+373,63870,Restu Wijidihastu,Meninggal,"panjat pinang jatuh ke air lalu meriang setelah 4 hari lalu meninggal, pada saat anak 7 bulan",,6,,M,FALSE
+374,64425,Tb Danu Sr,Meninggal,sakit,,1,,M,FALSE
+375,64741,Julian Dwi Setiyono,Tewas,PLHTewas KA turanga dan lokal,,2,,M,TRUE
+376,64866,Dadang Prawiro,Meninggal,,,7,,M,FALSE
+377,65568,Triyoga Bayu,Meninggal,sakit,,2,,M,FALSE
+378,66382,Edi Purwono,Meninggal,,,5,,M,FALSE
+379,66517,Al Ikrom,Meninggal,,,3,,M,FALSE
+380,66813,Kasmadi,Meninggal,,,12,,M,FALSE
+381,66845,SEPTIAWAN,Meninggal,,,12,,M,FALSE
+382,67135,Maryadi,Meninggal,sedang tidur,,6,,M,FALSE
+383,67312,Eko Nurcahyo,Meninggal,,,7,,M,FALSE
+384,67550,Zuirman Ali,Meninggal,,,11,,M,FALSE
+385,67621,Rian Stiawan,Meninggal,,,14,,M,FALSE
+386,68117,Feri Untoro,Meninggal,,,6,,M,FALSE
+387,68737,Tarom,Meninggal,,,4,,M,FALSE
+388,69206,Adifa Paramasya Pertiwi,Meninggal,,,8,,F,FALSE
+389,69697,Rani Ratnawati,Meninggal,"MD setelah persalinan cesar, jahitan robek di dalam",,2,,F,FALSE
+390,69887,Bobby Purnama Purba,Meninggal,,,10,,M,FALSE
+391,70346,Jeki Kresnandi,Meninggal,,,6,,M,FALSE
+392,71073,Deni Ardila Ritonga,Meninggal,sakit,,1,,M,FALSE
+393,71728,Novri Triyonsaputra,Meninggal,sakit,,12,,M,FALSE
+394,71905,Pajar Iman Maharto,Meninggal,,,1,,M,FALSE
+395,72027,ANGGI ANDRIANSYAH,Meninggal,sakit,,1,,M,FALSE
+396,72785,Laode Asrul Karim,Meninggal,sakit,,1,,M,FALSE
+397,73247,Ahmad Zainudin,Meninggal,,,5,,M,FALSE
+398,75602,Khairul Andre,Meninggal,,,10,,M,FALSE
+399,75608,Pambudi,Meninggal,,,13,,M,FALSE
+400,1012247,Ermiwati,Meninggal,,,11,,F,FALSE
+401,2010930,Anjar Sugianto,Meninggal,,,2,,M,FALSE
+402,2020111,Sri Hartati,Meninggal,,,8,,F,FALSE
+403,2020112,Yunis Sulatifah,Tewas,,,8,,F,TRUE
+404,2020113,Duma Enci Manulang,Tewas,PLH Tewas,,10,,M,TRUE
+405,10123815,Enjang Yudi,Tewas,PLH Tewas KA Turangga dan Lokal,,2,,M,TRUE
+406,20242166,Yayat Rustandi,Meninggal,sakit,,2,,M,FALSE
+407,20290903,Sularni,Meninggal,,,1,,F,FALSE
+408,72307591,Adiansyah,Tewas,PLH Tewas KA turangga dan Lokal,,2,,M,TRUE
+409,120040904,Didi Rosidi,Meninggal,,,2,,M,FALSE
+410,120091936,Tama Sutama,Meninggal,sakit,,2,,M,FALSE
+411,120092622,Ahim,Meninggal,operasi jantung,,2,,M,FALSE
+412,120094305,Sunidja,Meninggal,,,3,,M,FALSE
+413,120098781,Suryanto,Meninggal,,,3,,M,FALSE
+414,120134001,Mohamad Sujono,Meninggal,sakit,,5,,M,FALSE
+415,120145052,Ketut Suharta,Meninggal,sakit,,2,,M,FALSE
+416,2024111110,Asep Sopyani,Meninggal,sakit,,2,,M,FALSE
+417,19770322060,Zaswir Zakaria,Tewas,Kecelakaan KA,,12,,M,TRUE
+418,35226,Kaswa,Meninggal,sakit,,2,,M,FALSE
+419,639493,Khoirul Rizaludin,Meninggal,sakit,,5,,M,FALSE
+420,hermansyah,Hermansyah,Meninggal,,,13,,M,FALSE
+421,nurslamet,Nur Slamet,Meninggal,,,2,,M,FALSE
+422,samidjan,Samidjan,Meninggal,sakit,,8,,M,FALSE
+423,waraskurniawan,waras kurniawan,Meninggal,,,8,,M,FALSE

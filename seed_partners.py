@@ -1,6 +1,14 @@
 import pandas as pd
 import psycopg2
 
+# DB_CONFIG = {
+#     "dbname": "ypkai",
+#     "user": "ypkai",
+#     "password": "ypkai123",
+#     "host": "ypkai.crk26ae6i2kw.ap-southeast-2.rds.amazonaws.com",
+#     "port": 5432,
+# }
+
 DB_CONFIG = {
     "dbname": "ypkai",
     "user": "postgres",
@@ -23,8 +31,23 @@ def clean_value(value):
     return value
 
 
+def normalize_phone(value):
+    """Pastikan nomor telepon tetap string dan tidak berubah menjadi float"""
+    if value is None or pd.isna(value):
+        return None
+    if isinstance(value, (int, float)):
+        # Hilangkan .0 dan pastikan tetap diawali 0 jika ada di data asli
+        value = str(int(value))
+    value = str(value).strip()
+    # Jika hilang leading zero karena CSV (misal "812345678"), tambahkan 0
+    if not value.startswith("0") and value.isdigit():
+        value = "0" + value
+    return value
+
+
 def seed_partners():
-    df = pd.read_csv(CSV_FILE)
+    # Pastikan dua kolom dibaca sebagai string
+    df = pd.read_csv(CSV_FILE, dtype={"phone_number": str, "phone_number_alt": str})
     df.columns = df.columns.str.strip().str.lower()
 
     conn = psycopg2.connect(**DB_CONFIG)
@@ -40,8 +63,8 @@ def seed_partners():
         subdistrict_id = clean_value(row.get("subdistrict_id"))
         postal_code = clean_value(row.get("postal_code"))
         home_coordinate = clean_value(row.get("home_coordinate"))
-        phone_number = clean_value(row.get("phone_number"))
-        phone_number_alt = clean_value(row.get("phone_number_alt"))
+        phone_number = normalize_phone(row.get("phone_number"))
+        phone_number_alt = normalize_phone(row.get("phone_number_alt"))
         is_active = clean_value(row.get("is_active"))
 
         # Konversi boolean string ke tipe bool Python
@@ -78,7 +101,7 @@ def seed_partners():
     conn.commit()
     cur.close()
     conn.close()
-    print("✅ Partners seeded successfully (with proper NULL handling).")
+    print("✅ Partners seeded successfully (phone numbers preserved as strings).")
 
 
 if __name__ == "__main__":

@@ -1,697 +1,721 @@
-employee_id,children_name,partner_id
-1,Salsabillah Putri,1
-2,Nasywa Kholda,2
-254,Salsabila Windyani,254
-254,aditya rahman fahrezi,254
-254,zoffi haida rahman,254
-3,Fadia Ramadani,3
-3,Fadilah Nur Romdona,3
-3,Fadlan rizki pratama,3
-4,Mey Rachmawati,4
-5,Regita Rustira Melia,5
-6,Muhammad Idham Chali,6
-7,Dimas Sidiq Waskito,7
-7,Dhia Ghaisani,7
-8,Aqila Putri Mayadhi,8
-9,Anugrah Bintang Prat,9
-9,Kirana Isna Ramadhan,9
-10,Muhammad Arkan Al Gh,10
-11,Muhammad Rayyan Hafizh Aprilianto,11
-11,Clarysa Islami Putri Yulianto,11
-13,Thoriq Ranjas Muhaimin,13
-14,Adinda Putri Pratama,14
-14,Muhammad Arhan Hafiz,14
-73,Mira Sofiani,73
-73,Faramir Diputra,73
-15,Abdul Qodir,15
-15,Muhammad Nur Hidayat,15
-16,Moradiva Qolbu Purba,16
-16,Inez Haura Sakhi Purba,16
-17,Jeremy Averio Naibaho,17
-17,Jeevan Theodore Naibaho,17
-17,Jordan Barton Naibaho,17
-18,Rahma Widya,18
-18,Fandi Wirayudha,18
-18,Rahma Yulia,18
-19,Dhea Fitri Handayani,19
-19,Defani Astuti Jamil,19
-19,Devi Ermi Jamil,19
-20,Angga Purnomo,20
-20,Muhammad Risqi,20
-20,Hafizh Apriyan,20
-21,Randika Pratama,21
-21,Adinda Putri Purnama sari,21
-22,Intan Pitaloka,22
-22,Hanifah Wira Aliyya,22
-22,Arif Maulana Wirawan,22
-23,Tasya Safitri,23
-23,Syahra Safri,23
-24,Karin Selsilia,24
-24,Muhammad Hardiansyah,24
-24,Citra Aprilia,24
-25,Bima Suseno,25
-26,Rifqi Aditya Wibowo,26
-26,Muhammad Aqil Wicaks,26
-27,Raisha Bintang Kuncoro,27
-27,Nazwa Rinda Dwi Kuncoro,27
-27,Raffasya Athaya Alfarizqi,27
-28,Sakhiya Raisa Andrea,28
-29,Eshan Evanto Assyauqi,29
-29,Farrez Yusuf Alhanan,29
-30,FENI NOVIA ANGGRAINI,30
-31,Muhammad Anggun Novriadi S,31
-74,Ahmad Fauzi,74
-74,Reza Saputra,74
-32,MUHAMMAD AL AWZA'IY,32
-32,Nida Al Hafizhah,32
-32,Syakira Az Zahidah,32
-33,Yusra Fadhilah,33
-33,uzunu khaira,33
-33,Erza,33
-34,Aulil Fatimah Az Zahra,34
-35,WIJI AFAN NAUFAL DERI ABRIKA,35
-35,Bagas Deri Wiji Pramudito,35
-35,Bagus Deri Wiji Pramudya,35
-36,Gilang Syahrtu Ramadhan,36
-37,Yudha susanto,37
-37,Nurina Fitriani,37
-38,Tessa Aida Trisna,38
-38,Tesy Muhardina,38
-39,Keysha Berliana Sard,39
-39,Vania Bernika Sardi,39
-39,Zafran qaisardi,39
-40,Ayudiah Salsabila,40
-40,Najwa Kartika Syifa,40
-41,Ari Ryansa,41
-41,Dinda Ayu Antika,41
-42,Agung Ahmad Prayoga,42
-42,Aditya Dwi Prayepta,42
-43,Edo Fajar Prakoso,43
-43,Tyas Wahyu Saqinah,43
-44,Niken Puspa Maydikna,44
-44,Nicko Martien Firmansyah,44
-45,Novita Murti Ningrum,45
-46,Naizsylla Zahra Adhi,46
-46,Listiya Arsa,46
-46,Arfan Putra Utomo,46
-47,Wiji Nurdiansyah,47
-47,Dewi Nursinta Muliani,47
-48,Zainul Wildan,48
-49,Den Arif Triadi Dara,49
-49,Destia Julianti Dara,49
-50,M Supriyanto,50
-50,Zelvie Triwidia,50
-50,Fegie Destria,50
-51,Tri Handayani,51
-52,Matsa Asywaq Mudhiah,52
-52,Alma Sayyidah Claris,52
-53,Danu Yoga Taruna,53
-54,Muhammad Rafif Pratama,54
-55,Testa Putri Aulandar,55
-55,Amelia Putri Marlina,55
-57,Muhamad Rizki,57
-57,Faturahman Akbar,57
-58,Ibra Abidal Gusha,58
-59,Muhammad dzaki,59
-59,Rasyidan Akmal,59
-60,Annisa Agustina,60
-61,Lola Amaliya,61
-61,Wildan,61
-62,Rizka Tiara Citra,62
-63,Muhammad Wildan,63
-63,Muhammad Abyan Haqqi,63
-64,Bimasena Yudhistira,64
-65,Cini Rembulan,65
-65,Halya Saba Tini,65
-66,Nia Ramdhani,66
-66,M. Faqi Ardiyan,66
-67,M. Noufal Febuarrahm,67
-68,Gibran Rafa Pradipta,68
-68,Ghazala Nashwa Alfiy,68
-69,Reynanda Taufiqurrah,69
-70,Sendhy Dimas Saefull,70
-70,Syafa Putri Raisya,70
-71,Muhammad Renata Fairuz,71
-71,Muhammad Rizqi Fauzan,71
-71,Myesha Allesya Zahra,71
-72,Putri Arrumi,72
-75,Siti Badriah,75
-76,Rafli Arisandi Prata,76
-76,Risma Aristiani Putr,76
-76,Rival Ahnaf Baihaqi,76
-77,Delia Anggraini Purnamasari,77
-77,Siska Agustina,77
-78,Syafa Lintang Fadela,78
-78,Khalis Khairul Hadza,78
-79,Zahrotu Syita,79
-79,Muhamad Guntur Saput,79
-80,Althaf Abrisam Nawaf,80
-80,Danesh Assyifatu Hai,80
-81,Raziq Fadjirian,81
-81,Khairani Nurul Syabi,81
-81,Nayra Shanum Triyani,81
-82,ARIF,82
-82,Mohamad Nabil Fauzan,82
-83,Ivander Asmara,83
-83,Thalita Asmara,83
-83,Ayra Dewi Asmara,83
-84,Aura Febi Rahmawati,84
-84,Nuriesta Novianti Pu,84
-85,Fadhil Rizq Fauzan,85
-85,Ghazy Faiz Razan,85
-86,Reva Yulintan Puri A,86
-86,Ola Mardika Puri Dwi,86
-87,Washlihatur Ridho,87
-87,Sholichatun Nawa,87
-88,Farhan Setyo Mrih Husodo,88
-88,Afrizal Setya Pamungkas,88
-89,Intania Fadya Safitr,89
-89,Raffi Syahbani Akbar,89
-90,Fidelyano Ifza Brian,90
-90,Nikita Erlyana Alenta Putri,90
-91,Adistioothrun Nada,91
-91,Muhammad Adrauf Ayyasi,91
-92,Elfano Akbar Adinata,92
-93,Novecha Rachma Prynd,93
-94,Khansa Dayyana Shabr,94
-95,Rifki Arfananda Pras,95
-96,Faizal Rizal,96
-96,Adinda Alifia Assa F,96
-97,Nazwa aulia safitri,97
-98,Khansa Qonitah,98
-99,Adhitya Valentino,99
-100,Dion Cigra Ramadhan,100
-100,Challysta Cinta Adinditya Putri,100
-101,Sabrina Sakhi Naomi Azzahra,101
-101,Pandega Sakha Abiyan Hidayat,101
-102,Novita Ardhia Pratiwi,102
-102,Ardhia Dwi Pangga,102
-103,Dauna Gemy Maisha,103
-104,Muhammad Thoriq Nurcahyo,104
-104,Fadillah Hunafa Nurcahyani,104
-105,Michaela Adilla Martha Pradhana,105
-105,Arshaka Virendra Pradhana,105
-105,Kairha Anila Pradhana,105
-106,Muhamad Ilham Rahmat Saputra,106
-106,Rafif Arkan Nirwasita,106
-107,Fazia Maharani,107
-108,Agatha Firda Nur Yudiana,108
-109,Dinda Ramadhan,109
-110,Dafa Siswanto,110
-110,Septy Arum Melati,110
-111,Herjuno Srinarendra Wicaksono,111
-111,El Fatih Alvarendra,111
-112,Nihlah Adelistiani Putri,112
-112,Sevi Putria Nurohmah,112
-113,Hani Pratiwi,113
-114,Henggar Wahyu Pradana /ldriver rentalulus SMK/,114
-115,Deanisa Adonia Rahma,115
-115,Raid Abdurrahman Rafif,115
-116,Salma Novelinda Almas,116
-116,Salwa Elysia Zuhayr,116
-117,Maulana Afan Rachmansyah,117
-117,Maulana Afin Rachmansyah,117
-118,Yustac Miftachul Huda Fi Ali,118
-118,Zelda Farelia Yusuf,118
-118,Hiro Kenzie Farelino,118
-119,Muchamad Reza Dharma Putra,119
-120,Gege Jayyin Muhammad,120
-120,Galan Zaki Muhammad,120
-121,Atiqah Izzatunnisa Turizah,121
-121,Almahyra Alsha Turizah,121
-122,Salma Andri Shaliha,122
-122,Dzaki Andri Firdausi,122
-122,Kaysa Andri Adzkiya,122
-123,Ghifahry Pratama Putra Iswadi,123
-124,Damar Wahyu Firmansya,124
-124,Cinta Tri Wahyuningsih,124
-125,Rizky Alvieno Putra Pratama,125
-126,Mochamad Ardiansa,126
-127,Venyla Ivadianis,127
-127,Novrida Fitrianatasya,127
-128,Almira Andra Artanti,128
-32,DAUD ADNAN AL MUBARAH,32
-129,Maulinda Aprilia,129
-129,Naura Cila Novianti,129
-129,Muhammad Maulana Rizki Ariyanto,129
-129,AL FAIZDHIL HAFIZ APRIANTO,129
-319,Zidna Azkyatul Fahiroh,319
-319,Putri Ameera Zoya Annayla,319
-130,Zio Rama Hamizan,130
-131,Vicky Galang Satria Farhan,131
-131,Vannes Novia Tiara Farhan,131
-131,Nikko Tri Sasmitha Farhan,131
-132,Arif Roi Putra Pamungkas,132
-133,Nadya Trisna Gumilar Rizki,133
-134,Ernawati Samosir,134
-134,Martha Friska Samosir,134
-135,Faeyza Khairan Gibran,135
-135,bryan abrisam elmeer,135
-136,Yulia Dewi Anggraeni,136
-136,Raffi Rafsya,136
-137,Ayu Fatikah Rahma,137
-137,Nailah Nasyawa,137
-157,Arshaq Zafran Alfariq,157
-138,Ayasha Halwa Zafirah,138
-139,Sabilla Firdaus dwi purwanto,139
-140,Mita Kumalasari,140
-141,Narulita Elviana Rahayu,141
-142,Meiko Dwi Aji Nur Kuncoro,142
-143,Dino Sanjaya,143
-143,Ratih trisa Amelia,143
-144,Edriansyah Alif Putra Purwanto,144
-144,Audriansyah Rahmadhila Putri purwanto,144
-157,Asiah Elz Sita Anggraini,157
-157,FELISHA HANANIA,157
-145,Muchammad Arifin,145
-145,Muchammad Alfan,145
-145,Muchammad Ikhsan Maulana,145
-146,Dimas Saputra,146
-146,Meilani Ananda Putri,146
-147,Adiza Zahra Firdausy,147
-147,Syifa Aulia Ramadhani,147
-148,Fairel Atharizz Hanan,148
-148,Hanin Dhatu Keshwari,148
-149,Septian Dwi Firmansyah,149
-150,Nur meldiana,150
-151,Audina Okta putri,151
-151,Disty Vella Zaneta,151
-152,Risma Quinara Raharjo,152
-152,Naura Azzahra Salsabillah Raharjo,152
-153,Keisya Aurelia,153
-153,Khairus Zain Ramdhani,153
-154,Geby Dwi Valensia,154
-155,Ravasya El rafif Santoso,155
-155,Risvayana Az Zuhkrufa Santoso,155
-178,Akira Rafif Al Biruni,178
-158,Dimas Bintang Wicaksono,158
-159,Keisha Farras Aberico,159
-160,Nabila Anindya Falichah,160
-161,Lia Fitriana,161
-161,ZHAAFIRA SEVTYA NINGRUM,161
-161,Ekky Novita Dewi,161
-162,Naufa Zahrana,162
-162,SANIA ZAHRA NABILA,162
-163,Arfhan Masna Prasetyo,163
-164,Achmad Wahyuan Trisnanda,164
-165,Aditya Rafeal Tri Shaktar,165
-166,MUHAMMAD ANGSAN AL KAUTSAR,166
-166,Muhammad Ziyad Al Barra,166
-167,Ugi triyanto,167
-168,Elvira Ignasius BR sembiring,168
-168,Fran Fernando Sembiring,168
-169,ANDHARA KIRANA MAHESTRI,169
-169,Adam Khalid Akbar,169
-170,Siti Nurafni,170
-170,Inayah Syafitri,170
-171,Fary El Muaffin Simatupang,171
-171,Ryfa Adni Putri Simatupang,171
-171,Ryfa Zakira Simatupang,171
-172,Khafie Arian Siddiq,172
-172,Abian Rafish Siddiq,172
-173,Rahmad Hafiz,173
-173,Nazrey Fauzan Bahy,173
-173,Mirza Al Ghany,173
-174,Teguh Prasetya Ginting,174
-174,Wira Yudha Pratam Ginting,174
-174,Restu Rotamana GInting,174
-175,Viky Prasmana Agung,175
-175,sabrina Hidaya,175
-175,Sufi Hanifa,175
-176,Siti Nurhasanah,176
-176,Galang  Dwi Nugroho,176
-177,Livia Nurul Syafitri,177
-177,Visha Juan Syafitri,177
-178,Cucu Arif Mukhtiwarman,178
-179,Anugrah Pratama Allin,179
-180,Rufaidal Ansahri,180
-180,Qatrunada,180
-180,Oktafia Suryani,180
-181,Anisa Kharisma Yanti,181
-423,Muhammad Zaki,423
-182,Dinar Irfanda,182
-182,Zacky Ibrahim,182
-183,Chici Defril Triatna,183
-183,Pipit Defril Triatna,183
-184,Hafizhah Permata Puteri,184
-184,Muhammad Furqon,184
-185,Doni Pranomo warsito,185
-185,Dyah Pratiwi Warsito,185
-186,Olivia Gracia Margaretha,186
-187,Agnes Wanda Mariska,187
-187,Lionel Rizki Ramadhan,187
-188,Rey Pratama Stiawan,188
-189,Salwa Fadia Novariana,189
-189,Zaidan Abel Pranaja,189
-190,Barra Putra Perdana,190
-190,Tristan Askarullah CR,190
-191,Calvin Luisa Fernanda,191
-192,Yusda Satria Inka,192
-193,Randya Tuzza Ramdhani,193
-194,M Rizky Nurholis,194
-194,Winda Ayu Suratih,194
-195,Keysha Azhara Nathania,195
-196,Raditya Abidil Putra Pratama,196
-196,Nandhita Fatina Z,196
-197,Bunga Marchelia hadi,197
-197,Faruq Irfanul Hadi,197
-198,Dilan Mulia,198
-198,Muhammad Rizki,198
-199,Gibran Naufal Nurrahman,199
-199,Sekar Eiliya Nismara,199
-199,Erina Shafa Nismara,199
-200,Angga,200
-200,Syifa Nurdiana,200
-200,Syafira Rahma Dini,200
-201,Dira Nanda Nabila,201
-202,Fahrizal Firmansyah,202
-202,Friska Dian Novita,202
-203,Favian Felix Suprastyo,203
-203,Rakha Prayoga Suprasetyo,203
-204,Chandra Dwi Kusuma,204
-205,Nabila Verdiana,205
-206,Tristan Allegra Timor,206
-207,Diga Sanjaya,207
-208,Muhammad Rahman Fathoni,208
-208,M. ILHAM,208
-238,M ilham,238
-209,Bela Anjela,209
-209,Jesika Dwi Nanda puspa Anjela,209
-209,Klodia Anjela,209
-210,Rini Aufaliliani,210
-210,Rizka Margareta,210
-240,Ananda Aulia Wahyuni,240
-240,Nuralia Putri Wahyuni,240
-211,Sandi Perdian Putra,211
-211,Nadia Putri Veriani,211
-212,Muhammad Satriyo Abdi,212
-212,Syifa Zahra Utami,212
-213,Aprilyta Arisya,213
-213,Rasyid Al Abid Delfa,213
-214,M Ikhsan Prasetyo,214
-214,Alenavela,214
-215,Az Zahra Adellia,215
-215,Mas Syahmil Anugrah fizi,215
-216,Aqillah Esmeralda,216
-217,Oktafiani masinah,217
-217,Rizki M Farhan,217
-218,Daffa Roinan fauzi Farras,218
-218,Khafi fauzan Hafidz,218
-219,Nuuru Aqsa Rachmawati,219
-219,Chairunisa Putri,219
-220,Erdi Taruna Perkasa,220
-220,Adji Permana,220
-220,Wira tri Nugraha,220
-220,ARYA WIBISONO,220
-221,Nur ajizah suryani,221
-222,Yulia Anggraeni,222
-223,lautza Syafura Syaits,223
-224,Suprayoga Pangestu,224
-225,Rizki Saputra,225
-225,Nuraeni Haryati bvalid,225
-226,Wahyu Putra Pamungkas,226
-226,Adi Nugroho Jakti BValid,226
-227,Farah Amalina Firzana,227
-227,Luthfi Raditya Zaidan,227
-244,muhammad galih pratama,244
-244,gibran budi presetio,244
-228,Thoriq Aziz Mushoffa,228
-228,Hilmy Aziz Ulinnuha,228
-228,Rakha Aziz Mubarok,228
-229,MARYAM FILDZAH,229
-229,ALYSHA CHAIRA,229
-229,MUHAMMAD ADZAM,229
-230,ayra putri khaliqa dzahin,230
-231,salman alfaritsyi,231
-232,fina diniyanti,232
-233,azza alghifari,233
-234,safa adelia jelita,234
-235,waode kamelia oktavia,235
-236,heni herawati,236
-237,rajali ananda firsi,237
-237,syalwalia ananda firsi,237
-238,muhammad rizqy ramadhani,238
-239,zena Apriana,239
-239,rena restiana,239
-241,fajri rizki ramadhan,241
-241,Kastijan,241
-242,muhammad ozil ilham,242
-242,Anggie Martha,242
-243,rafael niki putra sigit,243
-245,muhammad aditya pratama,245
-245,muhammad hanif al ghifari,245
-246,rizkya cahya lestari,246
-246,fiqih maulana yusuf kurniawan,246
-247,amanda sekar,247
-248,Dyah Putri Angraini,248
-248,Amanda Syifa Dwi Anggraini,248
-248,raysya nugraini azzahra,248
-249,rafik hidayat,249
-250,septiarani yusman,250
-250,Balkis Tiara,250
-251,hafidzah nur radhwa,251
-252,bagas wijanarko,252
-252,carissa lirana putri,252
-253,evi apriani,253
-255,tb sulhan,255
-255,TB Maulana Rifky Aditya,255
-256,farold abigail saragih,256
-256,audrey yesa lonika,256
-257,muhammad fajar,257
-257,syaidu akbar,257
-257,nazua aulia suhada,257
-258,muhammad fadly,258
-258,putri aryanti,258
-258,Sahrudin,258
-259,baitin ilafah,259
-259,Khusnul Fajar,259
-259,kusnul Fajrina,259
-260,bayu kusmaedi,260
-260,danu septa kusuma,260
-260,azmi firdaus,260
-263,Vara Yuniar Abela,263
-264,Muhamad muklas,264
-303,Waffiq Hayyan Salamul Ghazy,303
-303,Jaddid Ayyadna Ghalibul Ghazy,303
-266,ANINDIA DEBIRA KUMALAHSARI,266
-305,Isayu Awiya Hasanah,305
-268,Agit Kafi Nur Afan,268
-268,Helga Ruly Hartita,268
-268,Dhegita Nancy Ruliyaputri,268
-269,NARATAMA KEENAN EDOGAWA,269
-270,Muhammad Vikri,270
-270,Aisah Amalia,270
-271,Muhammad Rizky Irsyad,271
-271,Aurora Khairunissa,271
-271,Muhammad Raihan Rasyid,271
-272,Jihan Aqmarina Mumtaaza,272
-272,Muhammad Raffa S P,272
-272,Vania Tri Purnama,272
-273,tita aulia sany,273
-274,Muhammad iqbal novarianto,274
-275,aristian candra mualim,275
-276,Dani,276
-276,Dhadan Ramdhany,276
-276,Alya Afifa widhan,276
-277,Taufik Hidayat,277
-277,Sri Devi Rosalina,277
-278,Rizma Dita Cahyani,278
-278,Hanif Tri Yuniar,278
-279,Fadlan Ananda Rizky,279
-279,Haikal Azhar,279
-279,Arbian Herwinda Faiko,279
-280,Faaris Syaifullah,280
-281,Novia Ega Putri,281
-282,Nadira Silmi Alifah,282
-282,Nayla Alillatulbariza Izzaty,282
-283,Nadila Azzahra Ritonga,283
-284,Nur Ismah Salsabila,284
-284,Shabrina Luthfiyah,284
-284,Sahila Ananada Toti SalShabrina,284
-285,Andy Reysa Nugroho,285
-286,Muna Ridadatul Aisya,286
-287,Salsa Marsela Mahpudin,287
-287,Shidiq Mutaqin Mahpudin,287
-288,AJENG MELVI RIANTI S,288
-288,Bima Dzaki Santoso,288
-288,Rai Pranaja Santoso,288
-289,Azzahra Qurota Aini,289
-289,Dawam Nugraha,289
-290,Indah Arum Sari,290
-291,Syifa Khairunisa,291
-292,Muhammad Raffa Husein,292
-292,Keiyla Fakhira Husein,292
-342,Nadila Febyanti,340
-342,Shikia Nafia Azizah,340
-343,Vivi Nurul Ismi,341
-344,Reival Nur Ihsan,342
-345,Vrisko Prasetya,343
-346,Eca Aditia Rifa,344
-346,Refa Aditia Nur,344
-346,Restu Aditia Octaviani,344
-347,M Hauvanza Almeer,346
-348,Pradybta Yenaya,347
-348,Nadira Dinar Asyifa,347
-349,MOCH. FANI IRSADI,348
-349,MOCH. HADI IRAWAN,348
-350,Raifan Tri Al Hakim,349
-358,Radiah Imanda,357
-359,Amellia Zulkira,358
-359,Adytia Fajar Zulma,358
-360,IQBAL DANISH FIANDY,359
-361,Azkha Ananda,360
-361,Muchammad Bintang,360
-361,Zoya Az Zahra,360
-362,Muri Nur Anisa,361
-300,M Andicka Saputra,300
-300,M Fahri Kurniawan,300
-300,Dina Oktaviana,300
-364,Arshaka Senandika Kresna,363
-365,Mohammad Irfan Anwar,364
-366,Wildan Athaya Fattan P,365
-366,Ghibran Aswindra Akmal P,365
-367,Zamara Nayuria Mars,366
-368,Ahmad Khalid Febrianto,367
-369,RAJENDRA PUTRA,368
-369,DIANDRA PUTRI,368
-370,Gatot Wibowo,369
-371,Rengganis Handini Wijaya,370
-371,Mutiara Paramita,370
-379,Arfan Tribudiman,377
-385,Irwansyah,383
-395,Alfia Wardah,393
-396,Ibrahim Ibnu Maharto,394
-397,Salma Astuti,395
-397,Fajar Muhammad,395
-398,Zalfa Al Zena,396
-399,Farid Nurfadillah,397
-400,Nur Azizah,398
-374,Budiati Purwaningtyas,373
-401,Silvia Triana,399
-402,Tegar Jati Nugroho,400
-403,Dwi Cahyono,401
-404,Keyla Mauren,402
-316,Wahyu Septianto,316
-12,Eliana Putri Aryajaya,12
-12,Helena Citra Aryajaya,12
-156,AKIRA RAFIF AL BIRUNI,156
-156,KITARO ARKANA ARSYAD,156
-216,AQILAH ESMERALDA,216
-340,MARISA IRDA MARNI,339
-265,SOLEHATUL AINAL FITRI,265
-260,FAHRI AL FAHRIZI,260
-293,DENAYA FERRARI NOVAL AGATRA,293
-322,ANDRIANTO,322
-301,KAMILIA NURKHAN,301
-294,DENZEL TOYIBA ANUGRAH,294
-295,LISNA FEBRIANINGSIH,295
-296,ANDIKA MAULANA,296
-299,RIFKY AZKA FEB,299
-298,RAIHAN FEBRIANSYAH,298
-298,REFAN FIRMANSYAH,298
-302,CHINDY ADISTYA,302
-304,MUHAMMAD DAFFA ALTHAF PURNAMA,304
-307,RYAN KUSUMAWARDHANA,307
-311,ARYO TRIPUTRA,311
-309,AKBAR PRASETYO,309
-310,ASSYFA LAYLA NABILA,310
-314,RASKI FAZIL MARYANDHI,314
-315,TAZKIYA NISA NURLILLAH,315
-315,MUHAMAD IZZUL MUTTAQIIN,315
-306,JELMA LIFA AGUSTI,306
-306,MEDINA AQSHALITA AGUSTI,306
-316,FAIREL ATHARIZZ CALIEF,316
-317,ARSEN AL FARIZI,317
-318,RHEA HANIFA AWANDITA,318
-318,MUHAMMAD GELENDRA ALFARISQY,318
-320,MUHAMMAD KHUSAIRI ILHAM,320
-320,MUHAMMAD SYAHRIAL IKHRAM,320
-321,SELLA FITRA SEPTIANA,321
-321,ELIFINA RAFFAZA PUTRI,321
-323,AN NAJMA NOURA SAEPULLOH,323
-329,SALMA WIDYA LESTARI,329
-330,NAUFAL SHIDQII RAMDHAN,330
-330,SHIDQIA INARA PUTRI,330
-330,SHIDQIA YHARA ALMAHYRA,330
-325,REYNALIEF PRIMAWISESA,325
-324,PRAMUDYA RAMDANI,324
-340,RIFQI ZAHID FEBRIAN,339
-326,RIZKI NOVIA RHOMADANTI,326
-326,MOH. ARIF SEPTIANTO,326
-313,AILSHA SHABILA,313
-313,Ramdhan Adjie Pratama,313
-327,INTAN MULYANI,327
-328,GHILYANA MAURITS,328
-328,LUTFI BAEDUDI RAMADHAN,328
-328,KANZA SHAFIRA MARITZA,328
-328,ZABDAN FATIH NURI FAEYZA,328
-333,BAYU NOVAL RENALDI,332
-339,MUHAMMAD DZAKY BIAIFIS,338
-339,VANIA KEYSHA ARAFAH,338
-334,GENDIS RARASATI NAJMUSABAH,333
-334,GHUMAISSA NAWANG,333
-331,FADEL MUHAMMAD ISRO,331
-335,MARSELLA ROSARI,334
-336,YUVITA NURKAMIN,335
-336,ALISSYA DWI NURANGGREINI,335
-337,NATHANIA LATISHA MAHESTRI,336
-337,FABIAN SHAWQI,336
-338,MUHAMMAD ZIDAN FATHURROHMAN,337
-338,MUHAMMAD FARHAN RAMADHAN,337
-408,AJUNA MANDALA AZYANO,345
-356,ADINDAR SETIAWAN,355
-351,SONYA FATIRA ADELIA,350
-352,NAZWA SALSABILAH W,351
-353,MUHAMMAD AGHA ALTHAF,352
-353,NADHIEF ARSHAKA YUSUF,352
-357,YASNIVA AGNES,356
-373,ANISSA,372
-409,NOVI FITRIANINGRUM,407
-409,NAUFAL RIFKI KAMID,407
-393,KEICIPTA AYUNING LINTANG,391
-394,MAULANA MALIK IBRAHIM,392
-380,FAIRUS ZULKIYAD DIMYATI,378
-380,IZDHAR AGUSTIN DIMUATI,378
-392,ANNISA NURMALITA,390
-382,DEWA BAGUS PUTRA YUDHISTIRA,380
-382,DEWI AYU CINTA APRILIA,380
-410,MUHAMAD ABYAN SYAKIR,408
-381,RIDHO NGALYYA EL ROSYID,379
-388,SITI MUFIKAH MUADZATUL,386
-389,M. SULTAN FANDHI SYAUQI,387
-391,KHALIMATUS SA ' DIYAH,389
-383,M. EXCEL ALFARISI,381
-384,nadia diva zulaikha,382
-384,NABILA TSANIYA FAZA,382
-384,RAJENDRA ZAFRAN,382
-387,SOFIA MASITAH,385
-390,MUHAMMAD RANDI FADILAH,388
-390,ATHALLAH,388
-411,RAFA ANUGERAH BHAYANGKARA,409
-412,NOVIANI,410
-412,FEBRIADY,410
-412,FATHIYYAH,410
-413,DIMITRI BRYANT IVANOV,411
-414,M. AVAN DWI ADI NUR KHOLIQ,412
-414,AEIRIL YN BELLVANIA ZAAFARANI,412
-415,SUMBI GARINTIS,413
-415,HILDARA PUNGGAR,413
-411,RAGIL KURNIA RAMADHAN SOLIHIN,409
-416,ALICIA MAHARANI,414
-417,FAREL RISKI ADITIYA,415
-418,AKBAR ADITAMA,416
-407,MAHARANI WIDANINGSIH,406
-419,NAVISA HAPSARI,417
-419,FATHIIYA HANI AZKIYA,417
-419,MUHAMAD WAHYU KURNIAWAN,417
-420,ROYYAN HALI SATRIAN,418
-421,RENDY MALANDI,419
-422,NUR CHASANAH,420
-312,Galih Saputra Sopyan,312
-312,Gilang Prasetya Sopyan,312
-312,Galvin Nurazhar,312
-297,Diana Utami,297
-363,Aqila Zahwa Naadhira,362
-267,ANNISA AGUSTINA RAMADHANI,267
-386,Andra Caesar Saputra,384
-386,M Aidil Arafah,384
+children_id,employee_id,partner_id,home_id,children_name,children_birthdate,children_address,children_phone,notes,is_father_alive,is_mother_alive,children_gender,is_condition,is_active
+1,65,65,1,Salsabillah Putri,17-11-2004,,,,FALSE,TRUE,F,TRUE,TRUE
+2,103,103,2,Nasywa Kholda,21-05-2001,,,,FALSE,TRUE,F,TRUE,TRUE
+3,301,300,3,Salsabila Windyani,30-10-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+4,301,300,3,Aditya Rahman Fahrezi,,,,,FALSE,TRUE,M,TRUE,TRUE
+5,301,300,3,Zoffi Haida Rahman,25-11-2015,,,,FALSE,TRUE,M,TRUE,TRUE
+6,256,256,4,Fadia Ramadani,,,,,FALSE,TRUE,F,TRUE,TRUE
+7,256,256,4,Fadilah Nur Romdona,05-10-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+8,256,256,4,Fadlan Rizki Pratama,10-05-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+9,72,72,5,Mey Rachmawati,12-11-2002,,,,FALSE,TRUE,F,TRUE,TRUE
+10,224,224,6,Regita Rustira Melia,07-05-2010,,,,FALSE,TRUE,F,TRUE,TRUE
+11,110,110,7,Muhammad Idham Chali,31-03-2004,,,,FALSE,TRUE,M,TRUE,TRUE
+12,204,204,8,Dimas Sidiq Waskito,08-11-2011,,,,FALSE,TRUE,M,TRUE,TRUE
+13,204,204,8,Dhia Ghaisani,06-03-2015,,,,FALSE,TRUE,F,TRUE,TRUE
+14,320,319,9,Aqila Putri Mayadhi,10-11-2015,,,,FALSE,TRUE,F,TRUE,TRUE
+15,228,228,10,Anugrah Bintang Prat,31-05-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+16,228,228,10,Kirana Isna Ramadhan,01-11-2011,,,,FALSE,TRUE,F,TRUE,TRUE
+17,321,320,11,Muhammad Arkan Al Gh,08-11-2017,,,,FALSE,TRUE,M,TRUE,TRUE
+18,182,182,12,Muhammad Rayyan Hafizh Aprilianto,23-11-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+19,182,182,12,Clarysa Islami Putri Yulianto,,,,,FALSE,TRUE,F,TRUE,TRUE
+20,264,264,13,Thoriq Ranjas Muhaimin,06-04-2015,,,,FALSE,TRUE,M,TRUE,TRUE
+21,358,357,14,Adinda Putri Pratama,03-11-2010,,,,FALSE,TRUE,F,TRUE,TRUE
+22,358,357,14,Muhammad Arhan Hafiz,22-11-2016,,,,FALSE,TRUE,M,TRUE,TRUE
+23,157,157,15,Mira Sofiani,20-05-2004,,,,FALSE,TRUE,F,TRUE,FALSE
+24,157,157,15,Faramir Diputra,20-05-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+25,251,251,16,Abdul Qodir,28-10-2014,,,,FALSE,TRUE,M,TRUE,TRUE
+26,251,251,16,Muhammad Nur Hidayat,11-05-2019,,,,FALSE,TRUE,M,TRUE,TRUE
+27,390,390,17,Moradiva Qolbu Purba,10-11-2015,,,,FALSE,TRUE,M,TRUE,TRUE
+28,390,390,17,Inez Haura Sakhi Purba,10-07-2017,,,,FALSE,TRUE,F,TRUE,TRUE
+29,316,315,18,Jeremy Averio Naibaho,27-10-2014,,,,FALSE,TRUE,M,TRUE,TRUE
+30,316,315,18,Jeevan Theodore Naibaho,11-07-2017,,,,FALSE,TRUE,M,TRUE,TRUE
+31,316,315,18,Jordan Barton Naibaho,11-07-2017,,,,FALSE,TRUE,M,TRUE,TRUE
+32,176,176,19,Rahma Widya,02-06-2004,,,,FALSE,FALSE,F,TRUE,TRUE
+33,176,176,19,Fandi Wirayudha,31-10-2006,,,,FALSE,FALSE,M,TRUE,TRUE
+34,176,176,19,Rahma Yulia,31-10-2006,,,,FALSE,FALSE,F,TRUE,TRUE
+35,400,400,20,Dhea Fitri Handayani,06-11-2001,,,,FALSE,TRUE,F,TRUE,TRUE
+36,400,400,20,Defani Astuti Jamil,11-07-2006,,,,FALSE,TRUE,F,TRUE,TRUE
+37,400,400,20,Devi Ermi Jamil,11-07-2006,,,,FALSE,TRUE,F,TRUE,TRUE
+38,222,222,21,Angga Purnomo,28-10-2002,,,,FALSE,TRUE,M,TRUE,TRUE
+39,222,222,21,Muhammad Risqi,31-10-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+40,222,222,21,Hafizh Apriyan,31-10-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+41,288,287,22,Randika Pratama,10-11-2004,,,,FALSE,TRUE,M,TRUE,TRUE
+42,288,287,22,Adinda Putri Purnama Sari,16-11-2011,,,,FALSE,TRUE,F,TRUE,TRUE
+43,291,290,23,Intan Pitaloka,06-04-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+44,291,290,23,Hanifah Wira Aliyya,11-05-2012,,,,FALSE,TRUE,F,TRUE,TRUE
+45,291,290,23,Arif Maulana Wirawan,11-05-2012,,,,FALSE,TRUE,M,TRUE,TRUE
+46,89,89,24,Tasya Safitri,05-11-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+47,89,89,24,Syahra Safri,11-01-2004,,,,FALSE,TRUE,F,TRUE,TRUE
+48,290,289,25,Karin Selsilia,04-11-2010,,,,FALSE,TRUE,F,TRUE,TRUE
+49,290,289,25,Muhammad Hardiansyah,28-07-2011,,,,FALSE,TRUE,M,TRUE,TRUE
+50,290,289,25,Citra Aprilia,28-07-2011,,,,FALSE,TRUE,F,TRUE,TRUE
+51,211,211,26,Bima Suseno,01-11-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+52,210,210,27,Rifqi Aditya Wibowo,15-11-2009,,,,FALSE,TRUE,M,TRUE,TRUE
+53,210,210,27,Muhammad Aqil Wicaks,11-10-2014,,,,FALSE,TRUE,M,FALSE,TRUE
+54,250,250,28,Raisha Bintang Kuncoro,15-11-2004,,,,FALSE,TRUE,F,TRUE,TRUE
+55,250,250,28,Nazwa Rinda Dwi Kuncoro,15-11-2009,,,,FALSE,TRUE,F,TRUE,TRUE
+56,250,250,28,Raffasya Athaya Alfarizqi,15-11-2009,,,,FALSE,TRUE,F,TRUE,TRUE
+57,398,398,29,Sakhiya Raisa Andrea,06-11-2017,,,,FALSE,TRUE,F,TRUE,TRUE
+58,399,399,30,Eshan Evanto Assyauqi,16-11-2020,,,,FALSE,TRUE,M,TRUE,TRUE
+59,399,399,30,Farrez Yusuf Alhanan,16-07-2023,,,,FALSE,TRUE,M,TRUE,TRUE
+60,43,43,31,Feni Novia Anggraini,20-05-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+61,22,22,32,Muhammad Anggun Novriadi S,20-05-2004,,,,FALSE,TRUE,M,TRUE,TRUE
+62,159,159,33,Ahmad Fauzi,20-05-2004,,,,FALSE,TRUE,M,TRUE,TRUE
+63,159,159,33,Reza Saputra,20-05-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+64,292,291,34,Muhammad Al Awza'Iy,20-05-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+65,292,291,34,Nida Al Hafizhah,20-05-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+66,292,291,34,Syakira Az Zahidah,20-05-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+66,44,44,35,Yusra Fadhilah,26-01-1990,,,,FALSE,TRUE,M,TRUE,FALSE
+67,44,44,35,Uzunu Khaira,01-02-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+68,285,284,36,Maulinda Aprilia,,,,,FALSE,TRUE,F,TRUE,TRUE
+69,44,44,35,Erza,02-01-2005,,,bekerja di KAI Umum,FALSE,TRUE,M,TRUE,FALSE
+70,285,284,36,Naura Cila Novianti,11-04-2011,,,,FALSE,TRUE,F,TRUE,TRUE
+71,266,266,37,Aulil Fatimah Az Zahra,10-04-2013,,,,FALSE,TRUE,F,TRUE,TRUE
+72,285,284,36,Muhammad Maulana Rizki Ariyanto,2015-01-03,,,,FALSE,TRUE,M,TRUE,TRUE
+73,323,322,38,Wiji Afan Naufal Deri Abrika,20-03-2012,,,,FALSE,TRUE,M,TRUE,TRUE
+74,285,284,36,Al Faizdhil Hafiz Aprianto,,,,,FALSE,TRUE,M,TRUE,TRUE
+75,323,322,38,Bagas Deri Wiji Pramudito,0000-00-00,,,,FALSE,TRUE,M,TRUE,TRUE
+76,314,313,39,Zidna Azkyatul Fahiroh,,,,,FALSE,FALSE,F,TRUE,TRUE
+77,323,322,38,Bagus Deri Wiji Pramudya,,,,,FALSE,TRUE,M,TRUE,TRUE
+78,314,313,39,Putri Ameera Zoya Annayla,08-09-2020,,,,FALSE,FALSE,F,TRUE,TRUE
+79,322,321,40,Gilang Syahrtu Ramadhan,20-05-2008,,,,FALSE,TRUE,M,TRUE,TRUE
+80,388,388,41,Zio Rama Hamizan,,,,,FALSE,TRUE,M,TRUE,TRUE
+81,25,25,42,Yudha Susanto,01-06-1999,,,,FALSE,TRUE,M,TRUE,FALSE
+82,279,278,43,Vicky Galang Satria Farhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+83,25,25,42,Nurina Fitriani,20-05-2004,,,,FALSE,TRUE,F,TRUE,TRUE
+84,279,278,43,Vannes Novia Tiara Farhan,29-11-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+85,42,42,44,Tessa Aida Trisna,20-09-2004,,,,FALSE,TRUE,F,TRUE,TRUE
+86,279,278,43,Nikko Tri Sasmitha Farhan,2009-07-01,,,,FALSE,TRUE,M,TRUE,TRUE
+87,42,42,44,Tessy Muharnida,26-06-2000,,,,FALSE,TRUE,F,TRUE,FALSE
+88,402,402,45,Arif Roi Putra Pamungkas,,,,,FALSE,TRUE,M,TRUE,FALSE
+89,188,188,46,Keysha Berliana Sard,20-05-2011,,,,FALSE,TRUE,F,TRUE,TRUE
+90,403,403,47,Nadya Trisna Gumelar Rizki,,,,,FALSE,TRUE,F,TRUE,FALSE
+91,265,265,48,Arshaq Zafran Alfariq,09-12-2018,,,,FALSE,TRUE,M,TRUE,TRUE
+92,188,188,46,Vania Bernika Sardi,20-05-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+93,404,404,49,Ernawati Samosir,,,,,FALSE,FALSE,F,TRUE,FALSE
+94,375,375,50,Ayasha Halwa Zafirah,,,,,FALSE,TRUE,F,TRUE,TRUE
+95,265,265,48,Asiah Elz Sita Anggraini,,,,,FALSE,TRUE,F,TRUE,TRUE
+96,188,188,46,Zafran Qaisardi,20-05-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+97,404,404,49,Martha Friska Samosir,20-05-2003,,,,FALSE,FALSE,M,TRUE,FALSE
+98,123,123,51,Sabilla Firdaus Dwi Purwanto,,,,,FALSE,TRUE,F,TRUE,FALSE
+99,265,265,48,Felisha Hanania,19-04-2015,,,,FALSE,TRUE,F,TRUE,TRUE
+100,267,267,52,Hanin Dhatu Keshwari,29-03-2019,,,,FALSE,TRUE,F,TRUE,TRUE
+101,168,168,53,Ayudiah Salsabila,25-04-2009,,,,FALSE,TRUE,F,TRUE,TRUE
+102,408,408,54,Faeyza Khairan Gibran,,,,,FALSE,TRUE,M,TRUE,TRUE
+103,124,124,55,Mita Kumalasari,,,,,FALSE,TRUE,F,TRUE,FALSE
+104,229,229,56,Muchammad Arifin,,,,,FALSE,TRUE,M,TRUE,TRUE
+105,276,275,57,Septian Dwi Firmansyah,,,,,FALSE,TRUE,M,TRUE,TRUE
+106,252,252,58,Ravasya El Rafif Santoso,,,,,FALSE,TRUE,M,TRUE,TRUE
+107,168,168,53,Najwa Kartika Syifa,21-04-2010,,,,FALSE,TRUE,F,TRUE,TRUE
+108,408,408,54,Bryan Abrisam Elmeer,22-12-2023,,,,FALSE,TRUE,M,TRUE,TRUE
+109,133,133,59,Narulita Elviana Rahayu,,,,,FALSE,TRUE,F,TRUE,FALSE
+110,229,229,56,Muchammad Alfan,15-06-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+111,284,283,60,Nur Meldiana,,,,,FALSE,TRUE,F,TRUE,TRUE
+112,252,252,58,Risvayana Az Zuhkrufa Santoso,03-09-2019,,,,FALSE,TRUE,F,TRUE,TRUE
+113,259,259,61,Sania Zahra Nabila,02-07-2018,,,,FALSE,TRUE,F,TRUE,TRUE
+114,31,31,62,Ari Ryansa,20-05-2000,,,,FALSE,TRUE,M,TRUE,FALSE
+115,405,405,63,Yulia Dewi Anggraeni,,,,,FALSE,TRUE,F,TRUE,TRUE
+116,91,91,64,Meiko Dwi Aji Nur Kuncoro,,,,,FALSE,TRUE,M,TRUE,TRUE
+117,229,229,56,Muchammad Ikhsan Maulana,2009-05-26,,,,FALSE,TRUE,M,TRUE,TRUE
+118,324,323,65,Audina Okta Putri,,,,,FALSE,TRUE,F,TRUE,TRUE
+119,327,326,66,Akira Rafif Al Biruni,,,,,FALSE,TRUE,M,TRUE,FALSE
+120,368,368,67,Arfhan Masna Prasetyo,,,,,FALSE,TRUE,M,TRUE,TRUE
+121,363,362,68,Adam Khalid Akbar,,,,,FALSE,TRUE,M,TRUE,TRUE
+122,31,31,62,Dinda Ayu Antika,01-01-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+123,405,405,63,Raffi Rafsya,05-03-2016,,,,FALSE,TRUE,M,TRUE,TRUE
+124,179,179,69,Dino Sanjaya,,,,,FALSE,TRUE,M,TRUE,TRUE
+125,239,239,70,Dimas Saputra,,,,,FALSE,TRUE,M,TRUE,FALSE
+126,324,323,65,Disty Vella Zaneta,18-07-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+127,383,383,71,Dimas Bintang Wicaksono,,,,,FALSE,TRUE,M,TRUE,TRUE
+128,351,350,72,Achmad Wahyuan Trisnanda,,,,,FALSE,TRUE,M,TRUE,TRUE
+129,272,272,73,Siti Nurafni,,,,,FALSE,TRUE,F,TRUE,TRUE
+130,172,172,74,Mirza Al Ghany,2013-08-31,,,,FALSE,TRUE,M,TRUE,TRUE
+131,156,156,75,Agung Ahmad Prayoga,20-06-2000,,,,FALSE,TRUE,M,TRUE,FALSE
+132,165,165,76,Ayu Fatikah Rahma,,,,,FALSE,TRUE,F,TRUE,TRUE
+133,179,179,69,Ratih Trisa Amelia,03-07-2010,,,,FALSE,TRUE,F,TRUE,TRUE
+134,239,239,70,Meilani Ananda Putri,25-05-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+135,355,354,77,Risma Quinara Raharjo,,,,,FALSE,TRUE,F,TRUE,TRUE
+136,254,254,78,Keisha Farras Aberico,,,,,FALSE,TRUE,M,TRUE,TRUE
+137,195,195,79,Aditya Rafeal Tri Shaktar,,,,,FALSE,TRUE,M,TRUE,TRUE
+138,272,272,73,Inayah Syafitri,22-07-2015,,,,FALSE,TRUE,F,TRUE,TRUE
+139,359,358,80,Teguh Prasetya Ginting,,,,,FALSE,TRUE,M,TRUE,TRUE
+140,41,41,81,Visha Juan Syafitri,01-01-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+141,156,156,75,Aditya Dwi Prayepta,20-05-2002,,,,FALSE,TRUE,M,TRUE,TRUE
+142,165,165,76,Nailah Nasyawa,03-06-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+143,226,226,82,Edriansyah Alif Putra Purwanto,,,,,FALSE,TRUE,M,TRUE,TRUE
+144,242,242,83,Adiza Zahra Firdausy,,,,,FALSE,TRUE,F,TRUE,TRUE
+145,355,354,77,Naura Azzahra Salsabillah Raharjo,20-08-2015,,,,FALSE,TRUE,F,TRUE,TRUE
+146,354,353,84,Nabila Anindya Falichah,,,,,FALSE,TRUE,F,TRUE,TRUE
+147,217,217,85,Muhammad Angsan Al Kautsar,,,,,FALSE,TRUE,M,TRUE,TRUE
+148,325,324,86,Fary El Muaffin Simatupang,,,,,FALSE,TRUE,M,TRUE,TRUE
+149,359,358,80,Wira Yudha Pratam Ginting,01-01-2008,,,,FALSE,TRUE,M,TRUE,TRUE
+150,327,326,66,Cucu Arif Mukhtiwarman,,,,,FALSE,TRUE,M,TRUE,TRUE
+151,139,139,87,Chici Defril Triatna,,,,,FALSE,TRUE,F,TRUE,FALSE
+152,19,19,88,Edo Fajar Prakoso,20-05-2002,,,,FALSE,TRUE,M,TRUE,TRUE
+153,226,226,82,Audriansyah Rahmadhila Putri Purwanto,16-10-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+154,242,242,83,Syifa Aulia Ramadhani,31-08-2009,,,,FALSE,TRUE,F,TRUE,TRUE
+155,356,355,89,Keisya Aurelia,,,,,FALSE,TRUE,F,TRUE,TRUE
+156,350,349,90,Lia Fitriana,,,,,FALSE,TRUE,F,TRUE,TRUE
+157,217,217,85,Muhammad Ziyad Al Barra,17-11-2010,,,,FALSE,TRUE,M,TRUE,TRUE
+158,325,324,86,Ryfa Adni Putri Simatupang,01-03-2015,,,,FALSE,TRUE,F,TRUE,TRUE
+159,359,358,80,Restu Rotamana Ginting,2013-04-02,,,,FALSE,TRUE,M,TRUE,TRUE
+160,384,384,91,Anugrah Pratama Allin,,,,,FALSE,TRUE,M,TRUE,TRUE
+161,139,139,87,Pipit Defril Triatna,20-05-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+162,329,328,92,Salwa Fadia Novariana,,,,,FALSE,TRUE,F,TRUE,TRUE
+163,19,19,88,Tyas Wahyu Saqinah,20-05-2006,,,,FALSE,TRUE,F,TRUE,FALSE
+164,267,267,52,Fairel Atharizz Hanan,,,,,FALSE,TRUE,M,TRUE,TRUE
+165,356,355,89,Khairus Zain Ramdhani,03-06-2019,,,,FALSE,TRUE,M,TRUE,TRUE
+166,350,349,90,Zhaafira Sevtya Ningrum,01-09-2012,,,,FALSE,TRUE,F,TRUE,TRUE
+167,407,407,93,Ugi Triyanto,,,,,FALSE,TRUE,M,TRUE,FALSE
+168,325,324,86,Ryfa Zakira Simatupang,2022-03-04,,,,FALSE,TRUE,F,TRUE,TRUE
+169,212,212,94,Viky Prasma Agung,,,,,FALSE,TRUE,M,TRUE,FALSE
+170,117,117,95,Rufaidal Ansahri,,,,,FALSE,TRUE,M,TRUE,FALSE
+171,45,45,96,Hafizhah Permata Puteri,2024-05-29,,,,FALSE,TRUE,M,TRUE,TRUE
+172,329,328,92,Zaidan Abel Pranaja,09-05-2016,,,,FALSE,TRUE,M,TRUE,TRUE
+173,345,344,97,Raditya Abidil Putra Pratama,,,,,FALSE,FALSE,M,TRUE,TRUE
+174,127,127,98,Niken Puspa Maydikna,20-05-1999,,,,FALSE,TRUE,F,TRUE,FALSE
+175,357,356,99,Geby Dwi Valensia,,,,,FALSE,TRUE,F,TRUE,TRUE
+176,350,349,90,Ekky Novita Dewi,,,,,FALSE,TRUE,F,TRUE,TRUE
+177,111,111,100,Elvira Ignasius Br Sembiring,,,,,FALSE,TRUE,F,TRUE,TRUE
+178,326,325,101,Khafie Arian Siddiq,,,,,FALSE,TRUE,M,TRUE,TRUE
+179,212,212,94,Sabrina Hidaya,22-05-2004,,,,FALSE,TRUE,F,TRUE,TRUE
+180,117,117,95,Qatrunada,01-10-2003,,,,FALSE,TRUE,F,TRUE,FALSE
+181,45,45,96,Muhammad Furqon,31-07-2014,,,,FALSE,TRUE,M,TRUE,TRUE
+182,331,330,102,Barra Putra Perdana,,,,,FALSE,TRUE,M,TRUE,TRUE
+183,345,344,97,Nandhita Fatina Z,20-08-2016,,,,FALSE,FALSE,M,TRUE,TRUE
+184,191,191,103,Syifa Nurdiana,05-03-2003,,,,FALSE,TRUE,F,FALSE,TRUE
+185,127,127,98,Nicko Martien Firmansyah,01-01-2000,,,,FALSE,TRUE,M,TRUE,TRUE
+186,259,259,61,Naufa Zahrana,,,,,FALSE,TRUE,F,TRUE,TRUE
+187,111,111,100,Fran Fernando Sembiring,03-12-2010,,,,FALSE,TRUE,M,TRUE,TRUE
+188,326,325,101,Abian Rafish Siddiq,31-07-2019,,,,FALSE,TRUE,M,TRUE,TRUE
+189,212,212,94,Sufi Hanifa,2013-10-12,,,,FALSE,TRUE,F,TRUE,TRUE
+190,117,117,95,Oktafia Suryani,10-10-2010,,,,FALSE,TRUE,F,TRUE,TRUE
+191,53,53,104,Doni Pranomo Warsito,,,,,FALSE,TRUE,M,TRUE,TRUE
+192,331,330,102,Tristan Askarullah Cr,04-06-2017,,,,FALSE,TRUE,M,TRUE,TRUE
+193,146,146,105,Bunga Marchelia Hadi,,,,,FALSE,TRUE,F,TRUE,FALSE
+194,191,191,103,Syafira Rahma Dini,2015-11-03,,,,FALSE,TRUE,F,TRUE,TRUE
+195,62,62,106,Diga Sanjaya,,,,,FALSE,TRUE,M,TRUE,TRUE
+196,347,346,107,Novita Murti Ningrum,20-05-2002,,,,FALSE,TRUE,F,TRUE,TRUE
+197,363,362,68,Andhara Kirana Mahestri,,,,,FALSE,TRUE,F,TRUE,TRUE
+198,172,172,74,Rahmad Hafiz,,,,,FALSE,TRUE,M,TRUE,TRUE
+199,214,214,108,Siti Nurhasanah,,,,,FALSE,TRUE,F,TRUE,FALSE
+200,32,32,109,Anisa Kharisma Yanti,,,,,FALSE,FALSE,F,TRUE,TRUE
+201,53,53,104,Dyah Pratiwi Warsito,17-09-1996,,,,FALSE,TRUE,F,TRUE,FALSE
+202,308,307,110,Calvin Luisa Fernanda,,,,,FALSE,TRUE,M,TRUE,FALSE
+203,146,146,105,Faruq Irfanul Hadi,07-10-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+204,46,46,111,Dira Nanda Nabila,,,,,FALSE,TRUE,F,TRUE,TRUE
+205,64,64,112,Muhammad Rahman Fathoni,,,,,FALSE,TRUE,M,TRUE,TRUE
+206,100,100,113,Nuralia Putri Wahyuni,,,,,FALSE,TRUE,F,TRUE,TRUE
+207,344,343,114,Naizsylla Zahra Adhi,17-06-2012,,,,FALSE,TRUE,F,TRUE,TRUE
+208,172,172,74,Nazrey Fauzan Bahy,31-08-2008,,,,FALSE,TRUE,M,TRUE,TRUE
+209,214,214,108,Galang  Dwi Nugroho,22-08-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+210,24,24,115,Muhammad Zaki,16-10-2023,,,,FALSE,FALSE,M,TRUE,FALSE
+211,63,63,116,Olivia Gracia Margaretha,,,,,FALSE,TRUE,F,TRUE,TRUE
+212,38,38,117,Yusda Satria Inka,,,,,FALSE,TRUE,M,TRUE,TRUE
+213,129,129,118,Dilan Mulia,,,,,FALSE,TRUE,M,TRUE,TRUE
+214,92,92,119,Fahrizal Firmansyah,,,,,FALSE,TRUE,M,TRUE,TRUE
+215,64,64,112,M. Ilham,,,,,FALSE,TRUE,M,TRUE,TRUE
+216,47,47,120,Sandi Perdian Putra,,,,,FALSE,TRUE,M,TRUE,FALSE
+217,231,231,121,Mas Syahmil Anugrah Fizi,19-10-2009,,,,FALSE,TRUE,M,TRUE,TRUE
+218,344,343,114,Listiya Arsa,20-05-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+219,41,41,81,Livia Nurul Syafitri,,,,,FALSE,TRUE,F,TRUE,TRUE
+220,140,140,122,Dinar Irfanda,,,,,FALSE,TRUE,F,TRUE,TRUE
+221,170,170,123,Agnes Wanda Mariska,,,,,FALSE,TRUE,F,TRUE,TRUE
+222,40,40,124,Randya Tuzza Ramdhani,,,,,FALSE,TRUE,F,TRUE,FALSE
+223,129,129,118,Muhammad Rizki,29-08-2012,,,,FALSE,TRUE,M,TRUE,TRUE
+224,92,92,119,Friska Dian Novita,26-05-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+225,105,105,125,M Ilham,,,,,FALSE,TRUE,M,FALSE,FALSE
+226,47,47,120,Nadia Putri Veriani,24-04-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+227,16,16,126,Aqillah Esmeralda,,,,,FALSE,TRUE,F,TRUE,FALSE
+228,248,248,127,Wira Tri Nugraha,,,,,FALSE,TRUE,M,TRUE,TRUE
+229,344,343,114,Arfan Putra Utomo,20-05-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+230,140,140,122,Zacky Ibrahim,01-11-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+231,170,170,123,Lionel Rizki Ramadhan,27-09-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+232,39,39,128,M Rizky Nurholis,,,,,FALSE,TRUE,M,TRUE,TRUE
+233,318,317,129,Gibran Naufal Nurrahman,,,,,FALSE,TRUE,M,TRUE,TRUE
+234,134,134,130,Favian Felix Suprastyo,,,,,FALSE,TRUE,M,TRUE,TRUE
+235,289,288,131,Bela Anjela,,,,,FALSE,TRUE,F,TRUE,TRUE
+236,51,51,132,Muhammad Satriyo Abdi,,,,,FALSE,TRUE,M,TRUE,FALSE
+237,332,331,133,Oktafiani Masinah,,,,,FALSE,TRUE,F,TRUE,FALSE
+238,248,248,127,Arya Wibisono,,,,,FALSE,TRUE,M,TRUE,TRUE
+239,67,67,134,Farah Amalia Firzana,,,,,FALSE,TRUE,F,TRUE,TRUE
+240,15,15,135,Defitia Nurendah,,,,,FALSE,TRUE,F,TRUE,FALSE
+241,15,15,135,Wiji Nurdiansyah,20-05-2002,,,,FALSE,TRUE,M,TRUE,FALSE
+242,385,385,136,Rey Pratama Stiawan,,,,,FALSE,TRUE,M,TRUE,TRUE
+243,39,39,128,Winda Ayu Suratih,22-03-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+244,318,317,129,Sekar Eiliya Nismara,26-12-2019,,,,FALSE,TRUE,F,TRUE,TRUE
+245,134,134,130,Rakha Prayoga Suprasetyo,27-02-2016,,,,FALSE,TRUE,M,TRUE,TRUE
+246,289,288,131,Jesika Dwi Nanda Puspa Anjela,28-09-2012,,,,FALSE,TRUE,F,TRUE,TRUE
+247,51,51,132,Syifa Zahra Utami,17-11-2006,,,,FALSE,TRUE,F,TRUE,TRUE
+248,332,331,133,Rizki M Farhan,20-05-2012,,,,FALSE,TRUE,M,TRUE,TRUE
+249,413,413,137,Nur Ajizah Suryani,,,,,FALSE,TRUE,F,TRUE,TRUE
+250,67,67,134,Luthfi Raditya Zaidan,20-05-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+251,395,395,138,Ayra Putri Khaliqa Dzahin,,,,,FALSE,TRUE,F,TRUE,TRUE
+252,15,15,135,Dewi Nursinta Muliani,,,,,FALSE,TRUE,F,TRUE,FALSE
+253,36,36,139,Keysha Azhara Nathania,,,,,FALSE,TRUE,F,TRUE,TRUE
+254,318,317,129,Erina Shafa Nismara,09-05-2023,,,,FALSE,TRUE,F,TRUE,TRUE
+255,80,80,140,Chandra Dwi Kusuma,,,,,FALSE,FALSE,M,TRUE,TRUE
+256,289,288,131,Klodia Anjela,25-12-2017,,,,FALSE,TRUE,F,TRUE,TRUE
+257,79,79,141,Aprilyta Arisya,,,,,FALSE,TRUE,F,TRUE,FALSE
+258,82,82,142,Daffa Roinan Fauzi Farras,,,,,FALSE,TRUE,M,TRUE,TRUE
+259,412,412,143,Yulia Anggraeni,,,,,FALSE,TRUE,F,TRUE,TRUE
+260,221,221,144,Muhammad Galih Pratama,,,,,FALSE,TRUE,M,TRUE,TRUE
+261,149,149,145,Salman Alfaritsyi,,,,,FALSE,TRUE,M,TRUE,TRUE
+262,295,294,146,Zena Apriana,,,,,FALSE,TRUE,M,TRUE,TRUE
+263,37,37,147,Zainul Wildan,20-05-2004,,,,FALSE,TRUE,M,TRUE,TRUE
+264,191,191,103,Angga,,,,,FALSE,TRUE,M,TRUE,FALSE
+265,334,333,148,Nabila Verdiana,,,,,FALSE,FALSE,F,TRUE,TRUE
+266,361,360,149,Rini Aufaliliani,,,,,FALSE,TRUE,F,TRUE,FALSE
+267,79,79,141,Rasyid Al Abid Delfa,20-03-2015,,,,FALSE,TRUE,M,TRUE,TRUE
+268,82,82,142,Khafi Fauzan Hafidz,08-01-2013,,,,FALSE,TRUE,M,TRUE,TRUE
+269,1,1,150,Lautza Syafura Syaits,,,,,FALSE,TRUE,M,FALSE,TRUE
+270,221,221,144,Gibran Budi Presetio,17-01-2012,,,,FALSE,TRUE,M,FALSE,TRUE
+271,339,338,151,Fina Diniyanti,,,,,FALSE,TRUE,F,TRUE,TRUE
+272,295,294,146,Rena Restiana,08-06-2011,,,,FALSE,TRUE,F,TRUE,TRUE
+273,142,142,152,Fiqih Maulana Yusuf Kurniawan,19-11-2014,,,,FALSE,TRUE,M,TRUE,TRUE
+274,200,200,153,Den Arif Triadi Dara,18-05-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+275,335,334,154,Tristan Allegra Timor,,,,,FALSE,TRUE,M,TRUE,TRUE
+276,361,360,149,Rizka Margareta,18-03-2011,,,,FALSE,TRUE,F,TRUE,TRUE
+277,93,93,155,M Ikhsan Prasetyo,27-08-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+278,194,194,156,Nuuru Aqsa Rachmawati,,,,,FALSE,TRUE,F,TRUE,TRUE
+279,14,14,157,Suprayoga Pangestu,,,,,FALSE,TRUE,M,TRUE,FALSE
+280,205,205,158,Thoriq Aziz Mushoffa,,,,,FALSE,TRUE,M,TRUE,TRUE
+281,367,367,159,Azza Alghifari,,,,,FALSE,TRUE,M,TRUE,TRUE
+282,106,106,160,Fajri Rizki Ramadhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+283,144,144,161,Amanda Sekar,,,,,FALSE,TRUE,F,TRUE,TRUE
+284,297,296,162,Carissa Lirana Putri,07-12-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+285,200,200,153,Destia Julianti Dara,20-05-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+286,100,100,113,Ananda Aulia Wahyuni,,,,,FALSE,TRUE,F,TRUE,TRUE
+287,93,93,155,Alenavela,,,,,FALSE,TRUE,F,TRUE,FALSE
+288,194,194,156,Chairunisa Putri,,,,,FALSE,TRUE,F,TRUE,FALSE
+289,317,316,163,Rizki Saputra,,,,,FALSE,TRUE,M,TRUE,TRUE
+290,205,205,158,Hilmy Aziz Ulinnuha,17-04-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+291,223,223,164,Safa Adelia Jelita,,,,,FALSE,TRUE,F,TRUE,TRUE
+292,106,106,160,Kastijan,,,,,FALSE,TRUE,M,TRUE,FALSE
+293,102,102,165,Dyah Putri Angraini,,,,,FALSE,TRUE,F,TRUE,FALSE
+294,150,150,166,Evi Apriani,,,,,FALSE,TRUE,F,TRUE,TRUE
+295,296,295,167,Putri Aryanti,20-09-2021,,,,FALSE,TRUE,F,TRUE,TRUE
+296,287,286,168,M Supriyanto,12-11-1995,,,,FALSE,TRUE,M,TRUE,FALSE
+297,231,231,121,Az Zahra Adellia,14-04-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+298,248,248,127,Erdi Taruna Perkasa,,,,,FALSE,TRUE,M,TRUE,FALSE
+299,317,316,163,Nuraeni Haryati Bvalid,26-07-1991,,,,FALSE,TRUE,F,TRUE,FALSE
+300,205,205,158,Rakha Aziz Mubarok,2004-02-23,,,,FALSE,TRUE,M,TRUE,TRUE
+301,396,396,169,Waode Kamelia Oktavia,,,,,FALSE,TRUE,F,TRUE,TRUE
+302,49,49,170,Muhammad Ozil Ilham,,,,,FALSE,TRUE,M,TRUE,TRUE
+303,102,102,165,Amanda Syifa Dwi Anggraini,,,,,FALSE,TRUE,F,TRUE,TRUE
+304,374,374,171,Tb Sulhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+305,296,295,167,Sahrudin,2003-04-14,,,,FALSE,TRUE,M,TRUE,TRUE
+306,101,101,172,Ahmad Rizki Akbari Putra Wibowo,20-02-2012,,,,FALSE,TRUE,M,TRUE,TRUE
+307,287,286,168,Zelvie Triwidia,01-02-2001,,,,FALSE,TRUE,F,TRUE,FALSE
+308,248,248,127,Adji Permana,01-07-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+309,50,50,173,Wahyu Putra Pamungkas,,,,,FALSE,TRUE,M,TRUE,FALSE
+310,175,175,174,Maryam Fildzah,,,,,FALSE,TRUE,F,TRUE,TRUE
+311,151,151,175,Heni Herawati,,,,,FALSE,TRUE,F,TRUE,TRUE
+312,49,49,170,Anggie Martha,27-03-2003,,,,FALSE,TRUE,F,FALSE,FALSE
+313,102,102,165,Raysya Nugraini Azzahra,2008-12-14,,,,FALSE,TRUE,F,TRUE,TRUE
+314,374,374,171,Tb Maulana Rifky Aditya,01-03-2003,,,,FALSE,TRUE,M,TRUE,TRUE
+315,303,302,176,Baitin Ilafah,,,,,FALSE,TRUE,F,TRUE,TRUE
+316,101,101,172,Bagas Respati Panca Wibowo,,,,,FALSE,TRUE,M,TRUE,TRUE
+317,218,218,177,Waffiq Hayyan Salamul Ghazy,,,,,FALSE,FALSE,M,TRUE,TRUE
+318,287,286,168,Fegie Destria,2001-01-02,,,,FALSE,TRUE,F,TRUE,TRUE
+319,50,50,173,Adi Nugroho Jakti Bvalid,08-04-2024,,,,FALSE,TRUE,M,TRUE,FALSE
+320,175,175,174,Alysha Chaira,24-03-2017,,,,FALSE,TRUE,F,TRUE,TRUE
+321,304,303,178,Rajali Ananda Firsi,,,,,FALSE,TRUE,M,TRUE,TRUE
+322,145,145,179,Rafael Niki Putra Sigit,,,,,FALSE,TRUE,M,TRUE,TRUE
+323,152,152,180,Rafik Hidayat,,,,,FALSE,TRUE,M,TRUE,TRUE
+324,306,305,181,Farold Abigail Saragih,,,,,FALSE,TRUE,M,TRUE,TRUE
+325,303,302,176,Khusnul Fajar,14-01-2004,,,,FALSE,TRUE,M,TRUE,TRUE
+326,101,101,172,Nu Aini Fajri Indriyanti,,,,,FALSE,TRUE,F,TRUE,TRUE
+327,218,218,177,Jaddid Ayyadna Ghalibul Ghazy,,,,,FALSE,FALSE,M,TRUE,TRUE
+328,112,112,182,Muhammad Rizky Irsyad,,,,,FALSE,TRUE,M,TRUE,FALSE
+329,333,332,183,Tri Handayani,20-05-2002,,,,FALSE,TRUE,F,TRUE,TRUE
+330,175,175,174,Muhammad Adzam,,,,,FALSE,TRUE,M,TRUE,TRUE
+331,304,303,178,Syalwalia Ananda Firsi,27-07-2015,,,,FALSE,TRUE,F,TRUE,TRUE
+332,305,304,184,Muhammad Aditya Pratama,,,,,FALSE,FALSE,M,TRUE,TRUE
+333,236,236,185,Septiarani Yusman,,,,,FALSE,TRUE,F,TRUE,TRUE
+334,306,305,181,Audrey Yesa Lonika,16-05-2015,,,,FALSE,TRUE,F,TRUE,TRUE
+335,303,302,176,Kusnul Fajrina,2004-01-14,,,,FALSE,TRUE,F,TRUE,TRUE
+336,143,143,186,Raka Fathu Rahman,,,,,FALSE,TRUE,M,TRUE,TRUE
+337,84,84,187,Anindia Debira Kumalahsari,,,,,FALSE,TRUE,F,TRUE,TRUE
+338,112,112,182,Aurora Khairunissa,15-01-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+339,153,153,188,Dhadan Ramdhany,2005-01-01,,,,FALSE,TRUE,M,TRUE,TRUE
+340,97,97,189,Matsa Asywaq Mudhiah,20-05-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+341,105,105,125,Muhammad Rizqy Ramadhani,,,,,FALSE,TRUE,M,TRUE,TRUE
+342,305,304,184,Muhammad Hanif Al Ghifari,25-10-2016,,,,FALSE,FALSE,M,TRUE,TRUE
+343,236,236,185,Balkis Tiara,11-09-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+344,300,299,190,Muhammad Fajar,,,,,FALSE,TRUE,M,TRUE,TRUE
+345,298,297,191,Bayu Kusmaedi,,,,,FALSE,TRUE,M,TRUE,TRUE
+346,143,143,186,Riki Fathu Rahman,03-08-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+347,377,377,192,Isayu Awiya Hasanah,,,,,FALSE,FALSE,F,TRUE,TRUE
+348,112,112,182,Muhammad Raihan Rasyid,10-03-2015,,,,FALSE,TRUE,M,TRUE,TRUE
+349,153,153,188,Alya Afifa Widhan,2010-01-01,,,,FALSE,TRUE,F,TRUE,TRUE
+350,293,292,193,Novia Ega Putri,,,,,FALSE,TRUE,F,TRUE,TRUE
+351,97,97,189,Alma Sayyidah Claris,15-05-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+352,142,142,152,Rizkya Cahya Lestari,,,,,FALSE,TRUE,F,TRUE,TRUE
+353,247,247,194,Hafidzah Nur Radhwa,,,,,FALSE,TRUE,F,TRUE,TRUE
+354,300,299,190,Syaidu Akbar,08-09-2010,,,,FALSE,TRUE,M,TRUE,TRUE
+355,298,297,191,Danu Septa Kusuma,19-09-2012,,,,FALSE,TRUE,M,TRUE,TRUE
+356,143,143,186,Denis Ramadhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+357,196,196,195,Agit Kafi Nur Afan,,,,,FALSE,TRUE,M,TRUE,TRUE
+358,206,206,196,Jihan Aqmarina Mumtaaza,,,,,FALSE,TRUE,F,TRUE,TRUE
+359,48,48,197,Taufik Hidayat,,,,,FALSE,TRUE,M,TRUE,FALSE
+360,216,216,198,Nadira Silmi Alifah,,,,,FALSE,TRUE,F,TRUE,TRUE
+361,12,12,199,Shidiq Mutaqin Mahpudin,14-04-2008,,,,FALSE,TRUE,M,TRUE,TRUE
+362,13,13,200,Danu Yoga Taruna,20-05-2004,,,,FALSE,TRUE,M,TRUE,TRUE
+363,297,296,162,Bagas Wijanarko,,,,,FALSE,TRUE,M,TRUE,TRUE
+364,300,299,190,Nazua Aulia Suhada,2012-08-07,,,,FALSE,TRUE,F,TRUE,TRUE
+365,298,297,191,Azmi Firdaus,2019-10-21,,,,FALSE,TRUE,M,TRUE,TRUE
+366,143,143,186,Siti Nurfadilah,,,,,FALSE,TRUE,M,FALSE,TRUE
+367,196,196,195,Helga Ruly Hartita,02-07-2009,,,,FALSE,TRUE,F,TRUE,TRUE
+368,206,206,196,Muhammad Raffa Setya Purnama,2010-05-09,,,,FALSE,TRUE,M,TRUE,TRUE
+369,48,48,197,Sri Devi Rosalina,20-05-2000,,,,FALSE,TRUE,F,TRUE,FALSE
+370,216,216,198,Nayla Alillatulbariza Izzaty,21-09-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+371,360,359,201,Ajeng Melvi Rianti S,,,,,FALSE,TRUE,F,TRUE,TRUE
+372,418,417,202,Reza Ikbal,,,,,FALSE,TRUE,M,TRUE,TRUE
+373,417,418,203,Muhammad Rafif Pratama,13-05-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+374,296,295,167,Muhammad Fadly,,,,,FALSE,TRUE,M,TRUE,TRUE
+375,101,101,172,Aprilyanti Qurrota Ayyunin,,,,,FALSE,TRUE,F,TRUE,TRUE
+376,143,143,186,Hafiz Hariansyah,,,,,FALSE,TRUE,M,TRUE,TRUE
+377,196,196,195,Dhegita Nancy Ruliyaputri,2018-03-07,,,,FALSE,TRUE,F,TRUE,TRUE
+378,206,206,196,Vania Tri Purnama,2019-11-10,,,,FALSE,TRUE,F,TRUE,TRUE
+379,207,207,204,Rizma Dita Cahyani,,,,,FALSE,TRUE,F,TRUE,TRUE
+380,392,392,205,Nadila Azzahra Ritonga,,,,,FALSE,TRUE,F,TRUE,TRUE
+381,360,359,201,Bima Dzaki Santoso,07-05-2012,,,,FALSE,TRUE,M,TRUE,TRUE
+382,169,169,206,Nadila Febyanti,,,,,FALSE,TRUE,F,TRUE,TRUE
+383,219,219,207,Pradybta Yenaya,,,,,FALSE,TRUE,F,TRUE,TRUE
+384,246,246,208,Testa Putri Aulandar,20-05-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+385,101,101,172,Yuliana Tri Ambaryanti,07-02-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+386,83,83,209,Vara Yuniar Abela,,,,,FALSE,TRUE,F,TRUE,TRUE
+387,364,364,210,Naratama Keenan Edogawa,,,,,FALSE,TRUE,M,TRUE,TRUE
+388,337,336,211,Tita Aulia Sany,,,,,FALSE,TRUE,F,TRUE,TRUE
+389,207,207,204,Hanif Tri Yuniar,15-06-2011,,,,FALSE,TRUE,M,TRUE,TRUE
+390,109,109,212,Nur Ismah Salsabila,,,,,FALSE,FALSE,F,TRUE,TRUE
+391,360,359,201,Rai Pranaja Santoso,2017-03-26,,,,FALSE,TRUE,M,TRUE,TRUE
+392,169,169,206,Shikia Nafia Azizah,,,,,FALSE,TRUE,F,TRUE,TRUE
+393,219,219,207,Nadira Dinar Asyifa,,,,,FALSE,TRUE,F,TRUE,TRUE
+394,346,345,213,Muchammad Bintang,,,,,FALSE,TRUE,M,TRUE,TRUE
+395,246,246,208,Amelia Putri Marlina,20-05-2010,,089502415234,,FALSE,TRUE,F,TRUE,TRUE
+396,155,155,214,Muhamad Muklas,,,0895422125442,,FALSE,FALSE,M,TRUE,TRUE
+397,23,23,215,Muhammad Vikri,,,,,FALSE,TRUE,M,TRUE,TRUE
+398,230,230,216,Muhammad Iqbal Novarianto,,,,,FALSE,TRUE,M,TRUE,TRUE
+399,148,148,217,Fadlan Ananda Rizky,,,,,FALSE,TRUE,M,TRUE,TRUE
+400,109,109,212,Shabrina Luthfiyah,01-01-2005,,,,FALSE,FALSE,F,TRUE,TRUE
+401,220,220,218,Azzahra Qurota Aini,,,,,FALSE,TRUE,F,TRUE,TRUE
+402,187,187,219,Vivi Nurul Ismi,,,,,FALSE,TRUE,F,TRUE,TRUE
+403,7,7,220,Moch. Fani Irsadi,,,,S1 pertanian,FALSE,TRUE,M,TRUE,TRUE
+404,346,345,213,Zoya Az Zahra,,,,,FALSE,TRUE,F,TRUE,TRUE
+405,209,209,221,Zamara Nayuria Mars,,,,,FALSE,FALSE,F,TRUE,TRUE
+406,201,201,222,Rosidah Lestari,11-03-2003,,,,FALSE,TRUE,F,TRUE,FALSE
+407,23,23,215,Aisah Amalia,09-03-2006,,,,FALSE,TRUE,F,TRUE,TRUE
+408,30,30,223,Aristian Candra Mualim,,,,,FALSE,TRUE,M,TRUE,TRUE
+409,148,148,217,Haikal Azhar,28-02-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+410,109,109,212,Sahila Ananada Toti Salshabrina,,,,,FALSE,FALSE,F,TRUE,TRUE
+411,220,220,218,Dawam Nugraha,27-01-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+412,138,138,224,Reival Nur Ihsan,,,,,FALSE,TRUE,M,TRUE,TRUE
+413,7,7,220,Moch. Hadi Irawan,,,,,FALSE,TRUE,M,TRUE,TRUE
+414,208,208,225,Muri Nur Anisa,,,,,FALSE,TRUE,F,TRUE,FALSE
+415,178,178,226,Ahmad Khalid Febrianto,,,,,FALSE,TRUE,M,TRUE,TRUE
+416,394,394,227,Ibrahim Ibnu Maharto,,,,,FALSE,TRUE,M,TRUE,TRUE
+417,201,201,222,Romy Ryansyah,08-12-2000,,,,FALSE,TRUE,M,TRUE,FALSE
+418,118,118,228,Muhamad Rizki,25-11-2001,,,,FALSE,TRUE,M,TRUE,FALSE
+419,153,153,188,Dani,,,,,FALSE,TRUE,M,TRUE,FALSE
+420,148,148,217,Arbian Herwinda Faiko,2009-05-12,,,,FALSE,TRUE,M,TRUE,TRUE
+421,161,161,229,Andy Reysa Nugroho,,,,,FALSE,TRUE,M,TRUE,TRUE
+422,411,411,230,Indah Arum Sari,,,,,FALSE,TRUE,M,TRUE,TRUE
+423,87,87,231,Vrisko Prasetya,,,,,FALSE,TRUE,M,TRUE,TRUE
+424,107,107,232,Raifan Tri Al Hakim,,,,,FALSE,FALSE,M,TRUE,TRUE
+425,18,18,233,M Andicka Saputra,,,,,FALSE,TRUE,M,TRUE,TRUE
+426,260,260,234,Rajendra Putra,,,,,FALSE,TRUE,M,TRUE,TRUE
+427,240,240,235,Salma Astuti,,,,,FALSE,TRUE,F,TRUE,TRUE
+428,115,115,236,Dwi Cahyono,,,,,FALSE,TRUE,M,TRUE,FALSE
+429,201,201,222,Rosalia Yulianti,08-12-2000,,,,FALSE,TRUE,F,TRUE,TRUE
+430,118,118,228,Faturahman Akbar,20-05-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+431,309,308,237,Faaris Syaifullah,,,,,FALSE,TRUE,M,TRUE,TRUE
+432,86,86,238,Muna Ridadatul Aisya,,,,,FALSE,FALSE,F,TRUE,TRUE
+433,96,96,239,Syifa Khairunisa,,,,,FALSE,TRUE,F,TRUE,TRUE
+434,147,147,240,Eca Aditia Rifa,,,,,FALSE,TRUE,F,TRUE,TRUE
+435,183,183,241,Radiah Imanda,,,,,FALSE,TRUE,F,TRUE,FALSE
+436,18,18,233,M Fahri Kurniawan,,,,,FALSE,TRUE,M,TRUE,TRUE
+437,260,260,234,Diandra Putri,,,,,FALSE,TRUE,M,TRUE,TRUE
+438,240,240,235,Fajar Muhammad,,,,,FALSE,TRUE,M,TRUE,TRUE
+439,33,33,242,Keyla Mauren,,,,,FALSE,TRUE,F,TRUE,FALSE
+440,298,297,191,Fahri Al Fahrizi,,,,,FALSE,TRUE,M,TRUE,TRUE
+441,340,339,243,Ibra Abidal Gusha,12-07-2016,,,,FALSE,TRUE,M,TRUE,TRUE
+442,126,126,244,Muhammad Dzaki,20-05-2013,,,,FALSE,TRUE,M,TRUE,TRUE
+443,12,12,199,Salsa Marsela Mahpudin,,,,,FALSE,TRUE,F,TRUE,TRUE
+444,28,28,245,Muhammad Raffa Husein,,,,,FALSE,TRUE,M,TRUE,TRUE
+445,147,147,240,Refa Aditia Nur,,,,,FALSE,TRUE,M,TRUE,TRUE
+446,88,88,246,Amellia Zulkira,,,,,FALSE,TRUE,F,TRUE,FALSE
+447,18,18,233,Dina Oktaviana,,,,,FALSE,TRUE,F,TRUE,TRUE
+448,20,20,247,Gatot Wibowo,,,,,FALSE,TRUE,M,TRUE,TRUE
+449,58,58,248,Zalfa Al Zena,,,,,FALSE,TRUE,M,TRUE,TRUE
+450,77,77,249,Wahyu Septianto,,,,,FALSE,TRUE,M,TRUE,FALSE
+451,11,11,250,Denaya Ferrari Noval Agatra,,,,,FALSE,TRUE,M,TRUE,TRUE
+452,294,293,251,Chindy Adistya,,,,,FALSE,TRUE,F,TRUE,TRUE
+453,126,126,244,Rasyidan Akmal,20-05-2016,,,,FALSE,TRUE,M,TRUE,TRUE
+454,28,28,245,Keiyla Fakhira Husein,06-10-2009,,,,FALSE,TRUE,F,TRUE,TRUE
+455,147,147,240,Restu Aditia Octaviani,,,,,FALSE,TRUE,M,TRUE,TRUE
+456,88,88,246,Adytia Fajar Zulma,,,,,FALSE,TRUE,M,TRUE,FALSE
+457,391,391,252,Arshaka Senandika Kresna,,,,,FALSE,TRUE,M,TRUE,TRUE
+458,243,243,253,Rengganis Handini Wijaya,,,,,FALSE,TRUE,F,TRUE,TRUE
+459,166,166,254,Farid Nurfadillah,,,,,FALSE,TRUE,M,TRUE,TRUE
+460,125,125,255,Eliana Putri Aryajaya,,,,,FALSE,TRUE,F,TRUE,TRUE
+461,299,298,256,Andrianto,,,,,FALSE,TRUE,M,TRUE,TRUE
+462,365,365,257,Muhammad Daffa Althaf Purnama,,,,,FALSE,TRUE,M,TRUE,TRUE
+463,225,225,258,Assyfa Layla Nabila,,,,,FALSE,TRUE,F,TRUE,TRUE
+464,341,340,259,Annisa Agustina,20-05-2007,,,,FALSE,FALSE,F,TRUE,TRUE
+465,393,393,260,Muhammad Hauvanza Almeer,,,,,FALSE,TRUE,M,TRUE,TRUE
+466,269,269,261,Iqbal Danish Fiandy,,,,,FALSE,TRUE,M,TRUE,TRUE
+467,352,351,262,Mohammad Irfan Anwar,,,,,FALSE,TRUE,M,TRUE,TRUE
+468,243,243,253,Mutiara Paramita,,,,,FALSE,TRUE,F,TRUE,TRUE
+469,409,409,263,Nur Azizah,,,,,FALSE,TRUE,F,TRUE,TRUE
+470,125,125,255,Helena Citra Aryajaya,,,,,FALSE,TRUE,F,TRUE,TRUE
+471,27,27,264,Kamilia Nurkhan,,,,,FALSE,TRUE,F,TRUE,TRUE
+472,54,54,265,Ryan Kusumawardhana,,,,,FALSE,TRUE,M,TRUE,TRUE
+473,253,253,266,Raski Fazil Maryandhi,,,,,FALSE,TRUE,M,TRUE,TRUE
+474,68,68,267,Muhammad Khusairi Ilham,,,,,FALSE,TRUE,M,TRUE,TRUE
+475,201,201,222,Raisya Belsa,,,,,FALSE,TRUE,F,TRUE,TRUE
+476,173,173,268,Lola Amaliya,11-05-2002,,,,FALSE,TRUE,M,TRUE,TRUE
+477,346,345,213,Azkha Ananda,,,,,FALSE,TRUE,M,TRUE,TRUE
+478,376,376,269,Wildan Athaya Fattan P,,,,,FALSE,TRUE,M,TRUE,TRUE
+479,34,34,270,Arfan Tribudiman,,,,,FALSE,TRUE,M,TRUE,TRUE
+480,21,21,271,Budiati Purwaningtyas,,,,,FALSE,FALSE,F,TRUE,TRUE
+481,311,310,272,Akira Rafif Al Biruni,,,,,FALSE,TRUE,M,TRUE,TRUE
+482,158,158,273,Denzel Toyiba Anugrah,,,,,FALSE,TRUE,M,TRUE,TRUE
+483,406,406,274,Aryo Triputra,,,,,FALSE,TRUE,M,TRUE,TRUE
+484,164,164,275,Tazkiya Nisa Nurlillah,,,,,FALSE,TRUE,F,TRUE,TRUE
+485,68,68,267,Muhammad Syahrial Ikhram,,,,,FALSE,TRUE,M,TRUE,TRUE
+486,271,271,276,Pramudya Ramdani,,,,,FALSE,TRUE,M,TRUE,TRUE
+487,201,201,222,Raditya Saputra,,,,,FALSE,TRUE,M,TRUE,TRUE
+488,173,173,268,Wildan,05-09-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+489,376,376,269,Ghibran Aswindra Akmal P,,,,,FALSE,TRUE,M,TRUE,TRUE
+490,61,61,277,Irwansyah,,,,,FALSE,FALSE,M,TRUE,TRUE
+491,98,98,278,Silvia Triana,,,,,FALSE,TRUE,F,TRUE,TRUE
+492,311,310,272,Kitaro Arkana Arsyad,,,,,FALSE,TRUE,M,TRUE,TRUE
+493,6,6,279,Lisna Febrianingsih,,,,,FALSE,TRUE,F,TRUE,TRUE
+494,9,9,280,Desi Fadilla Fitriani,,,,,FALSE,TRUE,F,TRUE,TRUE
+495,164,164,275,Muhamad Izzul Muttaqiin,,,,,FALSE,TRUE,M,TRUE,TRUE
+496,163,163,281,Sella Fitra Septiana,,,,,FALSE,TRUE,F,TRUE,TRUE
+497,137,137,282,Rifqi Zahid Febrian,,,,,FALSE,TRUE,M,TRUE,TRUE
+498,302,301,283,Zabdan Fatih Nuri Faeyza,,,,,FALSE,TRUE,M,TRUE,TRUE
+499,235,235,284,Rizka Tiara Citra,31-10-2000,,,,FALSE,TRUE,F,TRUE,TRUE
+500,108,108,285,Alfia Wardah,,,,,FALSE,TRUE,F,TRUE,TRUE
+501,286,285,286,Tegar Jati Nugroho,,,,,FALSE,TRUE,M,TRUE,FALSE
+502,16,16,126,Aqilah Esmeralda,,,,,FALSE,TRUE,F,TRUE,TRUE
+503,59,59,287,Andika Maulana,,,,,FALSE,TRUE,M,TRUE,TRUE
+504,9,9,280,Adelia Novianti Putri,,,,,FALSE,TRUE,F,TRUE,TRUE
+505,160,160,288,Jelma Lifa Agusti,,,,,FALSE,TRUE,F,TRUE,TRUE
+506,163,163,281,Elifina Raffaza Putri,,,,,FALSE,TRUE,F,TRUE,TRUE
+507,2,2,289,Rizki Novia Rhomadanti,,,,,FALSE,TRUE,F,TRUE,TRUE
+508,198,198,290,Bayu Noval Renaldi,,,,,FALSE,TRUE,M,TRUE,TRUE
+509,241,241,291,Alissya Dwi Nuranggreini,,,,,FALSE,TRUE,F,TRUE,TRUE
+510,380,380,292,Muhammad Wildan,08-07-2019,,,,FALSE,TRUE,M,TRUE,TRUE
+511,286,285,286,Bilal Parikesti,,,,,FALSE,TRUE,M,TRUE,FALSE
+512,137,137,282,Marisa Irda Marni,,,,,FALSE,TRUE,F,TRUE,TRUE
+513,234,234,293,Rifky Azka Feb,,,,,FALSE,TRUE,M,TRUE,TRUE
+514,9,9,280,Fikri Firmansyah Putra,,,,,FALSE,TRUE,M,TRUE,TRUE
+515,160,160,288,Medina Aqshalita Agusti,,,,,FALSE,TRUE,F,TRUE,TRUE
+516,389,389,294,An Najma Noura Saepulloh,,,,,FALSE,TRUE,F,TRUE,TRUE
+517,2,2,289,Moh. Arif Septianto,,,,,FALSE,TRUE,M,TRUE,TRUE
+518,4,4,295,Budi Widaning Anggarisa,,,,,FALSE,TRUE,M,TRUE,TRUE
+519,258,258,296,Nathania Latisha Mahestri,,,,,FALSE,TRUE,F,TRUE,TRUE
+520,261,261,297,Nadhief Arshaka Yusuf,,,,,FALSE,TRUE,M,TRUE,TRUE
+521,380,380,292,Muhammad Abyan Haqqi,31-08-2022,,,,FALSE,TRUE,M,TRUE,TRUE
+522,283,282,298,Solehatul Ainal Fitri,,,,,FALSE,TRUE,F,TRUE,TRUE
+523,270,270,299,Raihan Febriansyah,,,,,FALSE,TRUE,M,TRUE,TRUE
+524,9,9,280,Daffa Raasyid Pamungkas,,,,,FALSE,TRUE,M,TRUE,TRUE
+525,77,77,249,Fairel Atharizz Calief,,,,,FALSE,TRUE,M,TRUE,TRUE
+526,410,410,300,Salma Widya Lestari,,,,,FALSE,TRUE,F,TRUE,TRUE
+527,104,104,301,Ailsha Shabila,,,,,FALSE,TRUE,F,TRUE,TRUE
+528,167,167,302,Muhammad Dzaky Biaifis,,,,,FALSE,TRUE,M,TRUE,TRUE
+529,258,258,296,Fabian Shawqi,,,,,FALSE,TRUE,M,TRUE,TRUE
+530,338,337,303,Yasniva Agnes,,,,,FALSE,TRUE,F,TRUE,TRUE
+531,312,311,304,Dewa Bagus Putra Yudhistira,,,,,FALSE,TRUE,M,TRUE,TRUE
+532,397,397,305,Bimasena Yudhistira,20-03-2019,,,,FALSE,TRUE,M,TRUE,TRUE
+533,270,270,299,Refan Firmansyah,,,,,FALSE,TRUE,M,TRUE,TRUE
+534,9,9,280,M. Fadhil Ramadhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+535,315,314,306,Arsen Al Farizi,,,,,FALSE,TRUE,M,TRUE,TRUE
+536,255,255,307,Naufal Shidqii Ramdhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+537,104,104,301,Ramdhan Adjie Pratama,,,,,FALSE,TRUE,F,FALSE,TRUE
+538,167,167,302,Vania Keysha Arafah,,,,,FALSE,TRUE,F,TRUE,TRUE
+539,310,309,308,Muhammad Zidan Fathurrohman,,,,,FALSE,TRUE,M,TRUE,TRUE
+540,420,420,309,Anissa,,,,,FALSE,TRUE,F,FALSE,TRUE
+541,312,311,304,Dewi Ayu Cinta Aprilia,,,,,FALSE,TRUE,F,TRUE,TRUE
+542,249,249,310,Rajendra Zafran,,,,,FALSE,TRUE,M,TRUE,TRUE
+543,328,327,311,Cini Rembulan,20-05-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+544,414,414,312,Akbar Prasetyo,,,,,FALSE,TRUE,M,TRUE,TRUE
+545,372,372,313,Rhea Hanifa Awandita,,,,,FALSE,TRUE,F,TRUE,TRUE
+546,255,255,307,Shidqia Inara Putri,,,,,FALSE,TRUE,F,TRUE,TRUE
+547,227,227,314,Intan Mulyani,,,,,FALSE,TRUE,F,TRUE,TRUE
+548,371,371,315,Gendis Rarasati Najmusabah,,,,,FALSE,TRUE,F,TRUE,TRUE
+549,310,309,308,Muhammad Farhan Ramadhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+550,257,257,316,Novi Fitrianingrum,,,,,FALSE,TRUE,F,TRUE,TRUE
+551,381,381,317,Muhamad Abyan Syakir,,,,,FALSE,TRUE,M,TRUE,TRUE
+552,185,185,318,Sofia Masitah,,,,,FALSE,TRUE,F,TRUE,TRUE
+553,114,114,319,Aeiril Yn Bellvania Zaafarani,,,,,FALSE,TRUE,M,TRUE,TRUE
+554,328,327,311,Halya Saba Tini,20-05-2011,,,,FALSE,TRUE,M,TRUE,TRUE
+555,372,372,313,Muhammad Gelendra Alfarisqy,,,,,FALSE,TRUE,M,TRUE,TRUE
+556,255,255,307,Shidqia Yhara Almahyra,,,,,FALSE,TRUE,F,TRUE,TRUE
+557,302,301,283,Ghilyana Maurits,,,,,FALSE,TRUE,F,TRUE,TRUE
+558,371,371,315,Ghumaissa Nawang,,,,,FALSE,TRUE,F,TRUE,TRUE
+559,26,26,320,Ajuna Mandala Azyano,,,,,FALSE,TRUE,M,TRUE,TRUE
+560,257,257,316,Naufal Rifki Kamid,,,,,FALSE,TRUE,M,TRUE,TRUE
+561,378,378,321,Ridho Ngalyya El Rosyid,,,,,FALSE,TRUE,M,TRUE,TRUE
+562,17,17,322,Muhammad Randi Fadilah,,,,,FALSE,TRUE,M,TRUE,TRUE
+563,3,3,323,Sumbi Garintis,,,,,FALSE,TRUE,F,TRUE,TRUE
+564,131,131,324,Muhammad Wahyu Kurniawan,,,,,FALSE,TRUE,M,TRUE,TRUE
+565,307,306,325,Nia Ramdhani,20-05-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+566,415,415,326,Reynalief Primawisesa,,,,,FALSE,TRUE,M,TRUE,TRUE
+567,302,301,283,Lutfi Baedudi Ramadhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+568,273,273,327,Fadel Muhammad Isro,,,,,FALSE,TRUE,M,TRUE,TRUE
+569,162,162,328,Adindar Setiawan,,,,,FALSE,TRUE,M,FALSE,TRUE
+570,141,141,329,Keicipta Ayuning Lintang,,,,,FALSE,TRUE,F,TRUE,TRUE
+571,281,280,330,Siti Mufikah Muadzatul,,,,,FALSE,TRUE,F,TRUE,TRUE
+572,17,17,322,Athallah,,,,,FALSE,TRUE,M,TRUE,TRUE
+573,3,3,323,Hildara Punggar,,,,,FALSE,TRUE,M,TRUE,TRUE
+574,71,71,331,Royyan Hali Satrian,,,,,FALSE,TRUE,M,TRUE,TRUE
+575,232,232,332,Andra Caesar Saputra,,,,,FALSE,TRUE,M,TRUE,TRUE
+576,307,306,325,M. Faqi Ardiyan,20-05-2012,,,,FALSE,TRUE,M,TRUE,TRUE
+577,302,301,283,Kanza Shafira Maritza,,,,,FALSE,TRUE,F,TRUE,TRUE
+578,8,8,333,Marsella Rosari,,,,,FALSE,TRUE,F,TRUE,TRUE
+579,174,174,334,Sonya Fatira Adelia,,,,,FALSE,TRUE,F,TRUE,TRUE
+580,215,215,335,Maulana Malik Ibrahim,,,,,FALSE,TRUE,M,TRUE,TRUE
+581,56,56,336,M. Sultan Fandhi Syauqi,,,,,FALSE,TRUE,M,TRUE,TRUE
+582,57,57,337,Rafa Anugerah Bhayangkara,,,,,FALSE,TRUE,M,TRUE,TRUE
+583,57,57,337,Ragil Kurnia Ramadhan Solihin,,,,,FALSE,TRUE,M,FALSE,TRUE
+584,116,116,338,Rendy Malandi,,,,,FALSE,TRUE,M,TRUE,TRUE
+585,232,232,332,M Aidil Arafah,,,,,FALSE,TRUE,M,TRUE,TRUE
+586,94,94,339,M. Noufal Febuarrahm,20-05-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+587,241,241,291,Yuvita Nurkamin,,,,,FALSE,TRUE,F,TRUE,TRUE
+588,171,171,340,Nazwa Salsabilah W,,,,,FALSE,TRUE,F,TRUE,TRUE
+589,353,352,341,Fairus Zulkiyad Dimyati,,,,,FALSE,TRUE,M,TRUE,TRUE
+590,280,279,342,Khalimatus Sa ' Diyah,,,,,FALSE,TRUE,F,TRUE,TRUE
+591,35,35,343,Noviani,,,,,FALSE,TRUE,F,TRUE,TRUE
+592,122,122,344,Alicia Maharani,,,,,FALSE,TRUE,F,TRUE,TRUE
+593,90,90,345,Nur Chasanah,,,,,FALSE,TRUE,F,TRUE,TRUE
+594,330,329,346,Gibran Rafa Pradipta,20-05-2011,,,,FALSE,TRUE,M,TRUE,TRUE
+595,261,261,297,Muhammad Agha Althaf,,,,,FALSE,TRUE,M,TRUE,TRUE
+596,353,352,341,Izdhar Agustin Dimuati,,,,,FALSE,TRUE,M,TRUE,TRUE
+597,29,29,347,M. Excel Alfarisi,,,,,FALSE,TRUE,M,TRUE,TRUE
+598,35,35,343,Febriady,,,,,FALSE,TRUE,M,TRUE,TRUE
+599,238,238,348,Farel Riski Aditiya,,,,,FALSE,TRUE,M,TRUE,TRUE
+600,416,416,349,Galih Saputra Sopyan,,,,,FALSE,TRUE,M,FALSE,FALSE
+601,330,329,346,Ghazala Nashwa Alfiy,20-05-2018,,,,FALSE,TRUE,F,TRUE,TRUE
+602,5,5,350,Annisa Nurmalita,,,,,FALSE,TRUE,F,TRUE,TRUE
+603,249,249,310,Nadia Diva Zulaikha,,,,,FALSE,TRUE,F,TRUE,TRUE
+604,35,35,343,Fathiyyah,,,,,FALSE,TRUE,F,TRUE,TRUE
+605,60,60,351,Akbar Aditama,,,,,FALSE,TRUE,M,TRUE,TRUE
+606,416,416,349,Gilang Prasetya Sopyan,,,,,FALSE,TRUE,M,TRUE,FALSE
+607,52,52,352,Reynanda Taufiqurrahman,20-05-2004,,,,FALSE,TRUE,M,TRUE,TRUE
+608,249,249,310,Nabila Tsaniya Faza,,,,,FALSE,TRUE,F,TRUE,TRUE
+609,113,113,353,Dimitri Bryant Ivanov,,,,,FALSE,TRUE,M,TRUE,TRUE
+610,120,120,354,Maharani Widaningsih,,,,,FALSE,TRUE,F,TRUE,TRUE
+611,416,416,349,Galvin Nurazhar,,,,,FALSE,TRUE,M,TRUE,TRUE
+612,69,69,355,Sendhy Dimas Saefull,01-10-2003,,,,FALSE,TRUE,M,TRUE,TRUE
+613,114,114,319,M. Avan Dwi Adi Nur Kholiq,,,,,FALSE,TRUE,M,TRUE,TRUE
+614,131,131,324,Navisa Hapsari,,,,,FALSE,TRUE,F,TRUE,TRUE
+615,10,10,356,Diana Utami,,,,,FALSE,TRUE,F,FALSE,FALSE
+616,69,69,355,Syafa Putri Raisya,17-07-2010,,,,FALSE,TRUE,F,TRUE,TRUE
+617,131,131,324,Fathiya Hani Azkiya,,,,,FALSE,TRUE,F,TRUE,TRUE
+618,386,386,357,Aqila Zahwa Naadhira,,,,,FALSE,TRUE,F,TRUE,TRUE
+619,70,70,358,Muhammad Renata Fairuz,20-05-2002,,,,FALSE,TRUE,M,TRUE,TRUE
+620,154,154,359,Annisa Agustina Ramadhani,,,,,FALSE,TRUE,F,TRUE,TRUE
+621,70,70,358,Muhammad Rizqi Fauzan,20-05-2006,,,,FALSE,TRUE,M,TRUE,TRUE
+622,70,70,358,Myesha Allesya Zahra,20-05-2006,,,,FALSE,TRUE,F,TRUE,TRUE
+623,369,369,360,Putri Arrumi,20-05-2018,,,,FALSE,TRUE,F,TRUE,TRUE
+624,268,268,361,Siti Badriah,20-05-2004,,,,FALSE,TRUE,F,TRUE,TRUE
+625,202,202,362,Rafli Arisandi Prata,20-05-2004,,,,FALSE,TRUE,M,TRUE,TRUE
+626,202,202,362,Risma Aristiani Putr,20-05-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+627,202,202,362,Rival Ahnaf Baihaqi,20-05-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+628,203,203,363,Delia Anggraini Purnamasari,16-05-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+629,203,203,363,Siska Agustina,03-08-2006,,,,FALSE,TRUE,F,TRUE,TRUE
+630,55,55,364,Syafa Lintang Fadela,20-05-2002,,,,FALSE,TRUE,F,TRUE,TRUE
+631,55,55,364,Khalis Khairul Hadza,25-05-2011,,,,FALSE,TRUE,M,TRUE,TRUE
+632,342,341,365,Zahrotu Syita,20-05-2012,,,,FALSE,TRUE,F,TRUE,TRUE
+633,342,341,365,Muhamad Guntur Saput,20-05-2013,,,,FALSE,TRUE,M,TRUE,TRUE
+634,379,379,366,Althaf Abrisam Nawaf,11-03-2016,,,,FALSE,TRUE,M,TRUE,TRUE
+635,379,379,366,Danesh Assyifatu Haifa,20-05-2017,,,,FALSE,TRUE,M,TRUE,TRUE
+636,66,66,367,Raziq Fadjirian,20-05-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+637,66,66,367,Khairani Nurul Syabi,11-05-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+638,66,66,367,Nayra Shanum Triyani,11-05-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+639,135,135,368,Arif,20-05-2000,,,,FALSE,TRUE,M,TRUE,FALSE
+640,135,135,368,Mohamad Nabil Fauzan,19-05-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+641,263,263,369,Ivander Asmara,,,,,FALSE,TRUE,M,TRUE,TRUE
+642,263,263,369,Thalita Asmara,09-07-2014,,,,FALSE,TRUE,F,TRUE,TRUE
+643,263,263,369,Ayra Dewi Asmara,2018-03-24,,,,FALSE,TRUE,F,TRUE,TRUE
+644,343,342,370,Aura Febi Rahmawati,,,,,FALSE,TRUE,F,TRUE,TRUE
+645,343,342,370,Nuriesta Novianti Pu,07-11-2017,,,,FALSE,TRUE,F,TRUE,TRUE
+646,132,132,371,Fadhil Rizq Fauzan,,,,,FALSE,TRUE,M,TRUE,TRUE
+647,132,132,371,Ghazy Faiz Razan,26-06-2008,,,,FALSE,TRUE,M,TRUE,TRUE
+648,189,189,372,Reva Yulintan Puri A,,,,,FALSE,TRUE,F,TRUE,TRUE
+649,189,189,372,Ola Mardika Puri Dwi,06-03-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+650,199,199,373,Washlihatur Ridho,,,,,FALSE,TRUE,F,TRUE,TRUE
+651,199,199,373,Sholichatun Nawa,14-02-2008,,,,FALSE,TRUE,F,TRUE,TRUE
+652,387,387,374,Farhan Setyo Mrih Husodo,,,,,FALSE,TRUE,M,TRUE,TRUE
+653,387,387,374,Afrizal Setya Pamungkas,30-05-2005,,,,FALSE,TRUE,M,TRUE,TRUE
+654,213,213,375,Intania Fadya Safitr,,,,,FALSE,TRUE,F,TRUE,TRUE
+655,213,213,375,Raffi Syahbani Akbar,30-08-2007,,,,FALSE,TRUE,M,TRUE,TRUE
+656,130,130,376,Fidelyano Ifza Brian,,,,,FALSE,TRUE,M,TRUE,TRUE
+657,130,130,376,Nikita Erlyana Alenta Putri,31-10-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+658,192,192,377,Adistioothrun Nada,,,,,FALSE,TRUE,F,TRUE,TRUE
+659,192,192,377,Muhammad Adrauf Ayyasi,28-01-2009,,,,FALSE,TRUE,M,TRUE,TRUE
+660,319,318,378,Elfano Akbar Adinata,,,,,FALSE,TRUE,M,TRUE,TRUE
+661,128,128,379,Novecha Rachma Prynd,,,,,FALSE,TRUE,F,TRUE,TRUE
+662,193,193,380,Khansa Dayyana Shabr,,,,,FALSE,TRUE,F,TRUE,TRUE
+663,190,190,381,Rifki Arfananda Pras,,,,,FALSE,TRUE,M,TRUE,TRUE
+664,76,76,382,Faizal Rizal,,,,,FALSE,TRUE,M,TRUE,FALSE
+665,76,76,382,Adinda Alifia Assa F,02-01-2003,,,,FALSE,TRUE,F,TRUE,TRUE
+666,401,401,383,Nazwa Aulia Safitri,,,,,FALSE,TRUE,F,TRUE,TRUE
+667,95,95,384,Khansa Qonitah,,,,,FALSE,TRUE,F,TRUE,TRUE
+668,237,237,385,Adhitya Valentino,,,,,FALSE,TRUE,M,TRUE,TRUE
+669,382,382,386,Dion Cigra Ramadhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+670,382,382,386,Challysta Cinta Adinditya Putri,12-05-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+671,313,312,387,Sabrina Sakhi Naomi Azzahra,,,,,FALSE,TRUE,F,TRUE,TRUE
+672,313,312,387,Pandega Sakha Abiyan Hidayat,07-12-2021,,,,FALSE,TRUE,M,TRUE,TRUE
+673,349,348,388,Novita Ardhia Pratiwi,,,,,FALSE,TRUE,F,TRUE,TRUE
+674,349,348,388,Ardhia Dwi Pangga,22-06-2012,,,,FALSE,TRUE,M,TRUE,TRUE
+675,373,373,389,Dauna Gemy Maisha,,,,,FALSE,TRUE,F,TRUE,TRUE
+676,119,119,390,Muhammad Thoriq Nurcahyo,,,,,FALSE,TRUE,M,TRUE,TRUE
+677,119,119,390,Fadillah Hunafa Nurcahyani,20-03-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+678,348,347,391,Michaela Adilla Martha Pradhana,,,,,FALSE,TRUE,F,TRUE,TRUE
+679,348,347,391,Arshaka Virendra Pradhana,16-07-2016,,,,FALSE,TRUE,M,TRUE,TRUE
+680,348,347,391,Kairha Anila Pradhana,2023-08-23,,,,FALSE,TRUE,F,TRUE,TRUE
+681,262,262,392,Muhamad Ilham Rahmat Saputra,,,,,FALSE,TRUE,M,TRUE,TRUE
+682,262,262,392,Rafif Arkan Nirwasita,09-02-2017,,,,FALSE,TRUE,M,TRUE,TRUE
+683,370,370,393,Fazia Maharani,,,,,FALSE,TRUE,F,TRUE,TRUE
+684,75,75,394,Agatha Firda Nur Yudiana,,,,,FALSE,TRUE,F,TRUE,TRUE
+685,73,73,395,Dinda Ramadhan,,,,,FALSE,TRUE,M,TRUE,TRUE
+686,136,136,396,Dafa Siswanto,,,,,FALSE,TRUE,M,TRUE,TRUE
+687,136,136,396,Septy Arum Melati,23-09-2009,,,,FALSE,TRUE,F,TRUE,TRUE
+688,336,335,397,Herjuno Srinarendra Wicaksono,,,,,FALSE,TRUE,M,TRUE,TRUE
+689,336,335,397,El Fatih Alvarendra,09-09-2022,,,,FALSE,TRUE,M,TRUE,TRUE
+690,74,74,398,Nihlah Adelistiani Putri,,,,,FALSE,TRUE,F,TRUE,TRUE
+691,74,74,398,Sevi Putria Nurohmah,25-09-2005,,,,FALSE,TRUE,F,TRUE,TRUE
+692,85,85,399,Hani Pratiwi,,,,,FALSE,TRUE,F,TRUE,TRUE
+693,197,197,400,Henggar Wahyu Pradana /Ldriver Rentalulus Smk/,,,,,FALSE,TRUE,M,TRUE,TRUE
+694,366,366,401,Deanisa Adonia Rahma,,,,,FALSE,TRUE,F,TRUE,TRUE
+695,366,366,401,Raid Abdurrahman Rafif,14-07-2017,,,,FALSE,TRUE,M,TRUE,TRUE
+696,81,81,402,Salma Novelinda Almas,,,,,FALSE,TRUE,F,TRUE,TRUE
+697,81,81,402,Salwa Elysia Zuhayr,26-10-2010,,,,FALSE,TRUE,F,TRUE,TRUE
+698,99,99,403,Maulana Afan Rachmansyah,26-03-2003,,,,FALSE,TRUE,M,TRUE,TRUE
+699,99,99,403,Maulana Afin Rachmansyah,26-03-2003,,,,FALSE,TRUE,M,TRUE,TRUE
+700,177,177,404,Yustac Miftachul Huda Fi Ali,,,,,FALSE,TRUE,M,TRUE,TRUE
+701,177,177,404,Zelda Farelia Yusuf,21-11-2007,,,,FALSE,TRUE,F,TRUE,TRUE
+702,177,177,404,Hiro Kenzie Farelino,2015-10-10,,,,FALSE,TRUE,M,TRUE,TRUE
+703,180,180,405,Muchamad Reza Dharma Putra,,,,,FALSE,TRUE,M,TRUE,TRUE
+704,181,181,406,Gege Jayyin Muhammad,,,,,FALSE,TRUE,M,TRUE,TRUE
+705,181,181,406,Galan Zaki Muhammad,10-12-2010,,,,FALSE,TRUE,M,TRUE,TRUE
+706,233,233,407,Atiqah Izzatunnisa Turizah,,,,,FALSE,TRUE,F,TRUE,TRUE
+707,233,233,407,Almahyra Alsha Turizah,22-10-2018,,,,FALSE,TRUE,F,TRUE,TRUE
+708,244,244,408,Salma Andri Shaliha,,,,,FALSE,TRUE,F,TRUE,TRUE
+709,244,244,408,Dzaki Andri Firdausi,28-06-2015,,,,FALSE,TRUE,M,TRUE,TRUE
+710,244,244,408,Kaysa Andri Adzkiya,2020-03-24,,,,FALSE,TRUE,F,TRUE,TRUE
+711,245,245,409,Ghifahry Pratama Putra Iswadi,,,,,FALSE,TRUE,M,TRUE,TRUE
+712,121,121,410,Damar Wahyu Firmansya,,,,,FALSE,TRUE,M,TRUE,TRUE
+713,121,121,410,Cinta Tri Wahyuningsih,30-08-2014,,,,FALSE,TRUE,F,TRUE,TRUE
+714,275,274,411,Rizky Alvieno Putra Pratama,,,,,FALSE,TRUE,M,TRUE,TRUE
+715,277,276,412,Mochamad Ardiansa,,,,,FALSE,TRUE,M,TRUE,TRUE
+716,278,277,413,Venyla Ivadianis,,,,,FALSE,TRUE,F,TRUE,TRUE
+717,278,277,413,Novrida Fitrianatasya,04-11-2006,,,,FALSE,TRUE,F,TRUE,TRUE
+718,282,281,414,Almira Andra Artanti,,,,,FALSE,FALSE,F,TRUE,TRUE
+719,292,291,34,Daud Adnan Al Mubarah,,,,,FALSE,TRUE,M,TRUE,TRUE

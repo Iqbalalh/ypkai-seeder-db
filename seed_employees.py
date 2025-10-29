@@ -1,6 +1,14 @@
 import pandas as pd
 import psycopg2
 
+# DB_CONFIG = {
+#     "dbname": "ypkai",
+#     "user": "ypkai",
+#     "password": "ypkai123",
+#     "host": "ypkai.crk26ae6i2kw.ap-southeast-2.rds.amazonaws.com",
+#     "port": 5432,
+# }
+
 DB_CONFIG = {
     "dbname": "ypkai",
     "user": "postgres",

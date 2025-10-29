@@ -2,6 +2,14 @@ import pandas as pd
 import psycopg2
 import bcrypt
 
+# DB_CONFIG = {
+#     "dbname": "ypkai",
+#     "user": "postgres",
+#     "password": "123",
+#     "host": "localhost",
+#     "port": 5432,
+# }
+
 DB_CONFIG = {
     "dbname": "ypkai",
     "user": "postgres",

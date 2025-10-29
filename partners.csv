@@ -1,428 +1,423 @@
-employee_id,partner_name,partner_job,partner_nik,region_id,address,subdistrict_id,postal_code,home_coordinate,phone_number,phone_number_alt,is_active
-1,Nurmilah,,,12,"Jl. Kol H burlian Lrg, Keluarga No. 2456 A, RT. 25, RW. 09,Kel.kebun bunga, Kec. Sukarame Km. 10 palembang 30152 (seberang SMA IGM)",1,30152,"-2.9235072,104.6892712",0895619921183,,TRUE
-2,Alm Ny Widodo (Wali Banu),,,1,"Jalan Mangga I, RT.2/RW.3, no 156 Kel.Pasir Putih, Sawangan Depok (paudqu aldiani)",2,16519,"-6.4221951,106.7763433",087888464728,,TRUE
-3,Ida Parida,,,2,"KP. BOJONG SARI, RT. 02, RW.08, Desa. SITUSARI KARAWANGPAWITAN, Kab. GARUT, JAWA BARAT",3,44182,"-7.2091755,107.8620966",089530079217,,TRUE
-4,Sawi,,,1,"jl. siaga darma 8, RT.12. RW 05 no36. pejaten timur, pasar minggu jakarta selatan",4,12510,"-6.2708159,106.8450187",087880152994,,TRUE
-5,Imas Aisah,,,2,"KP.MALINGPING, RT. 001. RW 011 DESA.RENDE, Kec. CIKALONG WETAN, Kab.BANDUNG BARAT 40556 , Google MAPS:",5,40556,"-6.746729, 107.406466",083820231406,,TRUE
-6,Purwati Ningsih,,,5,tidak menerima bantuan karena tidak memenuhi syarat penerima bantuan pendidikan,0,,"-7.4303626,109.215635",085785363135,,FALSE
-7,Siti Muawanah  Se,,,5,"JL. BOUGENVIL GANG DAHLIA, RT 2 RW 3 KEL. GRENDENG, KEC. PURWOKERTO UTARA, BANYUMAS",6,53122,"-7.5126893,109.1809399",081391301313,,TRUE
-8,Devi Laela,,,5,"jl. penatusan Timur No179 , RT. 04, RW. 02 ,desa maos kidul, kec. maos, Kab. cilacap, Jawa. tengah kp . 53272 Maps: -7.606472, 109.146624",7,53272,"-7.606472,109.146624",085772471364,,TRUE
-9,Ikasasi Yunaeni,,,5,"jalan Sumardi, RT. 01/09 no 33, Dukuhwaluh, Kec. Kembaran, Kab. Banyumas, Jawa. Tengah 53182Maps: -7.410938, 109.273526",8,53182,"-7.235656,112.627480",087738221573,,TRUE
-10,Devi Agus Ningtyas,,,5,"Desa sidoharum karangduren, RT.03, RW.03, Desa. sidoharum, Kec. sempor, Kab.kebumen Maps:",9,54421,"-7.6027693,109.4830851",088983647121,,TRUE
-11,Reny Maryati,,,8,"Jl. Pondok Benowo Indah Blok OO No29, RT. 4, RW.9, Babat Jerawat, Kec. Pakal, Surabaya, Jawa Timur 60197 patokan (dekat SD AL Kautsar) Maps: -7.235656, 112.627480",10,60197,"-7.235656,112.627480",081331607068,,TRUE
-12,Achir Arjani,,,6,"gang buntu Jl. Manunggal I Sukorejo, RT. 03, RW. 22,Kel.Banjarsari, Kec.Banjarsari.Kota Surakarta ( Sri Wijaya)",11,,"-7.539061, 110.829818",081393055786,,TRUE
-13,Candra Widhyati,,,8,"Jl. Supriyadi, No.142, Kudu, Kertosono, Kab nganjuk, Jawatimur",12,,"-7.5832338,112.1080186",081252862735,,TRUE
-14,Siti Maryam,,,9,"Jl raya bayemanRT 005, RW. 002 Dusun Krajan, Kec. Tongas , Kota Probolinggo Prov, Jawa.Timur kode pos 67252.Maps: -7.739228, 113.119124",13,67252,"-7.7574361,111.6258946",085234199667,,TRUE
-15,Muslikha,,,9,"Curahdringu Krajan, RT. 12. RW 05 Desa: curahdringu, Kec. Tongas, Kab. Probolinggo Prov, Jawa Timur Kodepos:67252",13,67252,"-7.7369782,113.0761254",08124915207,,TRUE
-16,Yuni Lestari,,,10,"Huta 1 silau bayu, Kec. Gunung Maligas, Pematang Siantar, Kab. Simalungun, Sumut maps: 3.046619, 99.135185",14,20123,"3.046619,99.135185",082161481967,,TRUE
-17,Ester Silalahi,,,10,"Perum. Duta Mas 12 Blok AA3, Jl. Fl.Tobing, Kel. Gambir Baru, Kec. Kisaran Timur, Kab. Asahan. Hp.",15,,"2.9826738,99.6404916",081370229948,081362558728,TRUE
-18,Trisnawati (wali Rahma Widya),,,10,"Jln. Guru Sinumba dalam No.55 Medan Helvetia, Kec. Medan Helvetia, Kota Medan. Kode pos 20123. Google maps: 3.6165814040198816, 98.65977844124917. Telp 0852 6829 3138 Rahma Widya",16,20123,"3.61657,98.65977",085268293138,,TRUE
-19,Jamilus,,,11,"Jl Kampung Baru n04, RT. 02, RW. 05 Sawahan Timur, Kec. padang timur GOOGLEMAPS:",17,,"-0.939269, 100.372936",085376448197,,TRUE
-20,Farsiah,,,13,"Dusun I, RT. 001, RW.001, Kel. Belatung, Kec. Lubuk Batang, Kab. Ogan Komering Ulu Prov, Sumatera Selatan 32192",18,32192,"2.9826738,99.6404916",088286569942,,TRUE
-21,Winda Yati,,,12,"Jl DR Moh Hatta LR Binjai, RT. 003, RW. 007, No Rumah : 686-61, Kel. AIR Paoh, Kec. Baturaja Timur, Kab. Ogan Komering Ulu Prov, Sumatera Selatan 32111",19,32111,"-4.1265336,104.1814336",082280655882,,TRUE
-22,Puspita Rini,,,13,"DSn Tanjung Waras Merak Batin, RT. 011, RW.003, Kel. Merak Batin, Kec. Natar, Kab. Lampung Selatan Prov Lampung 35362",20,35362,"-5.3018179,105.1959971",081369026757,,TRUE
-23,Raminas,,,13,"Address1Jl Stasiun Tiga Gajah, RT. 007, RW. 003, Kel. Sukajadi, Kec. Baturaja Timur, Kab. Ogan Komering Ulu Prov, Sumatera selatan",21,,"-4.1114071,104.1657532",088287488327,,FALSE
-24,Setiyani,,,13,"Terukis Rahayu, RT.003, RW. 004, Kel. Terukis Rahayu, Kec. Martapura, Kab. OKU Timur Prov, Sumatera Selatan",22,,"-4.2781336,104.277959",087798744886,,TRUE
-25,Sumarni,,,13,"Dusun II, Desa. Menanti, Kec. Lubai, Kab. Muara Enim Prov, Sumatera Selatan",23,,"-3.7188204,104.2221829",085783881228,,FALSE
-26,Wiwik Prihatini,,,13,"JL Airan Jaya GG Mushola, RT.018, RW. 007, Kel. Way hui, Kec. Jati agung, Kab. Lampung Selatan Prov Lampung",24,,"-5.3521288,105.2967262",085840864870,,TRUE
-27,Parida,,,13,"jl P. Tirtayasa Perumahan Kereta Api Blok B1, Pasar Tempel Beringin, Kmp Beringin, Kel. Campang jaya, Kab. Bandar Lampung, Kec. SuKabumi, Lampung",25,,"-5.3520366,105.2581015",089624350299,,TRUE
-28,Wentri Yeni,,,10,"Jl Batu gadang, RT. 006, RW.001, Kota padang, Desa. Batu gadang, kecamatan Lubuk kilangan, Sumatera Barat",26,,"-0.980163,100.4706909",081365740886,,FALSE
-29,Suci Okta Amalia Put,,,13,"JL Yudistira No 21, RT.004, Kel. urahan Sawah Lama, Kec. Tanjungkarang Timur, Kota Bandar Lampung Prov Lampung 35125 MAPS -5.408717352133852, 105.26084387008545",27,35125,"-5.40871,105.26083",089632614198,,TRUE
-30,Simponiani,,,13,"Jl. Pulau Sari XI No. 37, RT. 008 Lingkungan II Perumnas Way Kandis kecamatan tanjung senang bandar lampung. Maps: -5.362987, 105.292002",300,,"-5.362987,105.292002",082184697885,,TRUE
-31,Wama Maryati,,,12,"Rd Pjka bandar agung lahat, RT.003, RW. 002, Kel. Rd Pjka bandar agung, Kec. Lahat, Kab. lahat, Sumatera selatan Maps: -3.787347, 103.549921",28,,"-3.787347,103.549921",081273337344,,FALSE
-32,Ida Astuti,,,13,"Jl. Cempaka 8 Way Kandis Gang Nusa Indah, RT. 24A, RW. 8 Bandar Lampung (Samping Respiesusu) Maps: -5.345532, 105.291101",29,,"-5.345532,105.291101",085279071847,,TRUE
-33,Titen Yeni,,,11,"Jorong Sikaladi Nagari Pariangan Pariangan, Kab. Tanah Datar, Sumatera Barat (Ibu, Kota Padang)",30,,"-0.457589,100.480957",085805842869,,TRUE
-34,DIAN KARTIKA SARI UTAMI,,,7,"Perum Graha Kirana II Blok A No. 12 A kec. Manguharjo, madiun kota, Jawa Timur Maps: -7.619456, 111.512782",31,,"-7.619456,111.512782",082145051124,,TRUE
-35,Desi Anita Sari,,,7,"Jl. Candi Sewu no 6b, RT.11,RW 03,Madiun Lor, Kec. Manguharjo, Kota Madiun, Jawa Timur 63122 belakang, Kel. urahan madiun lor. Maps: -7.616514, 111.522209",31,63122,"-7.616514,111.522209",082139090200,,TRUE
-36,Dwi Masruroh,,,7,"Jl. Bengawan Solo, RT. 04, RW. 007, Desa. DUKUHDIMORO kecamatan Mojoagung, Kab. Jombang. Maps: -7.560777, 112.359891",32,,"-7.560777,112.359891",085749454961,,TRUE
-37,Susi Wahyuningsih,,,8,"Jl. Gembili Raya no. 61 Jagir, Kec. Wonokromo, Surabaya, Jawa Timur 60244 Maps: -7.307764, 112.741224",33,60244,"-7.307764,112.741224",087855250168,,TRUE
-38,Maryunis,,,11,"Pasa balai, rumah no. 100, nagari parit Malintang, kecamatan enam lingkung, Kab. Padang Pariaman, Sumatera barat, kode pos : 25584 , Google maps: -0.636947, 100.270687",34,25584,"-0.636947,100.270687",085272726320,,TRUE
-39,Meldawati,,,11,"Korong Titian Akar No 439, RT.05, RW. 00, Nagari Buayan Lubuk Alung, Kecamatan Batang Anai, Kab. Padang Paraiaman, 25586 (belakang Toko Duo Putro dan eni mart)",35,25586,"-0.71703,100.30805",085366377709,,TRUE
-40,Rice Margaretha,,,12,"Jl.Arimbi gang.raJawali No.14, RT.01, RW.05, Kel. Prabujaya, Kec. Prabumulih Timur, Kota Prabumulih, Kota Prabumulih, Sumatera Selatan Maps: -3.422494, 104.236423",36,,"-3.422494,104.236423",081373886702,,TRUE
-41,Sukarsih,,,3,"Kp. Krajan Barat No. 64, RT.01, RW. 08, Desa. Cikampek Barat, Kab. Karawang 41373,",37,41373,"-6.404467,107.4390442",08129880244,,TRUE
-42,Neni Handayani,,,3,"Jl. Tuparev gang kesehatan Blok bedeng no 76, RT.011. RW.003, Desa. Bulak Kecamatan Jatibarang, Kab. Indramayu kode pos 45273 Maps: -6.476291, 108.309258 , no. Telp 0896 4686 2360",38,45273,"-6.476291,108.309258",082118481725,,TRUE
-43,Nurhayati,,,1,"Jl. jembatan 111, NO 38A, RT.008, RW.005, kel. Balaikambang, kec. kramatjati, jak tim",39,,"-6.2674567,106.867039",081318408070,,TRUE
-44,Eni Purwati,,,4,"Kantor daop 4 Jl. MH Thamrin No.3, Miroto, Kec. Semarang Tengah, Kota Semarang, Jawa. Tengah 50133",40,50133,"-6.9797667,110.4144961",081229622243,,TRUE
-45,Any Rahmawati,,,4,"Desa Banyuurip, RT. 03, RW. 03, Kec. Ngampel, Kab. Kendal, Jawa. tengah Maps: -6.969087, 110.189039",41,,"-6.969087,110.189039",085235145791,,FALSE
-46,Dian Fitriyana,,,4,"Jl. MH Thamrin No.3, Miroto, Kec. Semarang Tengah, Kota Semarang, Jawa. Tengah 50133",40,50133,"-6.9804601,110.4138607",082223218045,,TRUE
-47,Nuryamah,,,5,"jl.mardikenya gg.permata, RT. 09/, RW. 07 no : 44, Kel. urahan kranji kec. purwokerto Timur, Kab. banyumas Prov, Jawa. Tengah Maps: -7.424917, 109.236410",42,,"-7.424917,109.236410",085291046133,,FALSE
-48,Siti Mukaromah,,,5,"Desa Mernek, RT. 03/06 Kecamatan Maos , Kab. Cilacap, Jawa. tengah",43,,"-7.616666,109.1505528",082138383895,,TRUE
-49,Nining Sutini,,,2,"JL.WARUNGKETAN DSN. CIJAMBE, RT. 001. RW. 004 DS. JATIMEKAR, Kec. SITURAJA, Kab. SUMEDANG 45371",44,45371,"-6.8565028,108.0052653",083871047114,,TRUE
-50,Elvi Triani,,,12,"Jalan raya Baturaja, RT. 002, RW. 001 No.10, Kel. urahan Tanjung Rambang, kecamatan Rambang, Kota Prabumulih. (Jalan depan toko sumber agung, rumah cat berwarna ungu) Maps:",45,,"-4.9117829,104.311362",083178264907,,TRUE
-51,Kasriyati,,,13,"Bruas / Negri Ratu, RT. 01, RW. 02 Rumah no4, Kec. Sungkal Utara, Kab, Kota Bumi Lampung 34555",46,34555,"-5.1481308,104.4389795",081379091824,,TRUE
-52,Kusmiyati,,,2,"JL. SEKELOA Timur NO.254, RT. 007. RW. 003 Kec Coblong Kota BANDUNG, Jawa Barat 40134",47,40134,"-6.8871618,107.6175621",081222971108,,TRUE
-53,Sulasmi,,,13,"JL. DR SAM RATULANGI GANG TERATAI NO. 05, Kel. Gedong Air, Kec. TANJUNG KARANG BARAT, Kota BANDAR LAMPUNG 35151 Maps: -5.399546, 105.249112",48,35151,"-5.399546,105.249112",081274379645,,TRUE
-54,Yuretsi,,,12,"Jl. Kombes Pol. Drs. Soebarkah Gg. Permai, RT. 003, RW. 003, Kel. Muara Enim, Sumatera Selatan",49,,"-3.6619735,103.7771616",081270348777,,TRUE
-55,Eli Wulandari,,,2,"KP.SUKAJADI, RT. 001. RW. 001, Desa. SUKAJADI, Kec. PONDOKSALAM, Kab.PURWAKARTA, Jawa Barat",50,,"-6.6327569,107.4478354",081293505940,,TRUE
-56,Siti Hobsah,,,2,"JL.STASIUN CIGANEA ATAS, RT. 008. RW. 003 ,Kel.DESA MEKARGALIH, Kec. JATILUHUR, Kab. PURWAKARTA, Jawa Barat",51,,"-6.5673816,107.4288578",085624623073,,TRUE
-57,Susi Indriawati,,,2,"JL.CIAYUNAN 77, RT. 003. RW. 004 CICALENGKA, Kab.BANDUNG, Jawa Barat 40395",52,40395,"-6.9865431,107.8446781",082218999910,,TRUE
-58,Ratih Nurdianti,,,2,"Jl. Ciseke, RT. 02, RW. 03 (gang SMP), Kel. waluya, Kec. Cicalengka, Kab. Bandung, Jawa Barat .",52,,"-6.9913198,107.8349779",085282225899,,TRUE
-59,Titi Irawanti,,,2,"Jl. Elang II No. 173 , RT 002 RW 002 Kel Garuda kecamatan Andir. Andir , Bandung , Jawa Barat (Ibu, Kota Bandung) ( Penjahit Anisa )",53,,"-6.9124525,107.5544141",082299201957,,TRUE
-60,Awang Nawangsih,,,2,"KP. PASIR KURAY, RT. 005. RW. 009DESA CIRANJANG, Kec. CIRANJANG, Kab. CIANJUR",54,,"-6.9120403,107.4102043",081258433622,,TRUE
-61,Juliana,,,10,"jl Tirto sari No 103 Buntu, medan Tembung , Kota Medan, Medan tembung, Sumatera Utara",55,,"-3.779853,103.5347571",081370508398,,TRUE
-62,Rohila,,,12,"Jl.prof.dr Emil Salim No.24D, RT.01, RW.01, Kel. Rd.Pjka, Kec.lahat, Kab.Lahat, Provinsi, Sumatera Selatan, Kode Pos 31417, -3.7914554243694054, 103.53122218512524. 6G5J+CF8 Rd. Pjka Lahat, Kabupaten Lahat, Sumatera Selatan",28,31417,"-3.791458,103.531204",089627425395,,FALSE
-63,Nur Hasanah,,,12,"JL.Meritai Lr.Pamili, RT. RW 023/004 No.47 Dusun VI Kec. Rambutan, Kab.Banyuasinm Sumsel.",56,,"-3.0491855,104.8378883",085789131112,,TRUE
-64,Pratiwi Setya Ningsi,,,5,"Bedeng KAI pintu no. 4 Jl. Stasiun bedeng, RT. 04, RW. 03 Semingkir, Bajing, Kec. Kroya, Kab. Cilacap, Jawa. Tengah 53282",57,53282,"-7.3580729,109.1546654",085702889059,,TRUE
-65,Zurna,,,12,"jalan akses kertapati lorong sulawesi, RT.15, RW.03, kertapati, Kota palembang, sumatra selatan 30258 Maps: -3.021853, 104.748678",58,,"-3.021853,104.748678",085368896883,,TRUE
-66,Santi,,,12,jl.palembang-prabumulih sumatera selatan Gelumbang RT.08 RW. 01 No. Rumah 37,59,,"-3.1566141,104.3699626",085267691543,,TRUE
-67,Rohmi,,,14,"Jl. Kamboja No.01 Rt13 Rw04 arah terowongan, Gunung gajah, Lahat, sumatera selatan, 31418. 103.52811665151573, 6G5H+26H Gn. Gajah, Kabupaten Lahat, Sumatera Selatan",60,31418,"-3.79248,103.52808",,,FALSE
-68,Yesi Handayani,,,14,"JL. Lintas Gumay Ulu Desa Muara siban 3 Gang mangga 2,,belakang Depot purnain, kec. Pulau pinang kab. Lahat sumatera selatan. 5GR6+MM5 Sukanegara, Kabupaten Lahat, Sumatera Selatan, -3.808405070307589, 103.51174206818543",61,,"-3.80839,103.51173",081278693013,,TRUE
-69,Susmawati,,,14,"Jln. Beringin 2 Blok 2A no. 03, Perum Beringin Raya Kemiling, Bandar Lampung",62,,"-5.3969286,105.1991003",085369436255,,TRUE
-70,Ria Rochyati,,,2,"jl nusantara x no 3 kapling IPTN, RT.3, RW. 25, Kel. Cibabart, kec cimahi utara, Kab. bandung barat",63,,"-6.8751851,107.5511272",081802121949,,TRUE
-71,Tia Siti Julaeha,,,2,"Jl cempaka no 6c/126d
- Rt03/rw05 kelurahan kebon gedang kiaracondong 
- Telp ",218,,"-6.92386,107.64179",085712849242,,TRUE
-72,Ayuni Astriyani,,,3,"Dusun Satu, RT. 003. RW. 001, Desa. Sambeng, Kec. Gunung jati, Kota Cirebon",64,,"-6.650324,108.5227155",089509868555,,TRUE
-73,Eti Daeti,,,3,"BTN Permata Harjamukti Blok C 4 No. 16 Blok C 4 No 16, Kel. Kalijaaga, kec. Harjamukti, Kota Cirebon",65,,"-6.7527967,108.5628491",081312602158,,TRUE
-74,Atikah,,,3,"Dusun Cipunagara, RT. 016. RW. 006 Ds. Tanjung, Kec. cipunegara, Kab. subang. Kunjungan dianter stasiun pegaden",66,,"-6.481321,107.8246314",,,FALSE
-75,Sariah,,,3,"Dusun Gadog, RT. 009. RW. 003, Desa. Kosambi, Kec. Cipunegara, Kab. Subang",66,,"-6.5493907,107.0376605",,,FALSE
-76,Satiyem,,,3,Blok kisobur RT 04 RW 02 Desa. Gintung Ranjeng kec. Ciwaringin kab. Cirebon 45167,67,45167,"-6.6842881,108.3732324",085324297969,,TRUE
-77,Ety Juniarti,,,1,"Telaga Mas Blok B, BA3 No. 23, Bekasi Utara, Bekasi, Jawabarat",68,,"-6.2121099,107.0206866",085214087710,,TRUE
-78,Nunung Surahmatun,,,6,"Gatak Klegung, RT. 003, RW.025, Kel. Donokerto, Kec.Turi, Kab. Sleman Provinsi Yogya",69,,"-7.66022,110.36732",087738664158,,TRUE
-79,Sutiah,,,3,"Blok 03, RT. 013, RW. 003, Desa Pesanggrahan, blok jatiroke, kec prumbon, Kota Cirebon",70,,"-7.2389183,108.4085438",082120821707,,TRUE
-80,Royani,,,3,"Blok Pekuwon No 40, RT.001, RW. 002, Kel. Kemantren, Kec. sumber, Kab Cirebon",71,,"-6.7591894,108.4866752",089660989330,,TRUE
-81,Mety Mulyasari,,,2,"Jl.Batubara III No. 6, kec lengkong, Kota Bandung, Jawa Barat",72,,"-6.9418611,107.623733",081809512291,,TRUE
-82,Miharsih,,,15,"Jl. Kaliandra No.7, RT.001. RW.003, Adiwerna, Kab.Tegal, Jawa Tengah.",73,,"-6.8704234,109.1509045",085747538684,,TRUE
-83,Dewi Wistiyawati Set,,,4,"GENUK KARANGLO 001/008, Kel. TEGAL SARI, Kec. CANDISRI, Kota SM JATENG",74,,"-7.0008728,110.4194794",0895414872326,,TRUE
-84,Sri Wati,,,4,"BODEAN: 015/004, Kel. DUKUH , Kec. BANYUDONO, Kab. BOYOLALI, JATENG Maps: -7.560673, 110.683970",75,,"-3.80839,103.51173",081212251614,,TRUE
-85,Nisa Barqi Rahayu Su,,,4,"JL. NAKULA A 7 008/008, Kel. KEJAMBON, Kec. TEGAL TIMU, Kota TEGAL, JATENG",76,,"-6.881516,109.1399407",0811288870,,TRUE
-86,Sri Sutanti,,,4,"BALUN LR I/16 004/008, Desa. BALUN, Kec. CEPU, Kab. BLORA, JATENG",77,,"-7.1463936,111.5734167",082132530354,,TRUE
-87,Junaedah,,,3,"Desa kedokan bunder wetan blok gopala, RT.02, RW.01 NO 92, Kec. kedokan bunder, Kab.indramayu prov, Jawa Barat Maps: -6.5169762122732875, 108.42880860637423",78,,"-6.516976,108.428809",082136662267,,TRUE
-88,Nur Setyawati,,,4,"Dk. Wonopolo, RT.02. RW01, Ds. Botosengon, Kec. Dempet, Kab. Demak, Jawa. Tengah, 59573 Maps: -6.960091, 110.697786",79,59573,-6.960091. 110.697786,082327065270,,TRUE
-89,Elly Triningsih,,,10,"Jl. Kasih Ds.VII, Desa. Kedai Durian, Kec. Deli tua, Kab. Deli Serdang, Sumatera Utara dekat paud Masyitha Malik pagar stainless. Maps: 3.509224, 98.683564",80,,"3.5043732,98.678759",085261100129,,TRUE
-90,Herni Hirni Yana,,,4,"KANDANG DORO, RT. 003, RW. 010, Kel. BALUN, Kec. CEPU, Kab. BLORA, Jawa. TENGAH Maps: -7.155335, 111.587380",81,,"-7.1480024,111.5779964",085229250402,,TRUE
-91,Waryanti,,,6,"SEMPON 002/003, Kel. WATES, Kec. DUKUN, Kab. MAGELANG, JATENG",82,,"-7.5589989,110.3373082",081392192810,,TRUE
-92,Hanny Diarsha Putri,,,4,"JL. MENTAWAI 5 No 68, 003/011, Kel. GEDANMG ANAK, Kec. UNGARAN Timur, KOTA, SEMARANG",83,,"-7.1440653,110.4163149",082323670885,,TRUE
-93,Indah Wahyu Pujining,,,4,"Balun Srikaton lorong 13,no 53 D, RT. 04, RW. 02, Kel. Balun, kec. cepu, Kota Blora Prov, Jawa. tengah MAPS:-7.158721, 111.587368",77,,"-7.158721,111.587368",085727094181,,TRUE
-94,Novi Erisca Supriyan,,,4,"Jln. Pekunden Tengah 1070, RT. 04, RW. 02, Semarang Tengah, Semarang Jawa Tengah, Maps: -6.985145, 110.414190",40,,"-6.985145,110.414190",085869452808,,TRUE
-95,Sri Hartini,,,8,"JL. KYAI MASZAD, gg sawah no 10, 006/001, DESA BANJARREJO, Kec. BOJONEGORO, Kota BOJONEGORO, JATIM MAPS:-7.140138107762429, 111.89063785993967",83,,"-7.139315,111.8882679",085775562754,,TRUE
-96,Sri Wironi,,,4,"Kelurahan Mojayan rt 08/ rw 03, Mojayan, Klaten Tengah, KLATEN. ID 57411.",84,57411,"-7.7094337,110.6082856",081280845458,,TRUE
-97,Ai Hotimah,,,2,"Kp Pasir Kuntul, RT.01, RW. 02, Desa. Bojong Koneng, Kec. Ngamprah, Kab. Bandung Barat",85,,"-6.8311062,107.4870626",0852944601772,,TRUE
-98,Nurlela,,,2,"Jl Babakan DKA, RT.01, RW.14, Ds. Cikuya, Kec. Cicalengka, Kab. Bandung",52,,"-6.981371,107.8279598",082312893507,,TRUE
-99,Dariyanti,,,6,"BandungKidul, RT.002, RW. 001, Desa. bandung kidul, kec. Bayan, Kab. Purworejo",86,,"-6.9958203,107.7940796",,,FALSE
-100,Yunlis Setyowati,,,6,"Griya Harmoni C4, RT 1, RW 7, Kalipelang Demakan Mojolaban, Sukoharjo 57178",87,57178,"-7.5971366,110.8782084",089671988553,,TRUE
-101,Sri Fatonah,,,6,"Keboan, RT.01, RW. 01 Sumberadi Mlati sleman yogyakarta -7.709271, 110.337452",88,,"-7.709271,110.337452",08566703951,,TRUE
-102,Siti Rukayah,,,6,"Jagalan, RT. 003. RW. 007, Kec. Jeberes, Kota Surakarta, Jawatengah -7.563344, 110.842430",89,,"-7.5629197,110.8414409",081548094445,,TRUE
-103,Sheren Regina Ulfah,,,6,"Dusun Jragan II, RT 02, Kalurahan Poncosari, Srandakan, Bantul, Yogyakarta.",90,,"-7.9654828,110.2326423",082183757099,,TRUE
-104,Yanuri Widiyati,,,6,"Jongkangan RT 06 RW 02 Tamanmartani Kalasan Sleman Yogyakarta. -7.743565,110.474801",91,,"-7.743565,110.474801",082126888020,,TRUE
-105,Merin Irnawati,,,6,"Dekat Kebayanan I,Perumahan Bhumi Firdaus 1, Tegalombo, Kec. Kalijambe, Kabupaten Sragen, Jawa Tengah 57275 googlemaps -7.426456,110.829245",92,57275,"-7.42643,110.82926",085735536955,,TRUE
-106,Ariani,,,6,"Kaligawe RT 02 Dk. Geblag Bantul Bantul Bantul Yogyakarta kode pos 55711 -7.871135,110.326444",93,55711,"-7.871135,110.326444",089667455063,,TRUE
-107,Sri Windiyanti,,,6,"Karang Dusun, Keboan, RT. 003. RW.001 Sumberadi Mlati, Kab. Sleman. DIY. -7.707977, 110.339385",88,,"-7.707977,110.339385",087838448495,,TRUE
-108,Astriyani,,,6,"dla Mojokulon, RT.04, RW. 06 kel. Seragen Kulon,kec. Sragen Kulon, kab Sragen ,Jawa Tengah, google maps -7.435779, 111.015193",94,,"-7.435779,111.015193",081548727927,,TRUE
-109,Sri Mulyati,,,16,"Kulwaru Wetan, RT. 004. RW. 002 Wates , Kab. Kulon Progo , Daerah Istimewa Yogyakarta (Ibu, Kota Yogyakarta)",95,,"-7.8976575,110.1225111",081227161461,,TRUE
-110,Sumini,,,16,"Tanubayan Dk. Priyan, RT.08 Priyan, Trirenggo, Bantul, Daerah istemewa yogyakarta. -7.888709,110.342017",96,,"-7.8905449,110.3377386",083129505272,,TRUE
-111,Dwi Handayani,,,16,"Bendungan, RT.03, RW. 14, Sidoagung, Godean , Kab. Sleman , Daerah Istimewa Yogyakarta -7.765428,110.298736",97,,"-7.765428,110.298736",089634903729,,TRUE
-112,Siti Alijah,,,16,"Giyoso Dusun Giyoso, RT. 016/EW. 008 Sentolo , Kab. Kulon Progo , Daerah Istimewa Yogyakarta (Ibu, Kota Yogyakarta)",98,,"-7.8106288,110.2700915",081390986318,,TRUE
-113,Widayati,,,6,"Sonopakis Kidul, Dusun DK. X Sonopakis Kidul, RT.004 ds Ngestiharjo, Kec. Kasihan, Kab. Bantul DI yogyakarta -7.809014,110.337692",99,,"-7.809014,110.337692",,,FALSE
-114,Istiyana,,,6,"Kriyan, RT. 116. RW. 035 Kokap , , Desa. Hargorejo, Kab. Kulon Progo, Daerah Istimewa Yogyakarta (Ibu, Kota Yogyakarta)",100,,"-7.855732,110.0966586",,,FALSE
-115,Diah Wara Purnasanti,,,16,Perum Sidoarum 4 jln Cokrokembang A25 Godean Sleman,97,,"-7.7811186,110.3230718",085642362518,,TRUE
-116,Indarti,,,8,"Desa Ngemplak, RT.003, RW.000, Desa. karang malang, Kec. marasan, Kab. Sragen, Jawa. tengah",101,,"-7.4848148,110.9158901",081215573331,,TRUE
-117,Soedarwati,,,8,"jln Putat jaya C barat Xl /no 24, RT 05, RW 13, Kota Surabaya",102,,"-7.2783567,112.7195921",082257137575,,TRUE
-118,Sungatmi,,,8,"kangkungan, Dusun Kangkungan, RT. 002. RW. 005, Desa. lengkong, Kec. mojoanyar, Kab. mojokerto, Jawa Timur -7.454397543969008, 112.47421972824183",103,,"-7.4551176,112.4766601",082334320334,,TRUE
-119,Yaromin,,,8,"Kesamben Wetan, RT. 007. RW. 001, Kec. Driyorejo, Kota Gersik, Jawa Timur",104,,"-7.3423337,112.6000603",,,TRUE
-120,Setya Ningsih,,,8,"Perum ABR Blok C 4 No. 4, RT. 015. RW. 009, Kembangan, Kec. Kebo mas, Kab. gersik, Jawa Timur maps -7.161502, 112.608386",105,,"-7.161502,112.608386",085102891366,,TRUE
-121,Khusniatul Azizah,,,8,"Desa Kolursari, RT.005, RW. 02, Kab. pasuruan, Kec. Bangil, Jawa Timur. Patokan: Gang sebelah selatan toko sumber baru , masuk ke barat lurus Ada musolah belok kiri.",106,,"-7.6121006,112.7658697",085733074546,,TRUE
-122,Dwi Mulyasari,,,8,"Dusun Ngijo, RT. 034. RW. 009, Sumber agung, Kec. wates, kediri, Jawa Timur.",95,,"-7.8743493,112.0835263",081359231368,,TRUE
-123,Laili Dunyati Rohmaidah,,,8,"Resik, RT. 005. RW.003, Kec. Candisari, Kec. Sambeng, Kab. lamongan, Jawa Timur. Maps: -7.319558, 112.276874",107,,"-7.319558,112.276874",081553611557,,TRUE
-124,Sulipah,,,8,"Janti Krajan, RT. 003. RW. 001, Kec. Tulangan, Kab. Sidoardjo, Jawa Timur",108,,"-7.4800824,112.6160786",085859178580,,TRUE
-125,Nike Irdiana,,,8,"Dsn. Sumberharjo, RT. 006, RW. 003, Kel. Sutojayan, Kec. pakisaji, Kab. malang, Jawa Timur",109,,"-7.6558361,112.0029182",082232113433,,TRUE
-126,Siti Amanah,,,8,"Kuwanon, RT. 002. RW. 004, Kel. Babatkumpul, Kec pucuk, Lamongan, jawatimur",110,,"-7.0802835,112.3083415",085785363135,,TRUE
-127,Sulistiyani,,,8,"Jl. P. Diponegoro, RT. 15. RW. 06, Sambigede, Sumberpucung, Malang, jawa timur.",111,,"-8.0982858,112.6739813",082240412905,,TRUE
-128,Sarima (wali Elok Tri Wardhani),,,9,"Asrama polisi Perintis Blok B.6 Jl. A. yani No. 72, Bondowoso, Kec. Bondowoso, Kab. Bondowoso, Jawa Timur maps:-6.921761, 109.324753",112,,"-6.921761,109.324753",085258772154,,TRUE
-129,Lilik Eliyatin,,,8,"Mlaten No. 24, RT. 003. RW. 003, Kel. Jetis, Kec. lamongan, Kab. lamongan, Jawa Timur",113,,"-7.1227074,112.4173951",085649672725,,TRUE
-130,Dei Yogi Pratama,,,8,"lebak Timur 3 -E/ 16 , RT.05. RW010, Kec. gading, Kec. TambakSari, Kota Surabaya, Jawa Timur",115,,"-7.2434958,112.7746413",082254043210,,TRUE
-131,Suratun,,,8,"Ds Gaprang, RT. 3/, RW. 1 Gg Maunen, Kec. Kanigoro, Kab. Blitar, Jawa Timur 66171 Maps: -8.116723, 112.188235",116,66171,"-8.116723,112.188235",085812107552,,TRUE
-132,Sri Hartati,,,8,"desa Kemukus, RT. 02 WR01, Kec. gombong, Kab. kebumen",117,,"-7.6216744,109.5151701",,,FALSE
-133,Sulatifah,,,8,"jl Mayjend Sungkowo, RT. 08, RW. 01, Kec. Sukowinangun, Kab. Magetan Prov, Jawa Timur",118,,"-7.6337992,111.3393199",,,FALSE
-134,Dumaenci,,,10,"Jl pancasila Dusun III Kp. Sumur, Desa. pay Gambar, Kec. Batang kuis 20372 deli serdang, Sumatera utara",119,20372,"3.6239822,98.8103328",,,FALSE
-135,Elsi Resti Rodiana,,,2,"kp , Balekambang RT 3 Rw 16 desa sukamaju kecamatan majalaya , patokan kantor Rw 16 . rumah bapak odang/ibu nur. kode pos 40382",120,40382,"-7.0284775,107.5454595",,,TRUE
-136,Siti Juariah,,,2,"kp Rancamindin, RT.001RW011, Kel. Cikuya, Kec. Cicalengka",52,,"-6.987308,107.8286655",,,TRUE
-137,Sri Sumariah,,,2,"Griya Utama Rancaekek JL cendana IV no 44, RT.008, RW.020, Kel. Rancaekek wetan, Kec. rancaekeek , Kab. bandung",121,,"-6.9649108,107.7557485",,,TRUE
-138,Santika Fujasari,,,2,Mekarsari Eco Living Blok D24 Desa Cilame Kec. Ngamprah Kab. Bandung Barat,85,,"-6.8497701,107.5087963",,,TRUE
-139,Anis Saidah,,,0,tidak diberikan santunan tidak memenuhi kriteria,0,,,,,FALSE
-140,Karyati,,,0,tidak diberikan santunan tidak memenuhi kriteria,0,,,,,FALSE
-141,Suci Rahayu,,,0,tidak diberikan santunan tidak memenuhi kriteria,0,,,,,FALSE
-142,Ismini,,,8,"Gg. Balai Desa, Sukorame, Tutup, Kec. Tunjungan, Kab. Blora, Jawa. Tengah c, Indonesia Maps: -6.96904303070136, 111.39416450072697",122,58252,"-6.96904303070136,111.39416450072697",082133818451,,TRUE
-143,Elia Hendrawati,,,8,"Polak Wonorejo 1/20A, RT. 001, RW. 001, Kel. Peneleh, Kec. Genteng, Surabaya, Prov. Jawa Timur 60274 Maps: -7.254489, 112.741863",123,60274,"-7.254489,112.741863",087854511767,,TRUE
-144,Rijaningsih,,,8,"Perum permata alam permai, jalan Mustika 2 cc3/10, Kel. Gemurung, kec. gedangan, Kab. Sidoarjo. Jawa Timur",124,,"-7.4028297,112.7441883",089527070860,,TRUE
-145,Anik Julaikah,,,8,"JL.DUKUH BULAK BANTENG SEKOLAHAN GG:12 A No:26, RT.07, RW.06, Bulak Banteng, Kec. Kenjeran, Surabaya, Jawa Timur 60127 Maps: -7.219199, 112.765429",125,60127,"-7.219199,112.765429",083143810701,,TRUE
-146,Yuli Irawati,,,8,"Kasak, RT.002, RW.003, Kel. Terungkulon, Kec. krian, Kota Sidoarjo Prov, Jawa Timur 61262 Maps: -7.398267945270788, 112.60121144437868",126,61262,"-7.398267945270788,112.60121144437868",081231496193,,TRUE
-147,Siti Nur Ajijah,,,8,"DSN Sigit, RT.004, RW.003 , Kel. Kedung kembar, Kec. Prambon, Kab. sidoarjo Prov, Jawa Timur Maps: -7.466191074536629, 112.60154085309567",127,,"-7.466191074536629,112.60154085309567",088996959607,,TRUE
-148,Laily Ambarwati,,,8,"Sememi Jaya 5 Utara Rel blok 3 no 11, RT. 002, RW.001, Kel. Sememi, Kec. Benowo, Kota Surabaya Prov, Jawa Timur 60198 Maps:",128,60198,"-7.245846,112.644313",089521277038,,TRUE
-149,Ning Alfiyah,,,8,"DSN Johowinong, RT.007, RW. 002, Kel. Johowinong, Kec. MojoAgung, Kab. Jombang Prov, Jawa Timur 61482 Maps: -7.523591, 112.358660",129,61482,"-7.523591,112.358660",087780433141,,TRUE
-150,Jumiati,,,8,"Dsn pohkecik, RT. 004, RW. 008, Desa. Baujeng, Kec. Beji, Kab. Pasuruan, Jawa Timur, 57154 Maps: -7.624994, 112.733151",130,57154,"-7.624994,112.733151",082234425450,,TRUE
-151,Nafsiyah,,,8,"Perum Permata Candiloka Blok M 4/23, RT. 004, RW. 004, Balonggabus Candi, Sidoarjo, Prov, Jawa Timur 61271",131,61271,"-7.4954109,112.7185219",085707118284,,TRUE
-152,Eka Aprilia Firgianti,,,8,"Jl.terusan batu bara V,rt 09, RW. 09, gang Lanang A.n.Bpk Soni (pijat). Malang, Pandanwangi, Kec. Blimbing, Kota Malang, Jawa Timur Maps: -7.949840, 112.654903",132,,"-7.949840,112.654903",085604198812,,TRUE
-153,Diana Sukmawati,,,8,"Buluh Duko , Kel. Buluh, Kec. Socah, Kab. Bangkalan Prov, Jawa Timur 69161 Maps: -7.0904595914763116, 112.7180922687217",133,69161,"-7.0904595914763116,112.7180922687217",082110174279,,TRUE
-154,Diana Ade Erma Suryani,,,8,"Jl Stasiun, RT. 04, RW. 02, Desa. Pohgajih, Kec. Selorejo, Kab. Blitar, Provinsi, Jawa Timur",134,,"-8.1487478,112.3605175",085233265383,,TRUE
-155,Eva Kristiana,,,8,"Sumberjo, RT. 008, RW. 001, Kel. Sumberjo, Kec. Trucuk, Kab. Bojonegoro Prov, Jawa Timur Google maps= -7.12375502881244, 111.853266291856",135,,"-7.12375502881244,111.853266291856",082139176495,,TRUE
-156,Lucky Luxmawaty Wahyudi,,,7,"Dsn.Ngadiluwih, RT.001,RW.002, Ngadiluwih, Kediri, Jawa Timur",136,,"-7.12375502881244,111.853266291856",085779170999,,TRUE
-157,Arimbi Putri Hari Susanti,,,7,"Jl. Taman Melati, RT. 07, RW. 02, Desa Tamanan, Kec. Mojoroto, Kota Kediri, Jawa Timur. 64116. MAPS:",137,64116,"-7.8327699,111.9848428",082139387456,,TRUE
-158,Sudarti,,,7,"JL. Letjen Suprapto, RT.003/, RW. 007 Ds. Jatirejo, Kec. Nganjuk , Kab. Nganjuk, Jawa Timur",138,,"-7.6109438,111.8862684",,,FALSE
-159,Suci Malia Fika,,,7,"Genengan, RT. 003. RW. 001 Ds. Genengan, Kec. Kawedanan, Kab. Magetan Jatim",139,,"-7.6815337,111.4138003",081333965334,,TRUE
-160,Ayu Dyah Kusumawati,,,7,"Kepel, RT. 006. RW. 001 Ds. Banjasari, Kec. Madiun, Kab. Madiun, Jawa Timur",140,,"-7.5941758,111.554026",085759092005,,TRUE
-161,Yuli Fitriati,,,7,"Jl. KH Musta in Romli, RT. 001/, RW. 002, Kec. Kertosono Nganjuk, Jawa Timur",12,,"-7.0008728,110.4171834",087785654997,,TRUE
-162,Umi Afifah,,,7,"Onto Seno, RT. 003/, RW. 002 Ds. Klitik, Kec. Wonoasri, Kab. Madiun, Jawa Timur",141,,"-7.5524515,111.6388005",085799849836,,TRUE
-163,Romawati,,,7,jl desa bedug RT 01 RW 01 kelurahan mangunrejo kecamatan ngadiluwih kabupaten kediri ( toko berkah jaya),136,,"-7.8846835,112.005472",085707377532,,TRUE
-164,Wahyu Diandriyani,,,8,"Jl. Pundak, RT. 001. RW. 018 Ds. Banaran, Kec. Kertosono Nganjuk, Jawa Timur",12,,"-7.5898702,112.0866917",,,TRUE
-165,Komariyati,,,7,"Dsn. Ngantru, Kec. Ngantru TulungAgung, Jawa Timur",142,,"-8.01559,111.9134948",085940470389,,TRUE
-166,Nila Tresna,,,2,"Kiara Green Residence Blok B No 1 Jl Hr Danurasmaya, RT.003, RW.007, Kel. Cibabat, Kec. Cimahi UTara, Kota cimahi Provinsi, Jawa Barat",143,,"-6.8842152,107.557303",,,TRUE
-167,Sularni,,,1,"papan Mas Blok B18 no 5, RT.005, RW.018, Kel. mekar sari, Kec. tambun Selatan Bekasi 17510",144,17510,"-6.2640365,107.020833",,,FALSE
-168,Rita Diana,,,10,"JL.H.A Bilal / tanah merah link. VII(sebelah kos kosan Dadang Kurniawan), kel. Tebing Tinggi, kec. Padang Hilir, kota Tebing Tinggi, sumatera utara, kode pos:20631 no. hp:",145,20631,"3.3217299,99.1700073",081262056344,,TRUE
-169,Dwi Novia Nengsih,,,10,"jl.Merpati (depan panglong matahari) kel.aek habil, kec.sibolga selatan, kota sibolga",146,,"1.7293444,98.7932909",085249957008,,TRUE
-170,Leni Hariati,,,10,"Pasar VII Dusun XI, RT.002, RW.002, Kel. Tembung, Kec. percut Sei Tuan, Kab. Deli Serdang , Sumatera Utara 20371 maps: 3.587142, 98.746754",147,20371,"3.587142,98.746754",081270253903,,TRUE
-171,Ferinda Febrina,,,10,"JL. Bustamam no.95, Bandar Khalipah, Kec.Percut Sei Tuan, Kab.Deli Serdang, 20371, Sumatera Utara.",147,20371,"3.6085401,98.7453058",082168511566,,TRUE
-172,Jehan Annisa,,,10,"Jl. Platina II no. 58 LK VIII Titi Papan, Kec. Medan Deli, Kota Medan",148,,"3.6808722,98.6660122",082304224138,,TRUE
-173,Siti Cholijah Ritonga,,,10,"Jl.Bakti Luhur No.194 Medan,sebelah mesjid imanurrahman, Kec. Medan Helvetia, Kel. Dwikora, kota Medan, Sumatera Utara",149,,"3.604424,98.633893",081977709351,,TRUE
-174,Sri Indriani,,,10,"Jl. Jati 20 no. 60 Perumnas Simalingkar A, Kec. Pancur Batu, Kab. Deli Serdang, Sumut",150,,"3.5107257,98.6268379",081377283179,,TRUE
-175,Damayanti,,,10,"jl mangaan 3 Mabar pasar no 120. 2 LK 12, Mabar, Kec Medan Deli, Kota medan, Sumatera Utara",148,,"3.6598958,98.678571",081260770032,,TRUE
-176,Yanti Muningsih,,,10,"huta 2 Songal, Kel. Nagori Bahtobu, Kec Dolok Batu Nanggar, Kab. Simalungun, Prov. SuMut. Kodpos 21155.",151,21155,"3.0691187,99.1133012",085277645089,,TRUE
-177,Safriyati,,,11,"492R+C38, Jl. Lolong Karan, Sungai Sapih, Kec. Kuranji, Kota Padang, Sumatera Barat 25159 . Google Maps:-0.898954, 100.390143",152,25159,"-0.898954,100.390143",082172250840,,TRUE
-178,Yolanda Arif Putri,,,11,"taruko IV tahap II sungai tarung, blok j no 24, rt. 002 rw. 013 kel. Bungo pasang, Bungo Pasang, Kota padang, Sumatera Barat , googlemaps:-0.869970, 100.360974",153,,"-0.869970,100.360974",082173546087,,TRUE
-179,Wisma Linda,,,11,"Jln Fatahillah no 5 koto Kaciak, Desa. pauh timur, kec. Pariaman Tengah, Kota pariaman. Google Maps :-0.6136422996801487, 100.12021419938932",154,,"-0.613642,100.120214",085274744861,,TRUE
-180,Mardiah,,,11,"Ladang Laweh, sicincin kecamatan 2x11 enam lingkungan kabupaten Padang Pariaman Sumatera Barat. Google Maps:",155,,"-0.5889415,100.2435228",081259333291,,TRUE
-181,SYAFRI YULDI,,,11,"Jl. Sunda No.20, RW.3, Sawahan Tim, Kec. Padang Timur, Kota Padang, Sumatera Barat 25171. Google Maps: -0.941340, 100.370962",17,25171,"-0.941340,100.370962",082285164739,,TRUE
-182,Arnita,,,11,"Desa kp panyalai nagari lubuk pandan, Kec. 2x11 enam lingkung, Kab. padang pariaman. Google Maps:-0.6170278374072546, 100.27281097154206",155,,"-0.617028,100.272811",082170655364,,TRUE
-183,Denolita,,,11,"kampuang jambak lubuk aur nagari anduriang kecamatan 2x11 kayutanam, Kab. padang pariaman sumbar Kode pos 25585 . Google Maps : -0.549643, 100.344994",156,25585,"-0.549643,100.344994",081275157772,,TRUE
-184,Gusnelawati,,,11,"Jalan lingkar utara simpang empat dama, Nan Balimo, Tanjung Harapan, Nan Balimo, Kec. Tj. Harapan, Kota Solok, Sumatera Barat 27317. Google MAPS:-0.759889, 100.654333, Ibuk Gusnelawati Puskesmas Nan Balimo,Jalan Batung Berair,Kelurahan Nan Balimo,Kecamatan Tanjung Harapan,Kota solok,No Hp",157,27317,"-0.759889,100.654333",082269568904,,TRUE
-185,Gusniar Syam,,,11,"Jl. Perintis Kemerdekaan No. 172 Rt. 001, Rw. 005 Kelurahan Jati, Kecamatan Padang Timur, Kota Padang Sumatera Barat",17,,"-0.891116,100.3089757",,,FALSE
-186,Jenny Novita Pelealu,,,12,jl.Pengayoman Rt 01 .Kelurahan Tapak Lebar.Kecamatan Lubuklinggau Barat II.Lubuklinggau.Sumatera Selatan .,158,,"-3.277813,102.8351098",081377626418,,TRUE
-187,Ningsih,,,12,"jl. Teratai no. 31, RT. 001, RW. 001, Kel. Karang Raja, Kec. Prabumulih Timur, Kota Prabumulih Prov, Sumatera Selatan KET: Karang Raja I Prabumulih Timur",59,,"-3.4131847,104.2479574",089520171037,,TRUE
-188,Ramiana,,,14,"jl.laskar syamsudin. No c.14 RT.013, RW. 005, kel : bandar agung kec. lahat, kab. lahat, Sumatra Selatan. 29MQ+Q4, Trans SP II Padang Muara Dua, Kec. Gumay Ulu, Kabupaten Lahat, Sumatera Selatan 31356., -3.9642849884642533, 103.39457689490295",28,31356,"-3.964285,103.394577",082182020175,,TRUE
-189,Farko,,,12,"Jl Lebak Murni , lr. karya Murni 5, perumahan Sako Park Resident blok e6, Kel. sako, Kec. sako palembang, Sumatera selatan",159,,"-2.9119585,104.793826",083184880387,,TRUE
-190,Mirnawati,,,12,"Perum vila garden garlioc Jl Rona Sihotang No 8, RT. 001 , RW. 004, Kel. Air Melintang, Kec. Muara Enim, Kab. Muara Erim, Provinsi, Sumatera Selatan Kode 31315.",49,31315,"-3.6770421,103.7726317",082175210928,,TRUE
-191,Ini Titi Istanti,,,12,"Jalan, tidak ditemukan dalam sistem keuangan dan wa, ditolak tidak memenuhi kriteria penerima bantuan",0,,,,,FALSE
-192,Isna Wardiah,,,12,"Blok AK 06 perum PNS OPI JaKabaring, Lima Belas Ulu, Kec. JaKabaring, Kota palembang, Sumatera Selatan 30257",160,30257,"-2.9920562,104.7465802",,,FALSE
-193,Suprapti,,,12,"Jalan, tidak ditemukan dalam sistem keuangan dan wa, ditolak tidak memenuhi kriteria penerima bantuan",0,,,,,FALSE
-194,Wiwik Winarsih,,,13,"Bumi Sari, RT. 19, Kel. Bumisarri, Kec. Natar, lampung selatan",20,,"-5.2867846,105.1785967",081369330478,,TRUE
-195,Lasmini,,,13,"Jl. Teuku Umar Gg.Putra No 46, RT.03 Sawah, Brebes, Bandar lampung",161,,"-5.4154914,105.2500128",0895323162305,,TRUE
-196,Wali Any Rahmawati,,,4,"Banyuurip, RT. 003, RW. 003, Desa. Banyuurip, Kec. ngampel, Kab. kendal, Jawa. tengah 51357",41,51357,"-6.9631411,110.1759447",,,TRUE
-197,Sri Lestari Yuliasih,,,4,"Ngoro oro, RT. 2, RW.11 Bokoharjo, Prambanan, Sleman Maps: -7.765800, 110.487157",162,,"-7.765800,110.487157",087821332985,,TRUE
-198,Marminah,,,4,"Rejosari 006, RW. 016, Desa. Rejosari, Kec. Karangawe, Kab. Demak Provinsi, Jawa. tengah",163,,"-6.9849055,110.4990385",0895354415199,,TRUE
-199,Novi Norizka,,,4,"Jl. Surabaya no.103, RT. 01, RW. 04 Ds. Banjarjo, Kec. Padangan, Kab. Bojonegoro Maps: -7.157824, 111.625838",164,,"-7.157824,111.625838",085640951867,,TRUE
-200,Noor Chasanah,,,4,"Jl Udowo Timur III/23, RT. 003, RW. 010 Des Bulu Lor, Kec. Semarang Utara, Kota Semarang provinsi, Jawa. tengah",165,,"-6.9778755,110.400791",085866939882,,TRUE
-201,Emi Martiwi,,,4,"Ds. Welahan, RT. 02, RW. 04, Kel. Welahan, Kec. Welahan , Kab. Jepara , Jawa. Tengah 59464, Maps: -6.783726, 110.715092",166,59464,"-6.783726,110.715092",089601476068,,TRUE
-202,Sri Lestari,,,4,"magesen poncol, RT. 008/006, Desa. purwosari, Kec. semarang utara, Kota semarang prov, Jawa. tenga 50172",165,50172,"-6.9718937,110.4122341",082314948247,,TRUE
-203,Tri Puji Rahayu,,,4,"perumahan putra mangujiwan asri thb 4 blok B 5, Karang Asem, Mangunjiwan, Kec. Demak, Kab. Demak, Jawa. Tengah. Maps: -6.895212, 110.621703",167,,"-6.895212,110.621703",088216647147,,TRUE
-204,Alm Basiyem,,,13,"kebun 4 ,kec Kota Bumi Selatan,Kab Lampung,gg Pala Utara,Lampung Google Maps: -4.858915, 104.891281",168,,"-4.858915,104.891281",0895604386684,,TRUE
-205,Alm Aminatun 0857 0955 5857,,,13,"Negara Ratu Kec. Sungkai Utara, Kabupaten Lampung Utara, Lampung
- Google maps:-4.657026, 104.741728",169,,"-4.6300092,104.7049774",085341971280,,TRUE
-206,Rohana,,,13,"Jl yasir hadibroto gg. melati no.43 lk 1, RT. 04,Kel.bumi kedamaian, Kec. Kedamaian, Bandar lampung, Lampung",170,,"-5.4179911,105.2757737",085279606785,,TRUE
-207,Rosmiyati,,,13,"jln cendrawasih no 20, Tanjung agung, Tanjungkarang timur, Bandar Lampung",27,,"-5.4050877,105.3025355",081272445807,,TRUE
-208,Leni Artiana,,,13,"Perumahan Gkal blok E no II, Campang jaya, Sukabumi, Beringin, Kota Bandar lampung google maps: -5.414505213208223, 105.32785841320772 plus Codes : H8PH+656",171,,"-5.414505,105.327858",,,FALSE
-209,Evi Rostina,,,13,"Jl Terlukis indah, RT. 02, RW. 01, Kel. Terlukis Rahayu, Kec. Martapura, Oku Timur, Sumatera Selatan",22,,"-4.3345521,104.3039742",085267064806,,TRUE
-210,Winah,,,13,"Jl komisaris umar Kp.sawah, RT. 01, RW.01, baturaja, kec. Baturaja barat, Kab Ogan Komering Ulu, Sumatera Selatan",172,,"-4.1229559,104.1525322",85366600234,,TRUE
-211,Yuliet Fitriani,,,13,"Jl .M.azizy , perumahan Sabah balau resident,blok N14 , kec .Tj bintang , kabupaten Lampung Selatan",300,,"-5.3893825,105.3219457",085758725439,,TRUE
-212,Ety Handayani,,,13,"Desa Pemetung Basuki, RT. 04, RW. 01, Kec. Buay pemuka peliung, Kab. Oku timur, Sumatera selatan",173,,"-4.2777382,104.4316833",082380814338,,TRUE
-213,Pargiyanti,,,13,"Komplek ponpes dhiya us'salaf, jalan lintas prabumulih-baturaja, desa karang agung, lubai ulu, kabupaten muara enim, sumatera selatan ID 31173",174,31173,"-3.7352704,104.2007541",082181035524,,TRUE
-214,Minarsih,,,13,"Jl rusman effendi bustan, RT. 010/05 Ds. Tanjung kemalan, Kec. Baturaja timur",175,,"-4.1475945,104.1328719",085669514122,,TRUE
-215,Lilis Setiawati,,,13,"Dusun branti, RT. 07/04, Desa. branti raya, Kel. Natar, kab.lampung Selatan",20,,"-5.2664766,105.1626254",085273936151,,TRUE
-216,Susheniati,,,13,"jl teuku umar gg seruling no 55, RT.01 sawah brebes bandarlampung",176,,"-5.4055066,105.2610525",082175427330,,TRUE
-217,Mery Martini,,,13,"tidak ada kabar no respone Gg anggrek, RT. 20, kel srengen, kec panjang, Bandar lampung, Lampung.",177,,"-5.4990705,105.3292954",,,FALSE
-218,Yeti Purwani,,,7,"DS Nglawak, RT.006, RW.002, Kel Prambon, Kec Nganjuk, kota nganjuk, Jawa Timur",138,,"-7.7087516,111.9762272",081249143297,,TRUE
-219,R Ati Hidajati,,,6,"perum Kopassus, RT. 004, RW. 003, Kel. Wirogunan, Kec. KartaSura, Kab. Sukohajo, Jawa.tengah -7.538018, 110.732205",178,,"-7.538018,110.732205",081328766433,,TRUE
-220,Rr Dyah Perwitosari,,,8,"Kapas Madya 1C1/IF Kecamatan tambaksari, Kel. Kapan Madya baru, google maps: -7.241547, 112.767919",179,,"-7.241547,112.767919",081803506514,,TRUE
-221,Turini,,,3,"Jl, Olah Raga II no 220 A, RT. 002, RW. 006, Desa. Sukapura, Kec. Kejakasaan, Kota cirebon Prov, Jawa Barat",180,,"-6.7044848,108.5484232",083144826488,,TRUE
-222,Sumarni,,,3,"Jl olah raga No 19 / 205 A, RT.003, RW.006, Kel. Sukapura, Kec. Kejaksaan, Kota Cirebo PRov, Jawa Barat",180,,"-6.5834935,106.8266888",085863877027,,TRUE
-223,Suntiyah,,,3,"Puri Pilangsari II Blok A-09, RT.003RW010, Kel. Kedungjaya, Kec. Kedawung, Kab. Cirebon Prov, Jawa Barat",181,,"-6.6992508,108.5369426",081219995864,,TRUE
-224,Pardiyem,,,3,"Jl ampera Raya No 22A, RT. 001, RW. 002, Kel. Pekiringan, Kec. Kesambi, Kota cirebon",182,,"-6.699224,108.5292178",,,FALSE
-225,Tarem,,,2,"Jl Awiligar Gg. Gardu Liger Mekar, RT. 05, RW.26, Kel. Cibeunying, Kec. Cimenyan, Kab. Bandung, Jawa Barat",183,,"-6.8805534,107.6377457",089652676088,,TRUE
-226,Netra Hartati,,,2,"jalan data belum lengkap, lamaran bukan PM AY",0,,,,,FALSE
-227,Syariat Alhaq Sir Nurjananah,,,2,"Jl Batu Bara II No 6, RT. 002, RW. 011, Kel. Turangga, Kec. Lengkong, Kota bandung",72,,"-6.8978411,107.550891",089609398998,,TRUE
-228,Dwi Puspa Sari,,,5,"Karang Klesem, RT.01, RW.04, Kel. Karang Klesem, Kec. Pecuken, Kab. Banyumas Kode Pos 53164.",184,53164,"-7.378128,109.0769973",082134645363,,TRUE
-229,Affrida Sari,,,10,"Komplek Taman Wahana Residence Blok C no. 1, Jl. Benteng HIlir, Kec. Percut Sei Tuan, Tembung, Deli serdang",185,,"3.6003105,98.7378816",081370227929,,TRUE
-230,Siti Aisyah Abdul Majid,,,1,"Cibeureum hilir, RT. RW : 04/08, Kel. Mulyaharja, Kec. Bogor Selatan Blok anggrek/ GG sejuk Maps: -6.622607, 106.794121",186,,"-6.622607,106.794121",0895404680700,,TRUE
-231,Purwanti,,,1,"PERUMNAS 2 JL. DUKU RAYA NO 7, RT. RW 04/10 PARUNG PANJANG BOGOR",187,,"-6.3548233,106.5573473",083839761768,,TRUE
-232,Fitri Apriyanti,,,1,"Dusun kerajan remaja, RT. 004, RW.004,Ds. Cikampek Kota, Kec. Cikampek kota, Kab. KARAWANG",188,,"-6.4039455,107.4538241",,,TRUE
-233,Siti Ropikoh,,,1,desa mekarjaya dusun cimuda rt/rw 01/04 kec ciawigebang kab kuningan jawa barat,189,,"-6.9429926,108.5711363",085864013970,,TRUE
-234,Ike Andriati,,,5,"JL. MANCAKUSUMA, RT. RW 01/01 kel KEDUNGWRINGIN,Kec. PATIKRAJA, Kab. BANYUMAS PURWOKERTO",190,,"-7.4463116,109.2123209",081213178615,,TRUE
-235,Sri Yati,,,1,"JL. SUNGAI TIKAM, RT. RW 10/08 NO 05, Kel. PAPANGGO, Kec. TANJUNG PRIOK, JAKARTA UTARA",191,,"-6.1327789,106.8649445",082113447178,,TRUE
-236,Sunarti,,,1,"KP. PINTU AIR, RT. RW 02/07 , Kel. PABUARAN, Kec BOJONG GEDE, Kab Bogor, Jawa Barat",192,,"-6.4575806,106.7924546",085692549602,,TRUE
-237,Siti Khodijah,,,1,"Karees RT.01, RW.10, desa palumbon sari, Kec. Karawang Timur",193,,"-6.4575806,106.7924546",085886382314,,TRUE
-238,Sri Rahayu,,,1,"Panca galih, RT.003/003,Kel.sindang barang, Kec. Bogor barat. Jawa Barat gang haji amiun depan pom bensin loji",194,,"-6.5832551,106.7671859",,,TRUE
-239,Junaiah,,,1,"KP. PAPANGGO, RT. RW 04/04, Desa. MEKARSARI, Kec. RANGKASBITUNG, Kab. LEBAK PROV BANTEN",195,,"-6.3445355,106.2776",087771042226,,TRUE
-240,Nurdianah,,,1,"KP. PANCORAN MAS, RT. RW 02/03 DEPOK gang amaliyah no 110, RT. 01/05 pancoran emas",196,,"-6.3966281,106.790438",085770835365,,TRUE
-241,Susilawati,,,1,"kp.Kedung Gede, RT.005 RW.001 Desa.Setiamekar Tambun Selatan",197,,"-6.2522222,107.03815",,,TRUE
-242,Ernawati,,,1,"Jl bulak timur, cpayung, depok, Jawa Barat , raffa resindence 2",198,,"-6.4198848,106.7980096",081299517544,,TRUE
-243,Yulianti,,,1,"Jl. Mahoni No.4 345, Mekarsari, Kec. Tambun Sel., Kabupaten Bekasi, Jawa Barat 17510",198,17510,"-6.2556574,107.0713761",,,FALSE
-244,Dwi Haryani Susanti,,,1,"Gg. Hanura, RT.001/007 Kedung warning, Bojong Gede, Kab.Bogor",192,,"-6.5946371,107.4248083",087770307807,,TRUE
-245,Ahmad Jalaludin (Adit),,,1,"KP CISALAM, RT. RW 01/08, Desa. CIJORO PASIR, Kec. RANGKASBITUNG, Kab. LEBAK, BANTEN",195,,"-6.3419421,106.2666094",082213996271,,TRUE
-246,Titin Prihatin,,,1,"KP. TANK, RT. RW 01/04, Desa. LEUWENGKOLOT, CIBUNGBULANG, BOGOR",199,,"-6.5683271,106.6699341",0895601899559,,TRUE
-247,Yuli Safitriah,,,1,"SATRIA JAYA PERMAI BLOK B.5 NO 18 TAMBUN UTARA, BEKASI",200,,"-6.2120107,107.0475035",088211532036,,TRUE
-248,Andri Sri Wijayanti,,,6,"Kedung Bule DKII Gerso, RT. 11, Desa. Trimukti, Kec. Srandakan, Kab. Bantul. DIY. 55672",90,55672,"-7.9418857,110.2421322",082328510594,,TRUE
-249,Imas Masithoh,,,1,Kosambi 1 RT 022 RW 006 Desa Duren KLARI KARAWANG 41371,201,41371,"-6.371755,107.3705347",085280890413,,TRUE
-250,Halimah,,,1,"Cikaret Jl.Pembangunan, RT. 05 RW.06, Kel.Babakan, Kec. Cibereum, Kab.SuKabumi",202,,"-6.9339501,106.9530873",081381612347,,TRUE
-251,Tuti Wuriyati,,,1,"Perum PGRI Jl. Penarikan Blok A2 No. 15, RT. 07/02 Pasir Putih, Kec. Sawangan, Kab. Depok. MAPS:",203,,"-6.4103553,106.7756342",085795155991,,TRUE
-252,Suryanti,,,1,"JL. KEBAGUSAN KECIL GG. WARU NO 51, RT. RW 10/03, Kel. KEBAGUSAN KECIL, Kec. PASAR MINGGU, Kota. JAKARTA SELATAN",204,,"-6.3067308,106.8253167",087778297251,,TRUE
-253,Suwarsih,,,1,"KEP PAWARENGAN, RT. RW 003/012, Desa. DAWWAN TIMUR, Kec. CIKAMPEK, Kab. KARAWANG",188,,"-6.3959074,107.4473426",085216962714,,TRUE
-254,Widi Astuti,,,1,Jln komplek pendidikan no 16 RT 08 RW 09 Rangkas Bitung Lebak Banten 42314,195,42314,"-6.3595152,106.2453643",,,TRUE
-255,Yusti Rosita,,,1,"PERUM PUSPA RAYA BLOK DA 34, RT. RW 02/11, BOJONG BARU, BOJONG GEDE, BOGOR",192,,"-6.487513,106.8092075",,,TRUE
-256,Daniel Setiawan Saragih,,,1,"JL. RAYA BOGOR KM 27 KOMP. ZENI TNI AD, RT. RW 02/08 PEKAYO PASAR REBO JAKARTA TIMUR",205,,"-6.3431507,106.8665305",0881024363030,,TRUE
-257,Eni Nuraeni,,,1,"jl.Empat no CE 33, lingkungan Vl Pulo Brayan bengkel, Medan.",206,,"3.6378348,98.6752401",089502742053,,TRUE
-258,Miskah Khairani,,,1,"Jln.Pemuda kp.pulo, RT 02 , RW.08 kel.cipayung jaya, kec cipayung",198,,"-6.4491242,106.7947168",081311840852,,TRUE
-259,Estu Hayatul,,,1,"KP Babakan , RT. 01, RW. 04, Desa. babakan, Kec. Tenjo, Kab. Bogor",207,,"-6.4647742,106.5109773",,,TRUE
-260,Maesatul Munayah,,,1,"KP KOYA BUGIS, RT. RW 10/03 KASEMEN SERANG, Desa. MERGALUYU -6.0436733067326, 106.16135614645407, X546+GGQ Margaluyu, Kota Serang, Banten",208,,"-6.0436733067326,106.16135614645407",0895402399518,,TRUE
-261,Sri Suharyanti,,,1,"Jl Cagar alam Kp. pancoran mas, RT. 05, RW. 07 no 42, Kel. /kec pancoran mas depok",209,,"-6.4074785,106.8033114",08121897889,,TRUE
-262,Suzanti,,,1,"KP CIHASEUM, RT.05, RW 06 PANDEGLANG, Kab. Pandeglang JL. Bhayangkara No.27 Banten Kode pos 44213",210,44213,"-6.3082177,106.1003034",083836955740,,TRUE
-263,Supiatiningsih,,,9,"Dsn krajan selatan, RT.001, RW.001 ds singojuruh, Kec. singojuruh, Kab. banyuwangi maps:-8.307457, 114.241476",211,,"-6.3082177,106.1003034",,,FALSE
-264,Sulastri,,,9,"Jl Tambak sari, Desa. pabean, Kec. Dringu, Kab. Probolinggo",212,,"-7.7526873,113.2288374",,,FALSE
-265,Sutri Indrawati,,,9,"Dusun Curah wedi, RT.002, RW. 014, Desa. Jatiroto, Kec. JatiRoto, Kab. Lumajang ( Barat masjid Curah wedi , ada gang ke arah selatan, rumah cat hijau)",213,,"-7.1670717,108.8626363",082333855309,,TRUE
-266,Elok Umatillah,,,9,"Jl Dr Sutomo No 73b, Kel. Manjunharjo, Kec. Mayangan, Kota Probolinggo, Jawa Timur",214,,"-7.7452914,113.2111917",,,FALSE
-267,Sri Aminingsih,,,9,"Dusun sumber dangdang blok d3, perumahan walisongo, RT 001 RW009, KERTOSARI, PAKUSARI, Jember, Jawa Timur. 0859 2050 9288",215,,"-8.1820248,113.7551493",085920509288,,TRUE
-268,Nurul Hasanah,,,9,"KTP Jl Citarum Perum Mutiara Ageng Blok E2, RT.05 RE01, Kel. Curahginting, Kec. Kanigaran, Kota Probolinggo 67212",216,67212,"-7.7666058,113.1935106",085232507778,,TRUE
-269,Arin Yuni Susilowati,,,9,"Perum Graha Permata Indah AE36 Keranjingan Sumbersari, Kab. Jember",217,,"-8.1988856,113.7189559",082139569292,,TRUE
-270,Sumarni Yati,,,10,"Jl. Empat Lingkungan 6 no. C33, Pulubrayan Bengkel, Kota Medan, Sumut",206,,"3.6378348,98.6752401",082189844311,,TRUE
-271,Rini Evyanti,,,2,"Jl Binong Utara NO 129 A/127 B, Kiara Condong , Bandung, Jawa Barat. MAPS:",218,,"-6.9305379,107.6443393",,,TRUE
-272,Makhmudah,,,5,"Kedungbanteng No.1 , RT.006, RW.001, kedungbanteng, Kec. Kedungbanteng, Kota Banyumas, Jawa.tengah",219,,"-7.3313846,109.1195155",088706665401,,TRUE
-273,Tri Mardiana,,,17,"Wonosari mulyo 10/22, RT. 21/07, Kel. , wonokusumo, Kec. semampir, Kota surabaya",220,,"-7.2163092,112.7551317",0881036131635,,TRUE
-274,Juni Ika Setya Mira,,,17,"Dsn menyanggong No.200 , RT. 22/09, Kel. kletek, Kec. taman, Kab. sidoarjo",221,,"-7.3604741,112.6682433",087853467036,,TRUE
-275,Neneng Safirah,,,3,"jl olahraga 1 no 51 / 121 A, RT. 02/06, Kel. sukapura, Kec. kejaksan cirebon",180,,"-6.7316558,108.4952794",0895627004500,,TRUE
-276,Wiwi Widaningsih,,,1,"perum Gren mutiara Blok T23/16, cirejag, belendung, Klari, Kab. Kerawang",222,,"-6.3356834,107.3227291",,,TRUE
-277,Saurah Sri,,,12,"jl angrek IV no 14 Bandar Jayar Jaya Lahat, RT. 019, RW. 006 , Kel. Bandar Jaya, Kecamatan Lahat, Kot Lahat, Prov, Sumatera Selatan.",223,,"-3.7164833,103.5483352",,,FALSE
-278,Lestari,,,5,"Perum Griya Satriya Mandalatama Blok 41/4, RT.006, RW.005 Ds. Karang Lewas Lor, Kec. Purwokerto Barat, Kab. banyumas 53136",224,53136,"-7.4257178,109.2016219",081391140044,,TRUE
-279,Ivo Widyani,,,1,"Jl. Lapangan koni II No. 16 Rt. 02 Rw. 02, kel Pancoran Mas Kec. Pancoran Mas, Kota Depok",196,,"-6.3929851,106.802348",081281264451,,TRUE
-280,Riza Lestiana,,,15,"Jl. Siklepuh perum sapphire residence blok k 22, RT. 003/009, Kel. urahan pacul, kecamatan talang, Kab. tegal",225,,"-6.892571,109.15111",082137000122,,TRUE
-281,Rusmiyarsi,,,6,"Nangsri Lor, RT. 03, RW. 03, KebakKramat, Kab. Karanganyar, Jawa. Tengah",226,,"-7.5312676,110.8969648",089562704500,,TRUE
-282,Kusmiyati,,,2,"Jl Peninsula No 28 Cluster AKASIA, Bumi Panyawangan, Kab. Bandung",227,,"-6.9459717,107.7321398",08112312296,,TRUE
-283,Tengku Aina Rahma Putri,,,1,"Jl. Cendana V Blok DA 9 No. 9 RT.005/RW.008, Kel. Gelam Jaya, Kec. Pasar Kemis, Kab. Tangerang",228,,"-6.9459717,107.7321398",083872613994,,TRUE
-284,alm Isnarti,,,1,"JL Balimantraman no 31, RT. 14, RW. 05, Kel. Manggarai Selatan, Kec. Tebet, Kota Jak Sel",229,,"-6.2186638,106.847564",0895340003621,,TRUE
-285,Jamiatun Ngestiti Handayani,,,5,"Dsn. Karangreja No.424, RT.01, RW.01, DS Danasri Kidul, Kec. Nusawungu, Kab, Cilacap",230,,"-7.6445097,109.3071185",081390279138,,TRUE
-286,Sri Maryati,,,6,"Purwosari, RT. 01, RW. 58, Kel. Sinduadi, Kec. Miati, Kab. Sleman",231,,"-7.7416889,110.3406646",,,FALSE
-287,Ani Suryani,,,2,"Lingk. Cikabuyutan timur, RT.02, RW.13, Desa Hegarsari , Kec. Pataruman, Kota Banjar, Jawa Barat",232,,"-7.2320795,108.043234",082240287896,,TRUE
-288,Ririn Triyani,,,14,"Jln. Tembus rel no.09 rt01 rw01 kel pagar agung, kec lahat kota lahat",233,,"-4.9447403,103.8420024",,,TRUE
-289,Santy Marthalena,,,13,"Ibu Mardiana jl. Endrosuratmin gang Sulaiman (belakang SDN 1 Sukarame) Bandar Lampung , 35131",234,35131,"-5.3859099,105.2910474",081990045047,,TRUE
-290,Surtika Sari,,,2,"Dusun Karangpucung Kulon, RT.14, RW. 04, Desa. Jajawar, Kec. Banjar, Kota Banjar, Jawa Barat",235,,"-7.3598939,108.5042619",088211242056,,TRUE
-291,Siti Maerah,,,2,"Jl Teluk Buyung Kidul, No.2, RT.05, RW.03, Kel. Arjuna, Kec. CIcendo",236,,"-6.908073,107.5928645",,,FALSE
-292,Dewi Widiawati,,,2,"Jl Sindang Timur Griya Tirta permai E-11, RT.002, RW. 012, Kel. SIndangrasa, Kec. Ciamis, Kab. Ciamis, Jawa Barat",237,,"-7.3242454,108.3336741",085323406301,,TRUE
-293,Murtiyem,,,7,"Jl Moh Hatta, RT. 02, RT.01, Kel. Pisang, Kec. Pantian woro, kab. Nganjuk, Kota Kertosono, Jawa Timur",238,,"-7.5782152,112.0974034",082264328873,,TRUE
-294,Anita,,,3,"perum Permata Indah Getasan Blok A1-No.1, RT.004, RW. 002, Desa. Getasan, Kec. Depok, Kab. Cirebon",239,,"-6.7393568,108.4510176",0821288666750,,TRUE
-295,Nining Ratnaningsih,,,3,"Jl.Siliwangi Gg Kramat III no 97, RT.003, RW.006, Kel. Kesenden, Kec. Kejaksaan",180,,"-6.7054433,108.5522972",082117771088,,TRUE
-296,Saeni Mulyani,,,3,"Blok Bedeng, RT.011, RW.003, Kel. Bulak, Kec. Jatibarang",38,,"-6.4724926,108.2949105",0895380269874,,TRUE
-297,Ani Sulastri,,,3,"Blok Bedeng, RT.011, RW.003, Kel. Bulak, Kec. Jatibarang, ABK Usia diatas 24 tahun",38,,"-6.4724926,108.2949105",,,FALSE
-298,Kartika Sari,,,2,"KP Kondang, RT.002, RW.006 Des Sukalillah, Kec. Cibatu, Kab. Garut Prov, Jawa Barat",240,,"-7.1072685,107.9701633",082315891726,,TRUE
-299,Alm Anggi Astria Primayanti (wali martini),,,2,"Dusun Cibeka, RT.27, RW.08, Desa Karangkamulyan, Kec. Cikeungjing, kab. Ciamis",241,42671,"-7.3514514,108.4642527",085220493911,,TRUE
-300,Parwinah,,,6,"Belangwetan, RT.03, RW.02 Belangwetan Klaten Utara Klaten",242,,"-7.6852859,110.6276114",085700452611,,TRUE
-301,Khasanah,,,16,"Jl. Bima Sakti IC, RT. 31, RW. 09, Demangan, Gedongkusuman, Yogyakarta.",243,,"-7.7880559,110.3884956",0895611265050,,TRUE
-302,Endah Budiarti,,,1,"Perum Bekasi Griya Asri 2, Jl. Flamboyan 1 blok J 25 no 12, RT 001 RW 040. Tambun Selatan, Bekasi.",144,,"-6.2587531,107.0131397",,,TRUE
-303,Alm Ir Agus Ilham (Wali Thaufail Hakim),,,2,"Jl Saturnus Utara XIII No. 6 R.003, RW. 011 Manjahlega, Rancasari, Kota Bandung, Jawa Barat 40286, atau jl utama haji Abun No.2 Rt.03, RW.07 padasuka",244,40286,"-6.9501763,107.663474",081222826210,,TRUE
-304,Agung Setyo Purnomo,,,8,"Jl. Teluk Grajokan IV / 50 A , RT.02, RW.02,Kel. Pandawangi, Kec. Blimbing, Kota malang",132,,"-7.9497109,112.6529016",081216288157,,TRUE
-305,Alm Anisa Rahmawati (Wali Aifadilah Rizki),,,2,"jl, purwakarta I No.41, Antapani , antapani, kota Bandung, Jawabarat.",245,,"-6.9145601,107.6507382",085523714366,,TRUE
-306,Tuminah,,,5,"Grantung, RT.02, RW. 06, Kec. Bayan, Kab. Purworejo",86,,"-7.7195275,109.948944",081328443975,,TRUE
-307,Darmawati,,,2,"Jl. Wulan No 6, RT.005, RW.005 Des Kebongedang, Kec. BatuNunggal, Kota Bandung, Jawa Barat",246,,"-6.9243901,107.6400009",081320178900,,TRUE
-308,DEDEH RUSMIATI,,,2,"Jl. Seroja I No6, RT. 06, RW.13, Desa. rancaekek Kencana, Kab. Bandung 40394",121,40394,"-6.9744153,107.752877",08889413622,,TRUE
-309,Sri Widayati,,,5,"Dsn Jatisalam, RT.11, RW. 03 Jatisari, Kec. Kebumen, Kab. Kebumen purwokerto",247,,"-7.5444221,109.2846749",081328079404,,TRUE
-310,Sugiasih,,,5,"DSn Gayan, RT.02, RW.01, Desa. Suren, Kec. Kutoarjo, Kab. Purworejo Purwokerto",248,,"-7.7504778,109.8930614",081329326319,,TRUE
-311,ENY SUPRIYATINI,,,2,"Jl. Parakan saat I no.33, RT.01, RW.001, Cipamokolan, Rancasari, Kota Bandung, Jawa Barat",244,,"-6.9389515,107.6692742",08170289458,,TRUE
-312,Tini Suhartini,,,2,"Gg Turi II, RT.016, RW.002 Nagaritengah, Kec. Purwakarta, Kab. purwakarta, Jawa Barat",249,,"-6.5396606,107.443294",087779565714,,TRUE
-313,Eti Suryati,,,1,Jl.KH.ABDUL HAMID ( masjid Annajah)Gg.Makmur No.106 rt 002/rw 005 Ragajaya citayam Bojong gede Bogor,192,,"-6.4649028,106.7352709",,,TRUE
-314,Fitri Susiani,,,2,"Kp Bojong Kaliki, RT.04, RW.11, Ds Pataruman, Kec. Taragong Kidul. (sebelum Pos Satpam Alfares). MAPS:",250,,"-7.0696249,107.6225928",082310281089,,TRUE
-315,Sunarmi,,,6,"Dsn Bulu, RT.03, RW.08, Desa. Bakalan, Kec. Polokarto, Kab, Sukoharjo, Jawa. tengah. c.",251,57555,"-7.643686,110.8634934",085866816238,,TRUE
-316,Ides Sulistiyana,,,5,Jl.Temu giring Rt 06/06 karag wetan Gentasari kroya cilacap,57,,"-7.6042542,109.2168858",085712666694,,TRUE
-317,Putri Gita Damayanti,,,8,"Ktp. Tenggumung Baru Selatan I-C , RT. 01, RW. 10, Kel. Pegirian, Kec. Semampir, Kota Surabaya, Prov. Jawa Timur",220,,"-7.228533,112.7550544",0895806425085,,TRUE
-318,Dina Dwi Oktaviani,,,12,"Jl. tegal binangun perumahan lavender residence blok d2 no 8, kecamatan plaju darat, palembang, sumatera selatan, ket dibelakang elvira home-3.03389430469768, 104.79689092667086, XQ8W+CQR Plaju Darat, Kota Palembang, Sumatera Selatan.",252,,"-3.03389430469768,104.79689092667086",081278102773,,TRUE
-319,alm Rini Dwi Lestari (PKK),,,7,"Pajejeran, RT. 002. RW. 002, Kel. Gunung Gangsir, Kec. Beji, Kab. Pasuruan, Jawa Timur",130,,"-7.5922577,112.7188386",085859178580,,TRUE
-320,Yossie Eka  Diany,,,1,"JL Kencana I No.26 Kebon Duren, RT01, RW 08, Kel. Cilodong, Kota Depok, Jawabarat",253,,"-6.4260895,106.8179713",087875375360,,TRUE
-321,Danik Risna Setyowati,,,4,"Jl. Ki Atmosajono No.22, RT.03, RW.03, Desa Geyer, Kec. Geyer, Kab. Grobogan, Jawa Tengah, 58172",254,58172,"-7.2206836,110.8899254",082220244542,,TRUE
-322,Nurjanah,,,1,"Perum dekeraton Blok M6 No 25 Desa Pancawati, Kec Klari Kab Karawang.",255,,"-6.3567913,107.3800856",083111789518,,TRUE
-323,Asep Saepulloh,,,2,"Cijambe Tengah, RT. 007, RW.010, Kel Cigending, Kec. Ujungberung, Kota Bandung, Prov. Jawa Barat. 40611",256,40611,"-6.906282,107.6896138",08562070137,,TRUE
-324,Fitri Riyanti,,,2,"Kp. Cihideung RT 25, RW. 05, Desa Margaluyu, Kec Manonjaya, tasikmalaya, Jawa Barat",257,,"-7.3444941,108.3093093",082121800333,,TRUE
-325,Ratna Sudarwati,,,2,"Komplek Setraduta Dago N no. 22. Sariwangi, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559",258,40559,"-6.8747444,107.568176",,,FALSE
-326,Fatimah,,,9,"Desa Tanggul Kulon, Kec. Tanggul. Kab. Jember, Kota Kember, prov Jawa Timur",259,,"-8.1621796,113.4309044",085335104157,,TRUE
-327,Dewi Rinawati,,,2,"KP Babakan Garut, RT.02, RW.10, Des. Mekarsari, Kec. Ngamprah",85,,"-6.8487648,107.5044479",089646715120,,TRUE
-328,Emi Kustanti (Mitha),,,2,"Panyosongan,RT.02, RW.10, Desa Wanakerta, Kec. Cibatu, Kab. Garut, 44185",240,44185,"-7.1088772,107.9895164",081221248066,,TRUE
-329,Wiwi Widaningsih,,,2,"Kp. Parakantelu, Rt.05, RW.01, Desa Cibunar, Kec.Cibatu, Kab. Garut",240,,"-7.090434,107.9782096",082111369072,,TRUE
-330,Endah Uji Wahyuni,,,5,"( Ibu Yuyun ) Jl. Raya Pengasinan, RT.02, RW.05, Ds. Kedungwringin, Kec. Patikraja, Kab. Banyumas, 537171",190,537171,"-7.4414119,109.2161343",081912233450,,TRUE
-331,Dewi Sari Wulan,,,5,Perumahan Griya Sampiran Indah Blok AB No 11 Dusun Sijopak Desa Sampiran Talun Kab Cirebon Jawa Barat 45170 45170,261,45170,"-6.7629825,108.5115481",,,TRUE
-333,Peni Budi Astuti,,,7,"Jl Pala Barat I blok J No 30, Mejasem Barat, Kec. Kramat, Kab. Tegal",301,,"-7.3224041,110.6550048",,,FALSE
-334,Relina Sari,,,6,"Wlahar RT.002, RW.005, Desa Wlahar, Kec. Wangon, Kab. Banyumas",262,,"-6.8756832,109.1460615",,,FALSE
-335,Siti Marsiyah,,,5,"Prajurit Kulon GG IV RT 01 RW04 Kel. Prajurit Kulon, Kec. Prajurit Kulon, Kota Mojokerto",263,,"-7.4716377,109.0676387",,,FALSE
-336,Sri Indarti,,,8,"Pesen RT 002 RW.001, Kel. Pesen, Kec. Kanor, Kab. Bojonegoro , Goodlemaps:-7.157717605926498, 112.00334364957482",264,,"-7.4757061,112.4203512",,,FALSE
-337,Afina Fauzzia Walley,,,8,"Jl. H. Alpi No.60 /80 RT 005 RW.001, Kel. Cibuntu, Kec. Bandung Kulon, Kota Bandung",265,,"-7.157717605926498,112.00334364957482",,,FALSE
-338,Iis Umayah Sari,,,2,"Griya Cicental Asri Blok B N0.05 RT.004, RW.007, Kel Mulyasari, Kec. Tamansari, Kota Tasikmalaya",266,,"-6.9181451,107.5707729",,,FALSE
-339,Desti Nur Apni,,,2,"Griya Raffi Residence Blok G NO.10 RT088 RW.005 Kel. Talang Kelapa, Kec. Alang-alang Lebar, Kota Palembang",267,,"-7.3660302,108.2213618",,,FALSE
-340,Erida,,,12,"Jl. Gajah Mada Rt 01 / Rw 07 kel. Alai Parak Kopi kec. Padang Utara Sumbar. Google MAPS:-0.923861, 100.367306",268,,"-2.95088,104.68741",081363547811,,FALSE
-342,Nani,,,11,"Jl. PDAM No.09 LK II, RT.004, RW.002, Indralaya Indah, Indralaya, ogan Ilir, 30662, Sumatera Selatan. Ket: dari tol indralaya belok kiri, dekat nya ada bank sumsel, disamping bank sumsel ada jalan, masuk ke jalan tersebut, 2 rumah dari ujung jalan.",269,,"-0.923861,100.367306",085380971814,,TRUE
-343,Helmi Susanti,,,2,"Jl. DR. M. Hatta Simp BY PASS Ketaping No. 41 RT 002, RW 003, Kel. Pasar Ambacang, Kec. Kuranji, Kota padang. Google Maps:",235,,"-7.3557613,108.4935813",,,TRUE
-344,Devi Susanti,,,12,"Komplek Perumka RT003 RW004 Kel. Cupak Tangah, Kec. Pauh, Kota Padang. Google maps:",270,30662,"-3.22416,104.66755",,,TRUE
-345,Silvi Susanti,,,11,"Toko sisil P & d. jalan balai baru no 75 balai baru, kelurahan sungai sapih, kecamatan kuranji, padang, sumbar",152,,"-2.704983,100.3355702",,,FALSE
-346,Nurlela,,,11,"kp kebon kopi, Gang Darmaga motor, RW.2 RW.3, Kel. Mc timur, Kec. Rangkasbitung, Kab. Lebak, Provinsi Banten",271,,"-0.9356696,100.4199653",,,FALSE
-408,Sri Sularmi,,,11,"Bulu RT.003, RW.008, Kel. Bakalan, Kec. Polokarto, Kab. Sukohardjo",152,,"-0.9020093,100.3945101",,,FALSE
-347,Yulita Devi Utami,,,1,"LRG pendidikan, RT045, RW16, Plaju. Plaju, Kota Palembang, sumatera Selatan,. Rumah warna Mocca/ Coklat Muda)( dpn Model Tekwan Ayu), Google MAPS: -3.005641, 104.807152No Telp. 0819 5800 5940 , XRV4+PVR Plaju Ulu, Kota Palembang, Sumatera Selatan",195,,"-6.3481799,106.2665344",,,FALSE
-348,Yeni Dwi Arisanti,,,6,"Tepa 3 RT.004 RW.005 Tepas, Geneng, Ngawi, Jawa Timur, 63271",251,,"-7.6364996,110.8557793",,,FALSE
-349,Ilmiyatin,,,12,"Dusun Krajan RT 001 RW 005 Desa Ketapang, Kec. Kalipuro, Banyuwangi",272,30266,"-3.0057867,104.8054732",,,FALSE
-350,Alm. Aah Suryani,,,7,"Santiong Utara RT 03/RW 16 kel.Nagasari kec.Karawang Barat Kab.Karawang . Google maps: -6.306812, 107.299732",273,63271,"-7.4935742,111.3946847",,,FALSE
-351,Tengku Qomariah,,,9,"Jl Cut Nyak Dhien 7 LK V , tanah tinggi, binjai timur, kota binjai, sumatera utara, 20731.",274,,"-3.005641,104.807152",,,FALSE
-352,Lili Sukaisih,,,1,"Binjai Estate, Jalan Sederhana KelurahanBInjai estate, Binjai Selatan, Kota Binjai, Sumatera Utara (Msk Gg Sukses Depan Tnhksg )",275,,"-6.306812,107.299732",,,FALSE
-353,Nirma Dewi Ayuningtyas,,,10,"Jl. Sidotopo Lor I No.33, Sidotopo, Kec. Semampir, Surabaya, Jawa Timur",276,20731,"3.6089776,98.4979277",,,FALSE
-#N/A,Leny Widaningrum,,,10,"Jl. Candisewu 52, Rt.019, RW.003, Kel. Madiun Lor, Kec. Mangunharjo, Kota Madiun",277,20724,"3.5850419,98.4717843",,,FALSE
-355,Khoirul Rizaludin,,,8,,220,60152,"-7.230972,112.7506012",,,FALSE
-356,Sri Wahyuni,,,8,"Jl Pura Klapasawit , kab kebumen, jawatengah, google maps -7.7220897822802845, 109.68801367542527",264,,"-7.4757061,112.4203512",,,FALSE
-357,Trisna Wijaya,,,7,"Perum Citra Permata Regency, Jl Topas Barat 3 no 7, RT01 RW15, Cikampek Utara, Kota baru",301,,"-7.6318415,111.5040553",,,FALSE
-358,Refi Aija,,,5,"Jln. Ladang, RT 003, RW-, Silaing Bawah, Kecamatan Padang Pajang Barat, Kota Padang Panjang, Sumatera Barat, .",0,,"-7.4676312,109.0742222",,,FALSE
-359,Rahima,,,5,"Tanjung Basuang I Dusun Tanjuang Basuang I ,RT- RW-, Sungai Buluan Barat, Kec Batang Anai, padang Pariaman, sumatera Barat,",0,,"-7.7221343,109.6857932",,,FALSE
-360,Fitri Anggraeni,,,2,belum pernah dihubungi no telp dapat dari lampiran surat repeat,302,,"-6.3891661,107.4625476",,,FALSE
-361,Ida kumalasari,,,11,Kradenan RT 01 RW 03 Desa Kradenan Kecamatan Kradenan Kabupaten Grobogan Jateng,278,27118,"-0.4636878,100.3867831",087745620259,,TRUE
-362,Wiwik Sulistyorini,,,11,jl bangetmulyo 3 rt 5 rw 1 kel.Bangetayuwetan kec genuk smg,35,25586,"-0.748726,100.2970716",08815415049,,TRUE
-363,Siti Nuzulurrohma A,,,17,"RT 09 Gunungkelir, Pleret, Pleret, Bantul, yogyakarta",0,,"-7.1725588,111.0495539",089671596952,,TRUE
-364,Mahmuda Ning Sugesti,,,4,Desa Wonosari Kecamatan Kebumen Pak,279,,"-7.14887,111.14863",081384994685,,TRUE
-365,Genit Purnaningsih,,,4,DS Tiripan RT 05 RW 03 Dk Kanten Kec Berbek Kab Nganjuk,280,,"-7.1715823,110.8023064",085812463037,,TRUE
-366,Puji Rochawati,,,6,"Jalan maskumambang gang IV RT 07 RW 03, kelurahan sogaten, Kecamatan Manguharjo, Kota Madiun",93,,"-7.8716997,110.4093451",085655721613,,TRUE
-367,Watiningsih (wali),,,6,dusun sidorahayu rt 6 rw 1 kec wagir kab malang,247,,"-7.6903993,109.6945001",082231486283,,TRUE
-368,Muji Rahayu,,,7,"Jl Mangga GG ikan mas, RT.004 RW.003, , Pogar, Bangil, Pasuruan, Jawatimur, -7.600471, 112.778275, Telp.",284,,"-7.632864,111.867259",,,TRUE
-369,Galuh Dian Purwaningsih,,,7,Perum.Grha Amerta Bunder Kav.14 Kel.Kedanyang Kec.Kebomas Kab.Gresik Jawa Timur,31,,"-7.20191,108.0084818",082328508790,,TRUE
-370,Mudji Chalimiatrun,,,8,"Jl. Terusan Mergan Raya No 22 RT 10 RW 11, Kelurahan Tanjung Rejo, Kecamatan Sukun, Kota Malang.",285,,"-8.0030226,112.5779913",088217065677,,TRUE
-371,Sri Handayani,,,8,"Jl.flamboyan rt 11 rw 03.pakisaji,malang",106,,"-7.6011113,112.7751729",081334148523,,TRUE
-372,Maryati,,,8,Bandung,105,,"-7.1789363,112.6050147",,,TRUE
-373,Supatmi,,,8,tambahan abk baturaja,286,,"-7.9863575,112.612195",,,TRUE
-374,Budiati Purwaningtyas,,,8,"Perum Cijerah 1 Blok 9 No. 24, Blk. 1 No.1, RT.1/RW.14, Cijerah, Kec. Bandung Kulon, Kota Bandung, Jawa Barat",287,,"-8.0663956,112.5981099",,,TRUE
-375,Damayanti triwulandari,,,2,Jl Bima No1A RT043 RW004 Kel Oro-oro Ombo Kec Karthoharjo,308,,"-6.9215495,107.5568308",,,FALSE
-376,Nelli Adestri,,,13,Jl Purus II No9 GGAL Hidayah Padang Purus Padang barat Kota padang Sumatera Barat,308,,,,,FALSE
-377,Mardianis,,,2,Jl. Gang Sipanjang RT006 RW 002 Kota padang Kec Lubuk Kilangan sumatra Barat,266,40213,"-6.9215495,107.5568308",,,TRUE
-379,Sri Soekmawaty,,,7,Ay Baru dalam repeat,289,,"-7.9012527,112.5189353",,,FALSE
-380,Titin Ngarofatun,,,11,"Jl Suko Karyo No 77 RT39 RW9 Madiun Lor, mangunharjo, madiun",290,,"-0.9387954,100.3510734",,,FALSE
-381,Elly Setyowati,,,11,Kebulusan RT 002 RW001 Kel Kebulusan Kec Pejagoan Jawa tengah,26,,"-0.9557476,100.4569792",,,FALSE
-382,Nova Eliana,,,8,Desa Gentawangi RT003 RW006 Kec Jatilawang kab Banyumas jawa tengah,308,,,,,FALSE
-383,wiranti,,,11,Jl Teuku Umar Gg Dipo No 21 RT 02 RW Sawah Berebes Tanjungkarang,308,,,,,TRUE
-384,Dian Nur Afriany Wijaya,,,7,"Gg. Harimau 4 No.41, Sukamenanti, Kec. Kedaton, Kota Bandar Lampung, Lampung",31,,"-7.6157353,111.5226193",,,FALSE
-385,Alm ibu junaisih,,,5,"Dusun Salahudin RT 020 RW008 Negeri Sakti Gedong Tataan, pesawaran, lampung",291,,"-7.6731308,109.6246901",,,FALSE
-386,Darmawati,,,5,,292,,"-7.5242972,109.1137248",083128380324,,FALSE
-387,Yusmarneli,,,13,"Korong Besar, Dusun Pasa, Kel. Pauah Kambar, Kec Nan Sabaris, SumateraBarat",161,,"-6.1611402,105.8461491",,,FALSE
-388,istirokoh,,,13,"Dusun Janti RT002 RW001 Kec. Perak. Kab. Jombang, jawa Timur",302,35123,"-5.3935001,105.2533112",,,FALSE
-389,Nur Hayati,,,13,"Sidotopo Wetan Indah RT 002 RW080 Kranjeran, jawa timur",293,,"-5.3534499,105.1922594",,,FALSE
-390,Ade Rosiati,,,12,Dipo Barat RT01 RW02 Naga Sari Kec Karawang Barat,308,,,,,TRUE
-391,Emy Sutarti,,,11,"Belum konfirmasi, Dusun Cangkringan, RT 004, RT001, Kel. Cangkringan, Kec.Krembung, Sidoarjo, Jawa Timur",294,,"-0.6510166,100.2183913",,,FALSE
-392,Siti Asiyah,,,8,Jl Stasiun No 12 RT003 RW003 Kel Bajing Kec Kroya Kab Cilacap Jawa tengah,295,,"-7.6066899,112.1552467",,,FALSE
-393,Aidah,,,8,Jl Cikini Ampiun No 100 RT013 RW001 Kel Pegangsaan Kec Menteng,296,,"-7.2307089,112.7568303",,,FALSE
-394,Yati Nurhayati,,,1,"Kampung Cinangneng RT 002 RW012 Kel Bojong Jengkol, Kec Ciampea, Bogor",275,,"-6.3066281,107.3010546",,,FALSE
-395,Junasih,,,8,"RT02/RW10, Desa Cikampek Barat, Kecamatan Cikampek, Kabupaten Karawang, Jawa Barat",297,,"-7.5819418,110.89042",089699763363,,FALSE
-396,Fieda Aulia Irianthi,,,5,"Perumahan Buana permai Blok K No 11 RT 004 RW 009, Cipondoh Kota Tangerang, Banten 15148",57,,"-7.6305592,109.2582145",085771688935,,FALSE
-397,Nori Yawanti,,,1,Griya Utama Rancaekek Jl. Cendana VI Blok II G No. 102 Rt/Rw 07/20 Ds. Rancaekek Wetan,298,,"-6.1926426,106.8361305",089612989670,,FALSE
-398,Laily Maghfiroh,,,1,,299,,"-6.565926,106.7088804",,,FALSE
-399,Supriharti,,,1,"Kompleks Griya Mitra Posindo blok E5 no 10, RT 007 RW 026, Cinunuk, Cileunyi, Bandung",37,41373,"-6.401223,107.4352171",087717590240,,TRUE
-400,Aisah,,,1,,309,15148,"-6.1926455,106.6713606",087834363149,,TRUE
-401,Eha Risnawati,,,2,,,,,087778744927,,TRUE
-402,Bariyah,,,2,,,,,085647838744,,TRUE
-403,Pairah,,,2,"Kelurahan Katerban Rt,01 Rw,02 Kecamatan Kutoarjo-Kabupaten Purworejo-Jawa Tengah",248,,"-6.9504771,107.7228465",089502631935,,TRUE
-404,Mukti Wijayanti,,,2,,,,,087839322522,,TRUE
-405,Riyani,,,2,,,,,085740110541,,TRUE
-406,Yeni Widyastuti,,,5,Sapphire Residence Blok Zamrud J 14 Kel. Tambaksari Kidul Kec. Kembaran Kab. Banyumas,115,,"-7.4031691,109.2587981",082314036100,,TRUE
-341,Yoyoh,,,5,"Dusun Karang Pucung Kulon, RT.17, RW.04, Jajawar, Banjar, Kota Banjar, Jawa Barat",235,,"-7.3569602,108.495126",085721451761,,TRUE
-407,Imas liawati,,3206346303780001,2,"Kampung nanjungsari RT05/RW08 Desa manggungjaya kecamatan Rajapolah, Bandung",317,,"-6.7813458,107.203254",085314934466,085962308070,TRUE
-409,MARYATI,,,2,,,,,,,TRUE
-410,IKE ELSYE,,,12,,,,,,,TRUE
-411,CIPUT MUSTIKANINGSIH,,,8,,,,,,,TRUE
-412,ELMIANAH,,,12,,,,,,,TRUE
-413,ANNY YULIASTUTI,,,9,,,,,,,TRUE
-414,NOVI YANTI,,,9,,,,,,,TRUE
-415,RAHMAYATI,,,2,,,,,,,TRUE
-416,RINI MUJIASTUTIK,,,8,,,,,,,TRUE
-417,ETTY KRISNAWATI,,,8,,,,,,,TRUE
-418,INDARWATI,,,8,,,,,,,TRUE
-419,NURUL INAYAH,,,4,,,,,,,TRUE
-420,ELININGSIH,,,3,,,,,,,TRUE
-421,DARLIYUSNI,,,4,,,,,,,TRUE
-422,SUDARMI,,,4,,,,,,,TRUE
-#N/A,Riyani,,,5,"Ketawangrejo RW 01 RT 03,kec GRABAG..PURWOREJO..JATENG.",281,,"-7.826389,109.8715918",,,TRUE
-#N/A,Siti Bariyah,,,5,"Desa wirogaten, banjengan rt 03/rw 01 Kec. Mirit Kab. Kebumen",283,,"-7.7669286,109.7551553",,,TRUE
-#N/A,,,,5,,,,,,,TRUE
-#N/A,,,,,,,,,,,TRUE
+partner_id,employee_id,partner_name,partner_job,partner_nik,region_id,address,subdistrict_id,postal_code,home_coordinate,phone_number,phone_number_alt,is_active,partner_id,is_alive
+1,1,Suntiyah,,,3,"Puri Pilangsari II Blok A-09, RT.003RW010, Kel. Kedungjaya, Kec. Kedawung, Kab. Cirebon Prov, Jawa Barat",181,,"-6.6992508,108.5369426",081219995864,085962308070,TRUE,TRUE,TRUE
+2,2,Fatimah,,,9,"Desa Tanggul Kulon, Kec. Tanggul. Kab. Jember, Kota Kember, prov Jawa Timur",259,,"-8.1621796,113.4309044",085335104157,,TRUE,TRUE,TRUE
+3,3,Rahmayati,,,2,,,,,,,TRUE,TRUE,TRUE
+4,4,Leny Widaningrum,,,7,"Jl. Candisewu 52, Rt.019, RW.003, Kel. Madiun Lor, Kec. Mangunharjo, Kota Madiun",277,20724,"-7.61478,111.5192586",,,FALSE,TRUE,TRUE
+5,5,Siti Asiyah,,,8,Jl Stasiun No 12 RT003 RW003 Kel Bajing Kec Kroya Kab Cilacap Jawa tengah,295,,"-7.6066899,112.1552467",,,FALSE,TRUE,TRUE
+6,6,Nining Ratnaningsih,,,3,"Jl.Siliwangi Gg Kramat III no 97, RT.003, RW.006, Kel. Kesenden, Kec. Kejaksaan",180,,"-6.7054433,108.5522972",082117771088,,TRUE,TRUE,TRUE
+7,7,Ilmiyatin,,,9,"Dusun Krajan RT 001 RW 005 Desa Ketapang, Kec. Kalipuro, Banyuwangi",272,30266,"-8.142913, 114.397637",,,FALSE,TRUE,TRUE
+8,8,Siti Marsiyah,,,5,"Prajurit Kulon GG IV RT 01 RW04 Kel. Prajurit Kulon, Kec. Prajurit Kulon, Kota Mojokerto",263,,"-7.4716377,109.0676387",,,FALSE,TRUE,TRUE
+9,9,Dedeh Rusmiati,,,2,"Jl. Seroja I No6, RT. 06, RW.13, Desa. rancaekek Kencana, Kab. Bandung 40394",121,40394,"-6.9744153,107.752877",08889413622,,TRUE,TRUE,TRUE
+10,10,Ani Sulastri,,,3,,38,,,,,FALSE,TRUE,TRUE
+11,11,Murtiyem,,,7,"Jl Moh Hatta, RT. 02, RT.01, Kel. Pisang, Kec. Pantian woro, kab. Nganjuk, Kota Kertosono, Jawa Timur",238,,"-7.5742736,112.0987939",082264328873,,TRUE,TRUE,TRUE
+12,12,Ani Suryani,,,2,"Lingk. Cikabuyutan timur, RT.02, RW.13, Desa Hegarsari , Kec. Pataruman, Kota Banjar, Jawa Barat",232,,"-7.382715,108.5377354",082240287896,,TRUE,TRUE,TRUE
+13,13,Sulasmi,,,13,"JL. DR SAM RATULANGI GANG TERATAI NO. 05, Kel. Gedong Air, Kec. TANJUNG KARANG BARAT, Kota BANDAR LAMPUNG 35151",48,35151,"-5.399546,105.249112",081274379645,,TRUE,TRUE,TRUE
+14,14,Pardiyem,,,3,"Jl ampera Raya No 22A, RT. 001, RW. 002, Kel. Pekiringan, Kec. Kesambi, Kota cirebon",182,,"-6.699224,108.5292178",,,FALSE,TRUE,TRUE
+15,15,Nuryamah,,,5,"jl.mardikenya gg.permata, RT. 09/, RW. 07 no : 44, Kel. urahan kranji kec. purwokerto Timur, Purwanegara Kab Banyumas Prov Jawa Tengah",42,,"-7.424917,109.236410",085291046133,,FALSE,TRUE,TRUE
+16,16,Susheniati,,,13,"jl teuku umar gg seruling no 55, RT.01 sawah brebes bandarlampung",176,,"-5.4055066,105.2610525",082175427330,,TRUE,TRUE,TRUE
+17,17,Ade Rosiati,,,1,Dipo Barat RT01 RW02 Naga Sari Kec Karawang Barat,308,,"-6.3051745,107.2985303",085813584225,,TRUE,TRUE,TRUE
+18,18,Parwinah,,,6,"Belangwetan, RT.03, RW.02 Belangwetan, Kebon Dalem Lor, Klaten Utara, Klaten, Jawa Tengah",242,,"-7.7284317,110.4982584",085700452611,,TRUE,TRUE,TRUE
+19,19,Nurhayati,,,1,"Jl. jembatan 111, NO 38A, RT.008, RW.005, kel. Balaikambang, kec. kramatjati, jak tim",39,,"-6.2674567,106.867039",081318408070,,TRUE,TRUE,TRUE
+20,20,Mudji Chalimiatrun,,,8,"Jl. Terusan Mergan Raya No 22 RT 10 RW 11, Kelurahan Tanjung Rejo, Kecamatan Sukun, Kota Malang.",285,,"-8.0030226,112.5779913",088217065677,,TRUE,TRUE,TRUE
+21,21,Sariwati,,,2,"Perum Cijerah 1 Blok 9 No. 24, Blk. 1 No.1, RT.1/RW.14, Cijerah, Kec. Bandung Kulon, Kota Bandung, Jawa Barat",287,,"-6.924109,107.5594087",,,TRUE,FALSE,FALSE
+22,22,Wama Maryati,,,12,"Rd Pjka bandar agung lahat, RT.003, RW. 002, Kel. Rd Pjka bandar agung, Kec. Lahat, Kab. lahat, Sumatera selatan",28,,"-3.787347,103.549921",081273337344,,FALSE,TRUE,TRUE
+23,23,Sumarni Yati,,,10,"Jl. Empat Lingkungan 6 no. C33, Pulubrayan Bengkel, Kota Medan, Sumut",206,,"3.6378348,98.6752401",082189844311,,TRUE,TRUE,TRUE
+24,24,Yasnimar,,,13,"Jl. Sunda No.20, RW.3, Sawahan Tim, Kec.  Padang Tim, Kota  Padang, Sumatera Barat",17,25171,"-0.941340,100.370962",,,TRUE,FALSE,FALSE
+25,25,Susi Wahyuningsih,,,8,"Jl. Gembili Raya no. 61 Jagir, Kec. Wonokromo, Surabaya, Jawa Timur 60244",33,60244,"-7.307764,112.741224",087855250168,,TRUE,TRUE,TRUE
+26,26,Sri Sularmi,,,6,"Bulu RT.003, RW.008, Kel. Bakalan, Kec. Polokarto, Kab. Sukohardjo",152,,"-7.6302569,110.8669109",,,FALSE,TRUE,TRUE
+27,27,Khasanah,,,16,"Jl. Bima Sakti IC, RT. 31, RW. 09, Demangan, Gedongkusuman, Yogyakarta.",243,,"-7.7880559,110.3884956",0895611265050,,TRUE,TRUE,TRUE
+28,28,Dewi Widiawati,,,2,"Perumahan Permata Buah Batu Blok B12, Bojongsoang, Kota Bandung, Jawa Barat",237,,"-6.9733553,107.6348915",085323406301,,TRUE,TRUE,TRUE
+29,29,Wiranti,,,13,Jl Teuku Umar Gg Dipo No 21 RT 02 RW Sawah Berebes Tanjungkarang,308,,"-5.4057066,105.2601617",082180497211,,TRUE,TRUE,TRUE
+30,30,Neneng Safirah,,,3,"jl olahraga 1 no 51 / 121 A, RT. 02/06, Kel. sukapura, Kec. kejaksan cirebon",180,,"-6.7316558,108.4952794",0895627004500,,TRUE,TRUE,TRUE
+31,31,Sukarsih,,,3,"Kp. Krajan Barat No. 64, RT.01, RW. 08, Desa. Cikampek Barat, Kab. Karawang 41373,",37,41373,"-6.404467,107.4390442",08129880244,,TRUE,TRUE,TRUE
+32,32,Syafri Yuldi,,,11,"Jl. Sunda No.20, RW.3, Sawahan Tim, Kec. Padang Timur, Kota Padang, Sumatera Barat 25171. Google Maps: -0.941340, 100.370962",17,25171,"-0.941340,100.370962",082285164739,,TRUE,FALSE,FALSE
+33,33,Mukti Wijayanti                      ,,,5,,,,,087839322522,,TRUE,TRUE,TRUE
+34,34,Sri Soekmawaty,,,11,,,,,,,FALSE,TRUE,TRUE
+35,35,Elmianah,,,12,,,,,,,TRUE,TRUE,TRUE
+36,36,Lasmini,,,13,"Jl. Teuku Umar Gg.Putra No 46, RT.03 Sawah, Brebes, Bandar lampung",161,,"-5.4048858,105.2576922",0895323162305,,TRUE,TRUE,TRUE
+37,37,Siti Mukaromah,,,5,"Desa Mernek, RT. 03/06 Kecamatan Maos , Kab. Cilacap, Jawa. tengah",43,,"-7.616666,109.1505528",082138383895,,TRUE,TRUE,TRUE
+38,38,Isna Wardiah,,,12,"Blok AK 06 perum PNS OPI JaKabaring, Lima Belas Ulu, Kec. JaKabaring, Kota palembang, Sumatera Selatan 30257",160,30257,"-2.9920562,104.7465802",,,FALSE,TRUE,TRUE
+39,39,Wiwik Winarsih,,,13,"Bumi Sari, RT. 19, Kel. Bumisarri, Kec. Natar, lampung selatan",20,,"-5.2922702,105.1971817",081369330478,,TRUE,TRUE,TRUE
+40,40,Suprapti,,,12,"Jalan, tidak ditemukan dalam sistem keuangan dan wa, ditolak tidak memenuhi kriteria penerima bantuan",0,,,,,FALSE,TRUE,TRUE
+41,41,Safriyati,,,11,"Jl. Lolong Karan, Sungai Sapih, Kec. Kuranji, Kota Padang, Sumatera Barat 25159",152,25159,"-0.898954,100.390143",082172250840,,TRUE,TRUE,TRUE
+42,42,Maryunis,,,11,"Pasa balai, rumah no. 100, nagari parit Malintang, kecamatan enam lingkung, Kab. Padang Pariaman, Sumatera barat, kode pos : 25584",34,25584,"-0.636947,100.270687",085272726320,,TRUE,TRUE,TRUE
+43,43,Simponiani,,,13,"Jl. Pulau Sari XI No. 37, RT. 008 Lingkungan II Perumnas Way Kandis kecamatan tanjung senang bandar lampung.",300,,"-5.362987,105.292002",082184697885,,TRUE,TRUE,TRUE
+44,44,Titen Yeni,,,11,"Jorong Sikaladi Nagari Pariangan Pariangan, Kab. Tanah Datar, Sumatera Barat (Ibu, Kota Padang)",30,,"-0.457589,100.480957",085805842869,,TRUE,TRUE,TRUE
+45,45,Gusnelawati,,,11,"Jalan lingkar utara simpang empat dama, Nan Balimo, Tanjung Harapan, Nan Balimo, Kec. Tj. Harapan, Kota Solok, Sumatera Barat 27317.",157,27317,"-0.759889,100.654333",082269568904,,TRUE,TRUE,TRUE
+46,46,Emi Martiwi,,,4,"Ds. Welahan, RT. 02, RW. 04, Kel. Welahan, Kec. Welahan , Kab. Jepara , Jawa. Tengah 59464",166,59464,"-6.783726,110.715092",089601476068,,TRUE,TRUE,TRUE
+47,47,Yuliet Fitriani,,,13,"Perumahan Sabah balau resident, blok N14 , kec .Tj bintang , kabupaten Lampung Selatan",300,,"-5.3883622,105.3232765",085758725439,,TRUE,TRUE,TRUE
+48,48,Saurah Sri,,,12,"jl angrek IV no 14 Bandar Jayar Jaya Lahat, RT. 019, RW. 006 , Kel. Bandar Jaya, Kecamatan Lahat, Kot Lahat, Prov, Sumatera Selatan.",223,,"-3.7164833,103.5483352",,,FALSE,TRUE,TRUE
+49,49,Ernawati,,,1,"Jl bulak timur, cpayung, depok, Jawa Barat , raffa resindence 2",198,,"-6.4198848,106.7980096",081299517544,,TRUE,TRUE,TRUE
+50,50,Netra Hartati,,,2,,0,,,,,FALSE,TRUE,TRUE
+51,51,Ety Handayani,,,13,"Desa Pemetung Basuki, RT. 04, RW. 01, Kec. Buay pemuka peliung, Kab. Oku timur, Sumatera selatan",173,,"-4.2777382,104.4316833",082380814338,,TRUE,TRUE,TRUE
+52,52,Susmawati,,,14,"Jl. Beringin II No.3, Beringin Raya, Kec. Kemiling, Kota Bandar Lampung, Lampung 35154",62,,"-5.3937889,105.200934",085369436255,,TRUE,TRUE,TRUE
+53,53,Gusniar Syam,,,11,"Jl. Perintis Kemerdekaan No. 172 Rt. 001, Rw. 005 Kelurahan Jati, Kecamatan Padang Timur, Kota Padang Sumatera Barat",17,,"-0.9359391,100.3604767",,,FALSE,TRUE,TRUE
+54,54,Darmawati,,,2,"Jl. Wulan No 6, RT.005, RW.005 Des Kebongedang, Kec. BatuNunggal, Kota Bandung, Jawa Barat",246,,"-6.9243901,107.6400009",081320178900,,TRUE,TRUE,TRUE
+55,55,Nunung Surahmatun,,,6,"Gatak Klegung, RT. 003, RW.025, Kel. Donokerto, Kec.Turi, Kab. Sleman Provinsi Yogya",69,,"-7.6601905,110.3648069",087738664158,,TRUE,TRUE,TRUE
+56,56,Nur Hayati,,,8,"Sidotopo Wetan Indah RT 002 RW080 Kranjeran, jawa timur",293,,"-7.2293153,112.757618",,,FALSE,TRUE,TRUE
+57,57,Ciput Mustikaningsih,,,8,Banyu Urip kidul 2 molin 2B no 5A..RT 12 RW 04,,,"-7.2762448,112.7187089",,,TRUE,TRUE,TRUE
+58,58,Laily Maghfiroh,,,2,,299,,"-6.565926,106.7088804",,,FALSE,TRUE,TRUE
+59,59,Saeni Mulyani,,,3,"Blok Bedeng, RT.011, RW.003, Kel. Bulak, Kec. Jatibarang",38,,"-6.4724926,108.2949105",0895380269874,,TRUE,TRUE,TRUE
+60,60,"dusun ngemplak, RT15/RW05 kelurahan ngemplak, kecamatan baureno, kabupaten bojonegoro, jawa timur",,,8,"Karang Malang, Sragen Regency, Central Java",,,"-7.491478,110.9169502",085334756581,,TRUE,TRUE,TRUE
+61,61,Junaisih,,,5,"Dusun Salahudin RT 020 RW008 Negeri Sakti Gedong Tataan, pesawaran, lampung",291,,"-5.3538456,105.1951051",,,FALSE,FALSE,FALSE
+62,62,Rosmiyati,,,13,"jln cendrawasih no 20, Tanjung agung, Tanjungkarang timur, Bandar Lampung",27,,"-5.4056553,105.2576206",081272445807,,TRUE,TRUE,TRUE
+63,63,Jenny Novita Pelealu,,,12,jl.Pengayoman Rt 01 .Kelurahan Tapak Lebar.Kecamatan Lubuklinggau Barat II.Lubuklinggau.Sumatera Selatan .,158,,"-3.277813,102.8351098",081377626418,,TRUE,TRUE,TRUE
+64,64,Leni Artiana,,,13,"Perumahan Gkal blok E no II, Campang jaya, Sukabumi, Beringin, Kota Bandar lampung",171,,"-5.414437,105.3253394",,,FALSE,TRUE,TRUE
+65,65,Nurmilah,,,12,"Jl. Kol H burlian Lrg, Keluarga No. 2456 A, RT. 25, RW. 09,Kel.kebun bunga, Kec. Sukarame Km. 10 palembang 30152 (seberang SMA IGM)",1,30152,"-2.9235072,104.6892712",0895619921183,,TRUE,TRUE,TRUE
+66,66,Mety Mulyasari,,,2,"Jl.Batubara III No. 6, kec lengkong, Kota Bandung, Jawa Barat",72,,"-6.9418611,107.623733",081809512291,,TRUE,TRUE,TRUE
+67,67,Syariat Alhaq Sir Nurjananah,,,2,"Jl Batu Bara II No 6, RT. 002, RW. 011, Kel. Turangga, Kec. Lengkong, Kota bandung",72,,"-6.9733553,107.6348915",089609398998,,TRUE,TRUE,TRUE
+68,68,Yossie Eka Diany,,,1,"JL Kencana I No.26 Kebon Duren, RT01, RW 08, Kel. Cilodong, Kota Depok, Jawabarat",253,,"-6.4260895,106.8179713",087875375360,,TRUE,TRUE,TRUE
+69,69,Ria Rochyati,,,2,"jl nusantara x no 3 kapling IPTN, RT.3, RW. 25, Kel. Cibabart, kec cimahi utara, Kab. bandung barat",63,,"-6.8751851,107.5511272",081802121949,,TRUE,TRUE,TRUE
+70,70,Tia Siti Julaeha,,,2,Jl cempaka no 6c/126d Rt03/rw05 kelurahan kebon gedang kiaracondong,218,,"-6.92386,107.64179",085712849242,,TRUE,TRUE,TRUE
+71,71,Eliningsih,,,3,,,,,,,TRUE,TRUE,TRUE
+72,72,Sawi,,,1,"jl. siaga darma 8, RT.12. RW 05 no36. pejaten timur, pasar minggu jakarta selatan",4,12510,"-6.2713432,106.8453484",087880152994,,TRUE,TRUE,TRUE
+73,73,Sri Mulyati,,,16,"Kulwaru Wetan, RT. 004. RW. 002 Wates , Kab. Kulon Progo , Daerah Istimewa Yogyakarta (Ibu, Kota Yogyakarta)",95,,"-7.8972789,110.123543",081227161461,,TRUE,TRUE,TRUE
+74,74,Siti Alijah,,,16,"Giyoso Dusun Giyoso, RT. 016/EW. 008 Sentolo , Kab. Kulon Progo , Daerah Istimewa Yogyakarta (Ibu, Kota Yogyakarta)",98,,"-7.848123,110.2223953",081390986318,,TRUE,TRUE,TRUE
+75,75,Astriyani,,,6,"dla Mojokulon, RT.04, RW. 06 kel. Seragen Kulon,kec. Sragen Kulon, kab Sragen ,Jawa Tengah",94,,"-7.435779,111.015193",081548727927,,TRUE,TRUE,TRUE
+76,76,Sri Wironi,,,4,"Kelurahan Mojayan rt 08/ rw 03, Mojayan, Klaten Tengah, KLATEN. ID 57411.",84,57411,"-7.7094337,110.6082856",081280845458,,TRUE,TRUE,TRUE
+77,77,Ides Sulistiyana,,,5,Jl.Temu giring Rt 06/06 karag wetan Gentasari kroya cilacap,57,,"-7.6378597,109.2413733",085712666694,,TRUE,TRUE,TRUE
+78,78,Yeni Widyastuti,,,5,Sapphire Residence Blok Zamrud J 14 Kel. Tambaksari Kidul Kec. Kembaran Kab. Banyumas,115,,"-7.4031691,109.2587981",082314036100,,TRUE,TRUE,TRUE
+79,79,Pargiyanti,,,13,"Komplek ponpes dhiya us'salaf, jalan lintas prabumulih-baturaja, desa karang agung, lubai ulu, kabupaten muara enim, sumatera selatan ID 31173",174,31173,"-3.7352704,104.2007541",082181035524,,TRUE,TRUE,TRUE
+80,80,Basiyem,,,13,"kebun 4 ,kec Kota Bumi Selatan,Kab Lampung,gg Pala Utara,Lampung",168,,"-4.858915,104.891281",0895604386684,,TRUE,FALSE,FALSE
+81,81,Indarti,,,8,"Desa Ngemplak, RT.003, RW.000, Desa. karang malang, Kec. marasan, Kab. Sragen, Jawa. tengah",101,,"-7.4848148,110.9158901",081215573331,,TRUE,TRUE,TRUE
+82,82,Yeti Purwani,,,7,"DS Nglawak, RT.006, RW.002, Kel Prambon, Kec Nganjuk, kota nganjuk, Jawa Timur",138,,"-7.7133985,111.9853199",081249143297,,TRUE,TRUE,TRUE
+83,83,Supiatiningsih,,,9,"Dsn krajan selatan, RT.001, RW.001 ds singojuruh, Kec. singojuruh, Kab. banyuwangi",211,,"-8.307457,114.241476",,,FALSE,TRUE,TRUE
+84,84,Elok Umatillah,,,9,"Jl Dr Sutomo No 73b, Kel. Manjunharjo, Kec. Mayangan, Kota Probolinggo, Jawa Timur",214,,"-7.7505648,113.2153022",,,FALSE,TRUE,TRUE
+85,85,Widayati,,,6,"Sonopakis Kidul, Dusun DK. X Sonopakis Kidul, RT.004 ds Ngestiharjo, Kec. Kasihan, Kab. Bantul DI yogyakarta",99,,"-7.809014,110.337692",,,FALSE,TRUE,TRUE
+86,86,Sri Maryati,,,6,"Jl urwosari, RT. 01, RW. 58, Kel. Sinduadi, Kec. Miati, Kab. Sleman",231,,"-7.7416889,110.3406646",,,FALSE,FALSE,FALSE
+87,87,Silvi Susanti,,,11,"Toko sisil P & d. jalan balai baru no 75 balai baru, kelurahan sungai sapih, kecamatan kuranji, padang, sumbar",152,,"-0.901966,100.397269",,,FALSE,TRUE,TRUE
+88,88,Rahima,,,5,"Tanjung Basuang I Dusun Tanjuang Basuang I ,RT- RW-, Sungai Buluan Barat, Kec Batang Anai, padang Pariaman, sumatera Barat,",0,,"-7.7221343,109.6857932",,,FALSE,TRUE,TRUE
+89,89,Raminas,,,13,"Address1Jl Stasiun Tiga Gajah, RT. 007, RW. 003, Kel. Sukajadi, Kec. Baturaja Timur, Kab. Ogan Komering Ulu Prov, Sumatera selatan",21,,"-4.1114071,104.1657532",088287488327,,FALSE,TRUE,TRUE
+90,90,Sudarmi,,,4,,,,,,,TRUE,TRUE,TRUE
+91,91,Ismini,,,8,"Gg. Balai Desa, Sukorame, Tutup, Kec. Tunjungan, Kab. Blora, Jawa. Tengah c, Indonesia",122,58252,"-6.96904303070136,111.39416450072697",082133818451,,TRUE,TRUE,TRUE
+92,92,Sri Lestari,,,4,"RT08/RW06 no 45 Magesan, Poncol (Belakang stasiun poncol)",165,50172,"-7.76587,110.4846251",082314948247,,TRUE,TRUE,TRUE
+93,93,Minarsih,,,13,"Jl rusman effendi bustan, RT. 010/05 Ds. Tanjung kemalan, Kec. Baturaja timur",175,,"-4.1475945,104.1328719",085669514122,,TRUE,TRUE,TRUE
+94,94,Rohmi,,,14,"Jl. Kamboja No.01 Rt13 Rw04 arah terowongan Gn. Gajah, Kabupaten Lahat, Sumatera Selatan",60,31418,"-3.79248,103.52808",,,FALSE,TRUE,TRUE
+95,95,Nurlela,,,2,"Jl Babakan DKA, RT.01, RW.14, Ds. Cikuya, Kec. Cicalengka, Kab. Bandung",52,,"-6.981371,107.8279598",082312893507,,TRUE,TRUE,TRUE
+96,96,Siti Maerah,,,2,"Jl Teluk Buyung Kidul, No.2, RT.05, RW.03, Kel. Arjuna, Kec. CIcendo",236,,"-6.908073,107.5928645",,,FALSE,TRUE,TRUE
+97,97,Kusmiyati,,,2,"JL. SEKELOA Timur NO.254, RT. 007. RW. 003 Kec Coblong Kota BANDUNG, Jawa Barat 40134",47,40134,"-6.8871618,107.6175621",081222971108,,TRUE,TRUE,TRUE
+98,98,Eha Risnawati                        ,,,2,,,,,087778744927,,TRUE,TRUE,TRUE
+99,99,Soedarwati,,,8,"jln Putat jaya C barat Xl /no 24, RT 05, RW 13, Kota Surabaya",102,,"-7.2803165,112.7174373",082257137575,,TRUE,TRUE,TRUE
+100,100,Nurdianah,,,1,"KP. PANCORAN MAS, RT. RW 02/03 DEPOK gang amaliyah no 110, RT. 01/05 pancoran emas",196,,"-6.4113512,106.808445",085770835365,,TRUE,TRUE,TRUE
+101,101,Sri Suharyanti,,,1,"Jl Cagar alam Kp. pancoran mas, RT. 05, RW. 07 no 42, Kel. /kec pancoran mas depok",209,,"-6.4074785,106.8033114",08121897889,,TRUE,TRUE,TRUE
+102,102,Andri Sri Wijayanti,,,6,"Kedung Bule DKII Gerso, RT. 11, Desa. Trimukti, Kec. Srandakan, Kab. Bantul. DIY. 55672",90,55672,"-7.9410883,110.2438889",082328510594,,TRUE,TRUE,TRUE
+103,103,Sarti,,,1,"Jalan Mangga I, RT.2/RW.3, no 156 Kel.Pasir Putih, Sawangan Depok (paudqu aldiani)",2,16519,"-6.423749,106.7755013",087888464728,,TRUE,TRUE,TRUE
+104,104,Eti Suryati,,,1,Jl.KH.ABDUL HAMID ( masjid Annajah)Gg.Makmur No.106 rt 002/rw 005 Ragajaya citayam Bojong gede Bogor,192,,"-6.4429427,106.7813455",0857808139200,,TRUE,TRUE,TRUE
+105,105,Sri Rahayu,,,1,"Panca galih, RT.003/003,Kel.sindang barang, Kec. Bogor barat. Jawa Barat gang haji amiun depan pom bensin loji",194,,"-6.5832551,106.7671859",081314839969,,TRUE,TRUE,TRUE
+106,106,Susilawati,,,1,"kp.Kedung Gede, RT.005 RW.001 Desa.Setiamekar Tambun Selatan",197,,"-6.2563537,107.0444932",085777358090,,TRUE,TRUE,TRUE
+107,107,Aah Suryani,,,7,Santiong Utara RT 03/RW 16 kel.Nagasari kec.Karawang Barat Kab.Karawang,273,63271,"-6.306812, 107.299732",,,FALSE,FALSE,FALSE
+108,108,Junasih,,,8,"RT02/RW10, Desa Cikampek Barat, Kecamatan Cikampek, Kabupaten Karawang, Jawa Barat",297,,"-7.5819418,110.89042",089699763363,,FALSE,TRUE,TRUE
+109,109,Isnarti ,,,1,"JL Balimantraman no 31, RT. 14, RW. 05, Kel. Manggarai Selatan, Kec. Tebet, Kota Jak Sel",229,,"-6.2186638,106.847564",0895340003621,,TRUE,FALSE,FALSE
+110,110,Purwati Ningsih,,,5,tidak menerima bantuan karena tidak memenuhi syarat penerima bantuan pendidikan,0,,"-7.4303626,109.215635",085785363135,,FALSE,TRUE,TRUE
+111,111,Rita Diana,,,10,"JL.H.A Bilal / tanah merah link. VII(sebelah kos kosan Dadang Kurniawan), kel. Tebing Tinggi, kec. Padang Hilir, kota Tebing Tinggi, sumatera utara, kode pos:20631",145,20631,"3.3217299,99.1700073",081262056344,,TRUE,TRUE,TRUE
+112,112,Rini Evyanti,,,2,"Jl Binong Utara NO 129 A/127 B, Kiara Condong , Bandung, Jawa Barat.",218,,"-6.9305379,107.6443393",,,TRUE,TRUE,TRUE
+113,113,Anny Yuliastuti,,,9,"Lumajang, Jawa Timur",,,"-7.9971309,113.2527318",,,TRUE,TRUE,TRUE
+114,114,Novi Yanti,,,9,,,,,,,TRUE,TRUE,TRUE
+115,115,Pairah,,,2,"Kelurahan Katerban Rt,01 Rw,02 Kecamatan Kutoarjo-Kabupaten Purworejo-Jawa Tengah",248,,"-6.9504771,107.7228465",089502631935,,TRUE,TRUE,TRUE
+116,116,Darliyusni,,,4,,,,,,,TRUE,TRUE,TRUE
+117,117,Mardiah,,,11,"Ladang Laweh, sicincin kecamatan 2x11 enam lingkungan kabupaten Padang Pariaman Sumatera Barat.",155,,"-0.5889415,100.2435228",081259333291,,TRUE,TRUE,TRUE
+118,118,Susi Indriawati,,,2,"JL.CIAYUNAN 77, RT. 003. RW. 004 CICALENGKA, Kab.BANDUNG, Jawa Barat 40395",52,40395,"-6.9733553,107.6348915",082218999910,,TRUE,TRUE,TRUE
+119,119,Yanuri Widiyati,,,6,Jongkangan RT 06 RW 02 Tamanmartani Kalasan Sleman Yogyakarta.,91,,"-7.743565,110.474801",082126888020,,TRUE,TRUE,TRUE
+120,120,Imas Liawati,,3206346303780001,2,"Kampung nanjungsari RT05/RW08 Desa manggungjaya kecamatan Rajapolah, Bandung",317,,"-7.2243056,108.1781292",085314934466,,TRUE,TRUE,TRUE
+121,121,Sulipah,,,8,"Janti Krajan, RT. 003. RW. 001, Kec. Tulangan, Kab. Sidoardjo, Jawa Timur",108,,"-7.4800824,112.6160786",085859178580,,TRUE,TRUE,TRUE
+122,122,Rini Mujiastutik,,,8,"dusun kangkungan, RT03/RW05 kellurahan lengkong, kecamatan mojoanyar, kabupaten mojokerto, Jawa Timur",,,,081615136444,,TRUE,TRUE,TRUE
+123,123,Anis Saidah,,,0,tidak diberikan santunan tidak memenuhi kriteria,0,,,,,FALSE,TRUE,TRUE
+124,124,Karyati,,,0,tidak diberikan santunan tidak memenuhi kriteria,0,,,,,FALSE,TRUE,TRUE
+125,125,Achir Arjani,,,6,"gang buntu Jl. Manunggal I Sukorejo, RT. 03, RW. 22,Kel.Banjarsari, Kec.Banjarsari.Kota Surakarta ( Sri Wijaya)",11,,"-7.539061,110.829818",081393055786,,TRUE,TRUE,TRUE
+126,126,Titi Irawanti,,,2,"Jl. Elang II No. 173 , RT 002 RW 002 Kel Garuda kecamatan Andir. Andir , Bandung , Jawa Barat (Penjahit Anisa)",53,40184,"-6.9124525,107.5544141",082299201957,,TRUE,TRUE,TRUE
+127,127,Eni Purwati,,,4,"Kantor daop 4 Jl. MH Thamrin No.3, Miroto, Kec. Semarang Tengah, Kota Semarang, Jawa. Tengah 50133",40,50133,"-6.9797667,110.4144961",081229622243,,TRUE,TRUE,TRUE
+128,128,Indah Wahyu Pujining,,,4,"Balun Srikaton lorong 13,no 53 D, RT. 04, RW. 02, Kel. Balun, kec. cepu, Kota Blora Prov, Jawa. tengah",77,,"-7.158721,111.587368",085727094181,,TRUE,TRUE,TRUE
+129,129,Marminah,,,4,"Rejosari 006, RW. 016, Desa. Rejosari, Kec. Karangawe, Kab. Demak Provinsi, Jawa. tengah",163,,"-7.0637711,110.5897358",0895354415199,,TRUE,TRUE,TRUE
+130,130,Herni Hirni Yana,,,4,"KANDANG DORO, RT. 003, RW. 010, Kel. BALUN, Kec. CEPU, Kab. BLORA, Jawa. TENGAH",81,,"-7.155335,111.587380",085229250402,,TRUE,TRUE,TRUE
+131,131,Nurul Inayah,,,4,"desa sukolilan, RT02/RW02, kecamatan patebon, kelurahan kendal, jawa tengah",,,,095641283321,,TRUE,TRUE,TRUE
+132,132,Nisa Barqi Rahayu,,,4,"JL. NAKULA A 7 008/008, Kel. KEJAMBON, Kec. TEGAL TIMU, Kota TEGAL, JATENG",76,,"-6.8816197,109.1380757",0811288870,,TRUE,TRUE,TRUE
+133,133,Suci Rahayu,,,0,tidak diberikan santunan tidak memenuhi kriteria,0,,,,,FALSE,TRUE,TRUE
+134,134,Tri Puji Rahayu,,,4,"perumahan putra mangujiwan asri thb 4 blok B 5, Karang Asem, Mangunjiwan, Kec. Demak, Kab. Demak, Jawa. Tengah.",167,,"-6.895212,110.621703",088216647147,,TRUE,TRUE,TRUE
+135,135,Miharsih,,,15,"Jl. Kaliandra No.7, RT.001. RW.003, Adiwerna, Kab.Tegal, Jawa Tengah.",73,,"-6.8704234,109.1509045",085747538684,,TRUE,TRUE,TRUE
+136,136,Sumini,,,16,"Tanubayan Dk. Priyan, RT.08 Priyan, Trirenggo, Bantul, Daerah istemewa yogyakarta.",96,,"-7.888709,110.342017",083129505272,,TRUE,TRUE,TRUE
+137,137,Erida,,,10,Jl. Gajah Mada Rt 01 / Rw 07 kel. Alai Parak Kopi kec. Padang Utara Sumbar.,268,,"-0.923759, 100.367210",081363547811,,FALSE,TRUE,TRUE
+138,138,Devi Susanti,,,12,"Komplek Perumka RT003 RW004 Kel. Cupak Tangah, Kec. Pauh, Kota Padang.",270,30662,"-0.936878,100.435063",,,TRUE,TRUE,TRUE
+139,139,Denolita,,,11,"kampuang jambak lubuk aur nagari anduriang kecamatan 2x11 kayutanam, Kab. padang pariaman sumbar Kode pos 25585",156,25585,"-0.549643,100.344994",081275157772,,TRUE,TRUE,TRUE
+140,140,Arnita,,,11,"Desa kp panyalai nagari lubuk pandan, Kec. 2x11 enam lingkung, Kab. padang pariaman. Google Maps:-0.6170278374072546, 100.27281097154206",155,,"-0.617028,100.272811",082170655364,,TRUE,TRUE,TRUE
+141,141,Aidah,,,1,Jl Cikini Ampiun No 100 RT013 RW001 Kel Pegangsaan Kec Menteng,296,,"-6.1968775,106.8399785",085777358090,,FALSE,TRUE,TRUE
+142,142,Titin Prihatin,,,1,"KP. TANK, RT. RW 01/04, Desa. LEUWENGKOLOT, CIBUNGBULANG, BOGOR",199,,"-6.5683271,106.6699341",0895601899559,,TRUE,TRUE,TRUE
+143,143,Suzanti,,,1,"KP CIHASEUM, RT.05, RW 06 PANDEGLANG, Kab. Pandeglang JL. Bhayangkara No.27 Banten Kode pos 44213",210,44213,"-6.3079209,106.0976636",083836955740,,TRUE,TRUE,TRUE
+144,144,Yuli Safitriah,,,1,"SATRIA JAYA PERMAI BLOK B.5 NO 18 TAMBUN UTARA, BEKASI",200,,"-6.2119806,107.0602813",088211532036,,TRUE,TRUE,TRUE
+145,145,Yulianti,,,1,"Jl. Mahoni No.4 345, Mekarsari, Kec. Tambun Sel., Kabupaten Bekasi, Jawa Barat 17510",198,17510,"-6.2556574,107.0713761",088211532036,,FALSE,TRUE,TRUE
+146,146,Sri Lestari Yuliasih,,,4,"Ngoro oro, RT. 2, RW.11 Bokoharjo, Prambanan, Sleman",162,,"-7.765800,110.487157",087821332985,,TRUE,TRUE,TRUE
+147,147,Nurlela,,,1,"kp kebon kopi, Gang Darmaga motor, RW.2 RW.3, Kel. Mc timur, Kec. Rangkasbitung, Kab. Lebak, Provinsi Banten",271,,"-6.3504185,106.2507432",089669546019,,FALSE,TRUE,TRUE
+148,148,Ivo Widyani,,,1,"Jl. Lapangan koni II No. 16 Rt. 02 Rw. 02, kel Pancoran Mas Kec. Pancoran Mas, Kota Depok",196,,"-6.3929851,106.802348",081281264451,,TRUE,TRUE,TRUE
+149,149,Purwanti,,,1,"PERUMNAS 2 JL. DUKU RAYA NO 7, RT. RW 04/10 PARUNG PANJANG BOGOR",187,,"-6.3548233,106.5573473",083839761768,,TRUE,TRUE,TRUE
+150,150,Suwarsih,,,1,"KEP PAWARENGAN, RT. RW 003/012, Desa. DAWWAN TIMUR, Kec. CIKAMPEK, Kab. KARAWANG",188,,"-6.3959074,107.4473426",085216962714,,TRUE,TRUE,TRUE
+151,151,Sunarti,,,1,"KP. PINTU AIR, RT. RW 02/07 , Kel. PABUARAN, Kec BOJONG GEDE, Kab Bogor, Jawa Barat",192,,"-6.4575806,106.7924546",085692549602,,TRUE,TRUE,TRUE
+152,152,Imas Masitoh,,,1,"Jl.Raya Telaga Sari RT/RW 22/06, Kecamatan Klari, Karawang Timur, Jawa Barat",201,41371,"-6.3689981,107.3708916",085280890413,,TRUE,TRUE,TRUE
+153,153,Wiwi Widaningsih,,,1,"perum Gren mutiara Blok T23/16, cirejag, belendung, Klari, Kab. Kerawang",222,,"-6.3419458,107.3835621",0895329907426,,TRUE,TRUE,TRUE
+154,154,Sri Aminingsih,,,9,"Dusun sumber dangdang blok d3, perumahan walisongo, RT 001 RW009, KERTOSARI, PAKUSARI, Jember, Jawa Timur.",215,,"-8.1820248,113.7551493",085920509288,,TRUE,TRUE,TRUE
+155,155,Sulastri,,,9,"Jl Tambak sari, Desa. pabean, Kec. Dringu, Kab. Probolinggo",212,,"-7.7625655,113.2394186",,,FALSE,FALSE,FALSE
+156,156,Neni Handayani,,,3,"Jl. Tuparev gang kesehatan Blok bedeng no 76, RT.011. RW.003, Desa. Bulak Kecamatan Jatibarang, Kab. Indramayu kode pos 45273",38,45273,"-6.476291,108.309258",89646862360,,TRUE,TRUE,TRUE
+157,157,Eti Daeti,,,3,"BTN Permata Harjamukti Blok C 4 No. 16 Blok C 4 No 16, Kel. Kalijaaga, kec. Harjamukti, Kota Cirebon",65,,"-6.7527967,108.5628491",081312602158,,TRUE,TRUE,TRUE
+158,158,Anita,,,3,"perum Permata Indah Getasan Blok A1-No.1, RT.004, RW. 002, Desa. Getasan, Kec. Depok, Kab. Cirebon",239,,"-6.7393568,108.4510176",0821288666750,,TRUE,TRUE,TRUE
+159,159,Atikah,,,3,"Dusun Cipunagara, RT. 016. RW. 006 Ds. Tanjung, Kec. cipunegara, Kab. subang. Kunjungan dianter stasiun pegaden",66,,"-6.481321,107.8246314",,,FALSE,TRUE,TRUE
+160,160,Tuminah,,,5,"Grantung, RT.02, RW. 06, Kec. Bayan, Kab. Purworejo",86,,"-7.7215821,109.9561294",081328443975,,TRUE,TRUE,TRUE
+161,161,Jamiatun Ngestiti Handayani,,,5,"Dsn. Karangreja No.424, RT.01, RW.01, DS Danasri Kidul, Kec. Nusawungu, Kab, Cilacap",230,,"-7.6350433,109.3292844",081390279138,,TRUE,TRUE,TRUE
+162,162,Sri Wahyuni,,,8,"Jl Pura Klapasawit , kab kebumen, jawatengah",264,,"-7.7220897822802845,109.68801367542527",,,FALSE,TRUE,TRUE
+163,163,Danik Risna Setyowati,,,4,"Jl. Ki Atmosajono No.22, RT.03, RW.03, Desa Geyer, Kec. Geyer, Kab. Grobogan, Jawa Tengah, 58172",254,58172,"-7.2184005,110.8987503",082220244542,,TRUE,TRUE,TRUE
+164,164,Sunarmi,,,6,"Dsn Bulu, RT.03, RW.08, Desa. Bakalan, Kec. Polokarto, Kab, Sukoharjo, Jawa. tengah. c.",251,57555,"-7.643686,110.8634934",085866816238,,TRUE,TRUE,TRUE
+165,165,Sri Sumariah,,,2,"Griya Utama Rancaekek JL cendana IV no 44, RT.008, RW.020, Kel. Rancaekek wetan, Kec. rancaekeek , Kab. bandung",121,,"-6.9649108,107.7557485",,,TRUE,TRUE,TRUE
+166,166,Supriharti                              ,,,2,"Kompleks Griya Mitra Posindo blok E5 no 10, RT 007 RW 026, Cinunuk, Cileunyi, Bandung",37,41373,"-6.401223,107.4352171",087717590240,,TRUE,TRUE,TRUE
+167,167,Desti Nur Apni,,,12,"Griya Raffi Residence Blok G NO.10 RT088 RW.005 Kel. Talang Kelapa, Kec. Alang-alang Lebar, Kota Palembang",267,,"-2.950929, 104.687124",,,FALSE,TRUE,TRUE
+168,168,Rice Margaretha,,,12,"Jl.Arimbi gang.raJawali No.14, RT.01, RW.05, Kel. Prabujaya, Kec. Prabumulih Timur, Kota Prabumulih, Kota Prabumulih, Sumatera Selatan",36,,"-3.422494,104.236423",081373886702,,TRUE,TRUE,TRUE
+169,169,Nani,,,12,"Jl. PDAM No.09 LK II, RT.004, RW.002, Indralaya Indah, Indralaya, ogan Ilir, 30662, Sumatera Selatan. Ket: dari tol indralaya belok kiri, dekat nya ada bank sumsel, disamping bank sumsel ada jalan, masuk ke jalan tersebut, 2 rumah dari ujung jalan.",269,30662,"-3.2242805,104.6668445",085380971814,,TRUE,TRUE,TRUE
+170,170,Ningsih,,,12,"jl. Teratai no. 31, RT. 001, RW. 001, Kel. Karang Raja, Kec. Prabumulih Timur, Kota Prabumulih Prov, Sumatera Selatan KET: Karang Raja I Prabumulih Timur",59,,"-3.4131847,104.2479574",089520171037,,TRUE,TRUE,TRUE
+171,171,Lili Sukaisih,,,10,"Binjai Estate, Jalan Sederhana KelurahanBInjai estate, Binjai Selatan, Kota Binjai, Sumatera Utara (Msk Gg Sukses Depan Tnhksg )",275,,"-6.306812,107.299732",,,FALSE,TRUE,TRUE
+172,172,Siti Cholijah Ritonga,,,10,"Jl.Bakti Luhur No.194 Medan,sebelah mesjid imanurrahman, Kec. Medan Helvetia, Kel. Dwikora, kota Medan, Sumatera Utara",149,,"3.5997539,98.626941",081977709351,,TRUE,TRUE,TRUE
+173,173,Juliana,,,10,"jl Tirto sari No 103 Buntu, medan Tembung , Kota Medan, Medan tembung, Sumatera Utara",55,,"3.5921687,98.7284139",081370508398,,TRUE,TRUE,TRUE
+174,174,Tengku Qomariah,,,9,"Jl Cut Nyak Dhien 7 LK V , tanah tinggi, binjai timur, kota binjai, sumatera utara,",274,20731,"-3.005641,104.807152",,,FALSE,TRUE,TRUE
+175,175,Affrida Sari,,,10,"Komplek Taman Wahana Residence Blok C no. 1, Jl. Benteng HIlir, Kec. Percut Sei Tuan, Tembung, Deli serdang",185,,"3.6003105,98.7378816",081370227929,,TRUE,TRUE,TRUE
+176,176,Trisnawati ,,,10,"Jln. Guru Sinumba dalam No.55 Medan Helvetia, Kec. Medan Helvetia, Kota Medan. Kode pos 20123.",16,20123,"3.61657,98.65977",085268293138,,TRUE,FALSE,FALSE
+177,177,Sungatmi,,,8,"kangkungan, Dusun Kangkungan, RT. 002. RW. 005, Desa. lengkong, Kec. mojoanyar, Kab. mojokerto, Jawa Timur",103,,"-7.4551176,112.4766601",082334320334,,TRUE,TRUE,TRUE
+178,178,Muji Rahayu,,,7,"Jl Mangga GG ikan mas, RT.004 RW.003, , Pogar, Bangil, Pasuruan, Jawatimur",284,,"-7.600471,112.778275",,,TRUE,TRUE,TRUE
+179,179,Elia Hendrawati,,,8,"Polak Wonorejo 1/20A, RT. 001, RW. 001, Kel. Peneleh, Kec. Genteng, Surabaya, Prov. Jawa Timur 60274",123,60274,"-7.254489,112.741863",087854511767,,TRUE,TRUE,TRUE
+180,180,Yaromin,,,8,"Kesamben Wetan, RT. 007. RW. 001, Kec. Driyorejo, Kota Gersik, Jawa Timur",104,,"-7.3476957,112.6118834",,,TRUE,TRUE,TRUE
+181,181,Setya Ningsih,,,8,"Perum ABR Blok C 4 No. 4, RT. 015. RW. 009, Kembangan, Kec. Kebo mas, Kab. gersik, Jawa Timur",105,,"-7.161502,112.608386",085102891366,,TRUE,TRUE,TRUE
+182,182,Reny Maryati,,,8,"Jl. Pondok Benowo Indah Blok OO No29, RT. 4, RW.9, Babat Jerawat, Kec. Pakal, Surabaya, Jawa Timur 60197 patokan (dekat SD AL Kautsar)",10,60197,"-7.235656,112.627480",081331607068,,TRUE,TRUE,TRUE
+183,183,Refi Aija,,,5,"Jln. Ladang, RT 003, RW-, Silaing Bawah, Kecamatan Padang Pajang Barat, Kota Padang Panjang, Sumatera Barat, .",0,,"-7.4676312,109.0742222",,,FALSE,TRUE,TRUE
+184,184,Nelli Adestri,,,13,Jl Purus II No9 GGAL Hidayah Padang Purus Padang barat Kota padang Sumatera Barat,308,,,,,FALSE,TRUE,TRUE
+185,185,Yusmarneli,,,11,"Korong Besar, Dusun Pasa, Kel. Pauah Kambar, Kec Nan Sabaris, SumateraBarat",161,,"-0.6510166,100.2183913",,,FALSE,TRUE,TRUE
+186,186,Mardianis,,,10,Jl. Gang Sipanjang RT006 RW 002 Kota padang Kec Lubuk Kilangan sumatra Barat,266,40213,"-6.9215495,107.5568308",,,TRUE,TRUE,TRUE
+187,187,Helmi Susanti,,,11,"Jl. DR. M. Hatta Simp BY PASS Ketaping No. 41 RT 002, RW 003, Kel. Pasar Ambacang, Kec. Kuranji, Kota padang.",235,,"-0.93389,100.39937   ",,,TRUE,TRUE,TRUE
+188,188,Meldawati,,,11,"Korong Titian Akar No 439, RT.05, RW. 00, Nagari Buayan Lubuk Alung, Kecamatan Batang Anai, Kab. Padang Paraiaman, 25586 (belakang Toko Duo Putro dan eni mart)",35,25586,"-0.71703,100.30805",085366377709,,TRUE,TRUE,TRUE
+189,189,Sri Sutanti,,,4,"BALUN LR I/16 004/008, Desa. BALUN, Kec. CEPU, Kab. BLORA, JATENG",77,,"-7.155373219477031,111.59321450953894",082132530354,,TRUE,TRUE,TRUE
+190,190,Sri Hartini,,,8,"JL. KYAI MASZAD, gg sawah no 10, 006/001, DESA BANJARREJO, Kec. BOJONEGORO, Kota BOJONEGORO, JATIM",83,,"-7.140138107762429,111.89063785993967",085775562754,,TRUE,TRUE,TRUE
+191,191,Noor Chasanah,,,4,"Jl Udowo Timur III/23, RT. 003, RW. 010 Des Bulu Lor, Kec. Semarang Utara, Kota Semarang provinsi, Jawa. tengah",165,,"-6.9692145,110.4031894",085866939882,,TRUE,TRUE,TRUE
+192,192,Waryanti,,,6,"SEMPON 002/003, Kel. WATES, Kec. DUKUN, Kab. MAGELANG, JATENG",82,,"-7.5615435,110.3336747",081392192810,,TRUE,TRUE,TRUE
+193,193,Novi Erisca Supriyan,,,4,"Jln. Pekunden Tengah 1070, RT. 04, RW. 02, Semarang Tengah, Semarang Jawa Tengah",40,,"-6.985145,110.414190",085869452808,,TRUE,TRUE,TRUE
+194,194,R Ati Hidajati,,,6,"perum Kopassus, RT. 004, RW. 003, Kel. Wirogunan, Kec. KartaSura, Kab. Sukohajo, Jawa.tengah",178,,"-7.538018,110.732205",081328766433,,TRUE,TRUE,TRUE
+195,195,Komariyati,,,7,"Dsn. Ngantru, Kec. Ngantru TulungAgung, Jawa Timur",142,,"-8.01559,111.9134948",085940470389,,TRUE,TRUE,TRUE
+196,196,Nurul Hasanah,,,9,"KTP Jl Citarum Perum Mutiara Ageng Blok E2, RT.05 RE01, Kel. Curahginting, Kec. Kanigaran, Kota Probolinggo 67212",216,67212,"-7.7627979,113.1924053",085232507778,081362558728,TRUE,TRUE,TRUE
+197,197,Istiyana,,,6,"Kriyan, RT. 116. RW. 035 Kokap , , Desa. Hargorejo, Kab. Kulon Progo, Daerah Istimewa Yogyakarta (Ibu, Kota Yogyakarta)",100,,"-7.8757314,110.1113585",,,FALSE,TRUE,TRUE
+198,198,Peni Budi Astuti,,,3,"Jl Pala Barat I blok J No 30, Mejasem Barat, Kec. Kramat, Kab. Tegal",301,,"-6.875829,109.148582",,,FALSE,TRUE,TRUE
+199,199,Junaedah,,,3,"Desa kedokan bunder wetan blok gopala, RT.02, RW.01 NO 92, Kec. kedokan bunder, Kab.indramayu prov, Jawa Barat",78,,"-6.516976,108.428809",082136662267,,TRUE,TRUE,TRUE
+200,200,Nining Sutini,,,2,"JL.WARUNGKETAN DSN. CIJAMBE, RT. 001. RW. 004 DS. JATIMEKAR, Kec. SITURAJA, Kab. SUMEDANG 45371",44,45371,"-6.8565028,108.0052653",083871047114,,TRUE,TRUE,TRUE
+201,201,Siti Hobsah,,,2,"JL.STASIUN CIGANEA ATAS, RT. 008. RW. 003 ,Kel.DESA MEKARGALIH, Kec. JATILUHUR, Kab. PURWAKARTA, Jawa Barat",51,,"-6.5673816,107.4288578",085624623073,,TRUE,TRUE,TRUE
+202,202,Satiyem,,,3,Blok kisobur RT 04 RW 02 Desa. Gintung Ranjeng kec. Ciwaringin kab. Cirebon 45167,67,45167,"-6.6842881,108.3732324",085324297969,,TRUE,TRUE,TRUE
+203,203,Ety Juniarti,,,1,"Telaga Mas Blok B, BA3 No. 23, Bekasi Utara, Bekasi, Jawabarat",68,,"-6.2162742,107.0149633",085214087710,,TRUE,TRUE,TRUE
+204,204,Siti Muawanah  Se,,,5,"JL. BOUGENVIL GANG DAHLIA, RT 2 RW 3 KEL. GRENDENG, KEC. PURWOKERTO UTARA, BANYUMAS",6,53122,"-7.5126893,109.1809399",081391301313,,TRUE,TRUE,TRUE
+205,205,Dwi Puspa Sari,,,5,"Karang Klesem, RT.01, RW.04, Kel. Karang Klesem, Kec. Pecuken, Kab. Banyumas Kode Pos 53164.",184,53164,"-7.3776283,109.0833684",082134645363,,TRUE,TRUE,TRUE
+206,206,Mahmudah,,,5,"Kedungbanteng No.1 , RT.006, RW.001, kedungbanteng, Kec. Kedungbanteng, Kota Banyumas, Jawa.tengah",219,,"-7.3936128,109.1956928",088706665401,,TRUE,TRUE,TRUE
+207,207,Lestari,,,5,"Perum Griya Satriya Mandalatama Blok 41/4, RT.006, RW.005 Ds. Karang Lewas Lor, Kec. Purwokerto Barat, Kab. banyumas 53136",224,53136,"-7.4251078,109.2048252",081391140044,,TRUE,TRUE,TRUE
+208,208,Wiwik Sulistyorini,,,4,jl bangetmulyo 3 rt 5 rw 1 kel.Bangetayuwetan kec genuk smg,35,25586,"-6.984033, 110.476936",08815415049,,TRUE,TRUE,TRUE
+209,209,Watiningsih,,,6,dusun sidorahayu rt 6 rw 1 kec wagir kab malang,247,,"-7.6903993,109.6945001",082231486283,,TRUE,FALSE,FALSE
+210,210,Wiwik Prihatini,,,13,"JL Airan Jaya GG Mushola, RT.018, RW. 007, Kel. Way hui, Kec. Jati agung, Kab. Lampung Selatan Prov Lampung",24,,"-5.3521288,105.2967262",085840864870,,TRUE,TRUE,TRUE
+211,211,Sumarni,,,13,"Dusun II, Desa. Menanti, Kec. Lubai, Kab. Muara Enim Prov, Sumatera Selatan",23,,"-3.7188204,104.2221829",085783881228,,FALSE,TRUE,TRUE
+212,212,Damayanti,,,10,"jl mangaan 3 Mabar pasar no 120. 2 LK 12, Mabar, Kec Medan Deli, Kota medan, Sumatera Utara",148,,"3.6591013,98.6748038",081260770032,,TRUE,TRUE,TRUE
+213,213,Elly Triningsih,,,10,"Jl. Kasih Ds.VII, Desa. Kedai Durian, Kec. Deli tua, Kab. Deli Serdang, Sumatera Utara dekat paud Masyitha Malik pagar stainless.",80,,"3.509224,98.683564",085261100129,,TRUE,TRUE,TRUE
+214,214,Yanti Muningsih,,,10,"huta 2 Songal, Kel. Nagori Bahtobu, Kec Dolok Batu Nanggar, Kab. Simalungun, Prov. SuMut. Kodpos 21155.",151,21155,"3.0877108,99.1391228",085277645089,,TRUE,TRUE,TRUE
+215,215,Yati Nurhayati,,,1,"Kampung Cinangneng RT 002 RW012 Kel Bojong Jengkol, Kec Ciampea, Bogor",275,,"-6.2849669,106.8463464",08138408070,,FALSE,TRUE,TRUE
+216,216,Kusmiyati,,,2,"Jl Peninsula No 28 Cluster AKASIA, Bumi Panyawangan, Kab. Bandung",227,,"-6.9459717,107.7321398",08112312296,,TRUE,TRUE,TRUE
+217,217,Nila Tresna,,,2,"Kiara Green Residence Blok B No 1 Jl Hr Danurasmaya, RT.003, RW.007, Kel. Cibabat, Kec. Cimahi UTara, Kota cimahi Provinsi, Jawa Barat",143,,"-6.8842152,107.557303",,,TRUE,TRUE,TRUE
+218,218,Agus Hakim ,,,2,"Jl Saturnus Utara XIII No. 6 R.003, RW. 011 Manjahlega, Rancasari, Kota Bandung, Jawa Barat 40286, atau jl utama haji Abun No.2 Rt.03, RW.07 padasuka",244,40286,"-6.9501763,107.663474",081222826210,,TRUE,FALSE,FALSE
+219,219,Yeni Dwi Arisanti,,,6,"Tepa 3 RT.004 RW.005 Tepas, Geneng, Ngawi, Jawa Timur, 63271",251,63271,"-7.6364996,110.8557793",,,FALSE,TRUE,TRUE
+220,220,Santy Marthalena,,,13,"Ibu Mardiana jl. Endrosuratmin gang Sulaiman Bandar Lampung , 35131 (belakang SDN 1 Sukarame)",234,35131,"-5.386500,105.293769",081990045047,,TRUE,TRUE,TRUE
+221,221,Dwi Haryani Susanti,,,1,"Gg. Hanura, RT.001/007 Kedung warning, Bojong Gede, Kab.Bogor",192,,"-6.4977581,106.7912133",087770307807,,TRUE,TRUE,TRUE
+222,222,Farsiah,,,13,"Dusun I, RT. 001, RW.001, Kel. Belatung, Kec. Lubuk Batang, Kab. Ogan Komering Ulu Prov, Sumatera Selatan 32192",18,32192,"-4.112605,104.1575203",088286569942,,TRUE,TRUE,TRUE
+223,223,Ike Andriati,,,5,"JL. MANCAKUSUMA, RT. RW 01/01 kel KEDUNGWRINGIN,Kec. PATIKRAJA, Kab. BANYUMAS PURWOKERTO",190,,"-7.4461472,109.2160469",081213178615,,TRUE,TRUE,TRUE
+224,224,Imas Aisah,,,2,"KP.MALINGPING, RT. 001. RW 011 DESA.RENDE, Kec. CIKALONG WETAN, Kab.BANDUNG BARAT 40556",5,40556,"-6.746729,107.406466",083820231406,,TRUE,TRUE,TRUE
+225,225,Sugiasih,,,5,"DSn Gayan, RT.02, RW.01, Desa. Suren, Kec. Kutoarjo, Kab. Purworejo Purwokerto",248,,"-7.7536744,109.8953654",081329326319,,TRUE,TRUE,TRUE
+226,226,Rijaningsih,,,8,"Perum permata alam permai, jalan Mustika 2 cc3/10, Kel. Gemurung, kec. gedangan, Kab. Sidoarjo. Jawa Timur",124,,"-7.4028297,112.7441883",089527070860,,TRUE,TRUE,TRUE
+227,227,Dewi Rinawati,,,2,"KP Babakan Garut, RT.02, RW.10, Des. Mekarsari, Kec. Ngamprah",85,,"-6.8487648,107.5044479",089646715120,,TRUE,TRUE,TRUE
+228,228,Ikasasi Yunaeni,,,5,"jalan Sumardi, RT. 01/09 no 33, Dukuhwaluh, Kec. Kembaran, Kab. Banyumas, Jawa. Tengah 53182",8,53182,"-7.410938, 109.273526",087738221573,,TRUE,TRUE,TRUE
+229,229,Anik Julaikah,,,8,"JL.DUKUH BULAK BANTENG SEKOLAHAN GG:12 A No:26, RT.07, RW.06, Bulak Banteng, Kec. Kenjeran, Surabaya, Jawa Timur 60127",125,60127,"-7.219199,112.765429",083143810701,,TRUE,TRUE,TRUE
+230,230,Juni Ika Setya Mira,,,17,"Dsn menyanggong No.200 , RT. 22/09, Kel. kletek, Kec. taman, Kab. sidoarjo",221,,"-7.3604741,112.6682433",087853467036,,TRUE,TRUE,TRUE
+231,231,Lilis Setiawati,,,13,"Dusun branti, RT. 07/04, Desa. branti raya, Kel. Natar, kab.lampung Selatan",20,,"-5.2664766,105.1626254",085273936151,,TRUE,TRUE,TRUE
+232,232,Darmawati,,,5,,292,,"-7.5242972,109.1137248",083128380324,,FALSE,TRUE,TRUE
+233,233,Khusniatul Azizah,,,8,"Desa Kolursari, RT.005, RW. 02, Kab. pasuruan, Kec. Bangil, Jawa Timur. Patokan: Gang sebelah selatan toko sumber baru , masuk ke barat lurus Ada musolah belok kiri.",106,,"-7.6121006,112.7658697",085733074546,,TRUE,TRUE,TRUE
+234,234,Alm Anggi Astria Primayanti (Wali Martini),,,2,"Dusun Cibeka, RT.27, RW.08, Desa Karangkamulyan, Kec. Cikeungjing, kab. Ciamis",241,42671,"-7.3514514,108.4642527",085220493911,,TRUE,TRUE,TRUE
+235,235,Rohila,,,12,"Jl.prof.dr Emil Salim No.24D, RT.01, RW.01, Kel. Rd.Pjka, Kec.lahat, Kab.Lahat, Provinsi, Sumatera Selatan, Kode Pos 31417,  Rd. Pjka Lahat, Kabupaten Lahat, Sumatera Selatan",28,31417,"-3.791458,103.531204",089627425395,,FALSE,TRUE,TRUE
+236,236,Halimah,,,1,"Cikaret Jl.Pembangunan, RT. 05 RW.06, Kel.Babakan, Kec. Cibereum, Kab.SuKabumi",202,,"-6.9380069,106.9544321",081381612347,,TRUE,TRUE,TRUE
+237,237,Dariyanti,,,6,"BandungKidul, RT.002, RW. 001, Desa. bandung kidul, kec. Bayan, Kab. Purworejo",86,,"-7.7259741,109.9105633",,,FALSE,TRUE,TRUE
+238,238,Etty Krisnawati,,,8,"rumah kapas, dusun buyangan, RT19/RW02, kelurahan kapas, kecamatan kapas, kabupaten bojonegoro, jawa timur",,,,085932847268,,TRUE,TRUE,TRUE
+239,239,Yuli Irawati,,,8,"Kasak, RT.002, RW.003, Kel. Terungkulon, Kec. krian, Kota Sidoarjo Prov, Jawa Timur 61262",126,61262,"-7.398267945270788,112.60121144437868",081231496193,,TRUE,TRUE,TRUE
+240,240,Nori Yawanti,,,2,Griya Utama Rancaekek Jl. Cendana VI Blok II G No. 102 Rt/Rw 07/20 Ds. Rancaekek Wetan,298,,"-6.1926426,106.8361305",089612989670,,FALSE,TRUE,TRUE
+241,241,Sri Indarti,,,8,"Pesen RT 002 RW.001, Kel. Pesen, Kec. Kanor, Kab. Bojonegoro",264,,"-7.157717605926498,112.00334364957482",,,FALSE,TRUE,TRUE
+242,242,Siti Nur Ajizah,,,8,"DSN Sigit, RT.004, RW.003 , Kel. Kedung kembar, Kec. Prambon, Kab. sidoarjo Prov, Jawa Timur",127,,"-7.466191074536629,112.60154085309567",088996959607,,TRUE,TRUE,TRUE
+243,243,Sri Handayani,,,8,"Jl.flamboyan rt 11 rw 03.pakisaji,malang",106,,"-7.6011113,112.7751729",081334148523,,TRUE,TRUE,TRUE
+244,244,Dwi Mulyasari,,,8,"Dusun Ngijo, RT. 034. RW. 009, Sumber agung, Kec. wates, kediri, Jawa Timur.",95,,"-7.8743493,112.0835263",081359231368,,TRUE,TRUE,TRUE
+245,245,Laili Dunyati Rohmaidah,,,8,"Resik, RT. 005. RW.003, Kec. Candisari, Kec. Sambeng, Kab. lamongan, Jawa Timur.",107,,"-7.319558,112.276874",081553611557,,TRUE,TRUE,TRUE
+246,246,Eli Wulandari,,,2,"KP.SUKAJADI, RT. 001. RW. 001, Desa. SUKAJADI, Kec. PONDOKSALAM, Kab.PURWAKARTA, Jawa Barat",50,,"-6.6327569,107.4478354",081293505940,,TRUE,TRUE,TRUE
+247,247,Tuti Wuriyati,,,1,"Perum PGRI Jl. Penarikan Blok A2 No. 15, RT. 07/02 Pasir Putih, Kec. Sawangan, Kab. Depok.",203,,"-6.4103553,106.7756342",085795155991,,TRUE,TRUE,TRUE
+248,248,Rr Dyah Perwitosari,,,8,"Kapas Madya 1C1/IF Kecamatan tambaksari, Kel. Kapan Madya baru, google",179,,"-7.241547,112.767919",081803506514,,TRUE,TRUE,TRUE
+249,249,Dian Nur Afriany Wijaya,,,13,"Gg Swadaya 1, Segala Mider, Bandar Lampung, Lampung",31,,"-5.3873477,105.2511177",082379073244,,FALSE,TRUE,TRUE
+250,250,Parida,,,13,"jl P. Tirtayasa Perumahan Kereta Api Blok B1, Pasar Tempel Beringin, Kmp Beringin, Kel. Campang jaya, Kab. Bandar Lampung, Kec. SuKabumi, Lampung",25,,"-5.3520366,105.2581015",089624350299,,TRUE,TRUE,TRUE
+251,251,Muslikha,,,9,"Curahdringu Krajan, RT. 12. RW 05 Desa: curahdringu, Kec. Tongas, Kab. Probolinggo Prov, Jawa Timur Kodepos:67252",13,67252,"-7.7322699,113.1111653",08124915207,,TRUE,TRUE,TRUE
+252,252,Eva Kristiana,,,8,"Sumberjo, RT. 008, RW. 001, Kel. Sumberjo, Kec. Trucuk, Kab. Bojonegoro Prov, Jawa Timur",135,,"-7.12375502881244,111.853266291856",082139176495,,TRUE,TRUE,TRUE
+253,253,Fitri Susiani,,,2,"Kp Bojong Kaliki, RT.04, RW.11, Ds Pataruman, Kec. Taragong Kidul. (sebelum Pos Satpam Alfares)",250,,"-7.0696249,107.6225928",082310281089,,TRUE,TRUE,TRUE
+254,254,Suci Malia Fika,,,7,"Genengan, RT. 003. RW. 001 Ds. Genengan, Kec. Kawedanan, Kab. Magetan Jatim",139,,"-7.6815337,111.4138003",081333965334,,TRUE,TRUE,TRUE
+255,255,Endah Uji Wahyuni,,,5,"( Ibu Yuyun ) Jl. Raya Pengasinan, RT.02, RW.05, Ds. Kedungwringin, Kec. Patikraja, Kab. Banyumas, 537171",190,537171,"-7.4415035,109.2164269",081912233450,,TRUE,TRUE,TRUE
+256,256,Ida Parida,,,2,"KP. BOJONG SARI, RT. 02, RW.08, Desa. SITUSARI KARAWANGPAWITAN, Kab. GARUT, JAWA BARAT",3,44182,"-7.2091755,107.8620966",089530079217,,TRUE,TRUE,TRUE
+257,257,Maryati,,,2,,,,,,,TRUE,TRUE,TRUE
+258,258,Afina Fauzzia Walley,,,8,"Jl. H. Alpi No.60 /80 RT 005 RW.001, Kel. Cibuntu, Kec. Bandung Kulon, Kota Bandung",265,,"-7.157717605926498,112.00334364957482",,,FALSE,TRUE,TRUE
+259,259,Umi Afifah,,,7,"Onto Seno, RT. 003/, RW. 002 Ds. Klitik, Kec. Wonoasri, Kab. Madiun, Jawa Timur",141,,"-7.5524515,111.6388005",085799849836,,TRUE,TRUE,TRUE
+260,260,Galuh Dian Purwaningsih,,,8,Perum.Grha Amerta Bunder Kav.14 Kel.Kedanyang Kec.Kebomas Kab.Gresik Jawa Timur,,,"-7.1789363,112.6050147",082328508790,,TRUE,TRUE,TRUE
+261,261,Nirma Dewi Ayuningtyas,,,10,"Jl. Sidotopo Lor I No.33, Sidotopo, Kec. Semampir, Surabaya, Jawa Timur",276,20731,"3.6089776,98.4979277",,,FALSE,TRUE,TRUE
+262,262,Ariani,,,6,Kaligawe RT 02 Dk. Geblag Bantul Bantul Bantul Yogyakarta kode pos 55711,93,55711,"-7.871135,110.326444",089667455063,,TRUE,TRUE,TRUE
+263,263,Dewi Wistiawati,,,4,"GENUK KARANGLO 001/008, Kel. TEGAL SARI, Kec. CANDISRI, Kota SM JATENG",74,,"-7.0023205,110.4204484",0895414872326,,TRUE,TRUE,TRUE
+264,264,Candra Widhyati,,,8,"Jl. Supriyadi, No.142, Kudu, Kertosono, Kab nganjuk, Jawatimur",12,,"-7.5832338,112.1080186",081252862735,,TRUE,TRUE,TRUE
+265,265,Arimbi Putri Hari Susanti,,,7,"Jl. Taman Melati, RT. 07, RW. 02, Desa Tamanan, Kec. Mojoroto, Kota Kediri, Jawa Timur. 64116.",137,64116,"-7.8364019,111.9867363",082139387456,,TRUE,TRUE,TRUE
+266,266,Dian Kartika Sari Utami,,,7,"Perum Graha Kirana II Blok A No. 12 A kec. Manguharjo, madiun kota, Jawa Timur",31,,"-7.619456,111.512782",082145051124,,TRUE,TRUE,TRUE
+267,267,Laily Ambarwati,,,8,"Sememi Jaya 5 Utara Rel blok 3 no 11, RT. 002, RW.001, Kel. Sememi, Kec. Benowo, Kota Surabaya Prov, Jawa Timur 60198",128,60198,"-7.245846,112.644313",089521277038,,TRUE,TRUE,TRUE
+268,268,Sariah,,,3,"Dusun Gadog, RT. 009. RW. 003, Desa. Kosambi, Kec. Cipunegara, Kab. Subang",66,,"-6.5493907,107.0376605",,,FALSE,TRUE,TRUE
+269,269,Fitri Anggraeni,,,2,,,,,,,FALSE,TRUE,TRUE
+270,270,Kartika Sari,,,2,"KP Kondang, RT.002, RW.006 Des Sukalillah, Kec. Cibatu, Kab. Garut Prov, Jawa Barat",240,,"-6.819619,107.249803",082315891726,,TRUE,TRUE,TRUE
+271,271,Fitri Riyanti,,,2,"Kp. Cihideung RT 25, RW. 05, Desa Margaluyu, Kec Manonjaya, tasikmalaya, Jawa Barat",257,,"-7.3444941,108.3093093",082121800333,,TRUE,TRUE,TRUE
+272,272,Leni Hariati,,,10,"Pasar VII Dusun XI, RT.002, RW.002, Kel. Tembung, Kec. percut Sei Tuan, Kab. Deli Serdang , Sumatera Utara 20371",147,20371,"3.587142,98.746754",081270253903,,TRUE,TRUE,TRUE
+273,273,Dewi Sari Wulan,,,5,Perumahan Griya Sampiran Indah Blok AB No 11 Dusun Sijopak Desa Sampiran Talun Kab Cirebon Jawa Barat 45170,261,45170,"-6.7569872,108.5229411",,,TRUE,TRUE,TRUE
+274,275,Nike Irdiana,,,8,"Dsn. Sumberharjo, RT. 006, RW. 003, Kel. Sutojayan, Kec. pakisaji, Kab. malang, Jawa Timur",109,,"-8.0737219,112.6110823",082232113433,,TRUE,TRUE,TRUE
+275,276,Ning Alfiyah,,,8,"DSN Johowinong, RT.007, RW. 002, Kel. Johowinong, Kec. MojoAgung, Kab. Jombang Prov, Jawa Timur 61482",129,61482,"-7.523591,112.358660",087780433141,,TRUE,TRUE,TRUE
+276,277,Siti Amanah,,,8,"Kuwanon, RT. 002. RW. 004, Kel. Babatkumpul, Kec pucuk, Lamongan, jawatimur",110,,"-7.0802835,112.3083415",085785363135,,TRUE,TRUE,TRUE
+277,278,Sulistiyani,,,8,"Jl. P. Diponegoro, RT. 15. RW. 06, Sambigede, Sumberpucung, Malang, jawa timur.",111,,"-8.0982858,112.6739813",082240412905,,TRUE,TRUE,TRUE
+278,279,Suratun,,,8,"Ds Gaprang, RT. 3/, RW. 1 Gg Maunen, Kec. Kanigoro, Kab. Blitar, Jawa Timur 66171",116,66171,"-8.116723,112.188235",085812107552,,TRUE,TRUE,TRUE
+279,280,Emy Sutarti,,,11,"Belum konfirmasi, Dusun Cangkringan, RT 004, RT001, Kel. Cangkringan, Kec.Krembung, Sidoarjo, Jawa Timur",294,,"-0.6510166,100.2183913",,,FALSE,TRUE,TRUE
+280,281,Istirokoh,,,13,"Dusun Janti RT002 RW001 Kec. Perak. Kab. Jombang, jawa Timur",302,35123,"-5.3935001,105.2533112",,,FALSE,TRUE,TRUE
+281,282,Sarima ,,,9,"Asrama polisi Perintis Blok B.6 Jl. A. yani No. 72, Bondowoso, Kec. Bondowoso, Kab. Bondowoso, Jawa Timur",112,,"-6.921761,109.324753",085258772154,,TRUE,FALSE,FALSE
+282,283,Sutri Indrawati,,,9,"Dusun Curah wedi, RT.002, RW. 014, Desa. Jatiroto, Kec. JatiRoto, Kab. Lumajang ( Barat masjid Curah wedi , ada gang ke arah selatan, rumah cat hijau)",213,,"-8.0945419,113.3283721",082333855309,,TRUE,TRUE,TRUE
+283,284,Jumiati,,,8,"Dsn pohkecik, RT. 004, RW. 008, Desa. Baujeng, Kec. Beji, Kab. Pasuruan, Jawa Timur, 57154",130,57154,"-7.624994,112.733151",082234425450,,TRUE,TRUE,TRUE
+284,285,Lilik Eliyatin,,,8,"Mlaten No. 24, RT. 003. RW. 003, Kel. Jetis, Kec. lamongan, Kab. lamongan, Jawa Timur",113,,"-7.1204771,112.4186259",085649672725,,TRUE,TRUE,TRUE
+285,286,Bariyah                         ,,,5,"Wirogaten Banjarnegara Rt/Rw 03/01, Kota Kebumen, Jawa Tengah",,,"-7.76305,109.7558968",085647838744,,TRUE,TRUE,TRUE
+286,287,Elvi Triani,,,12,"Jalan raya Baturaja, RT. 002, RW. 001 No.10, Kel. urahan Tanjung Rambang, kecamatan Rambang, Kota Prabumulih. (Jalan depan toko sumber agung, rumah cat berwarna ungu)",45,,"-3.5516349,104.2643884",083178264907,,TRUE,TRUE,TRUE
+287,288,Winda Yati,,,12,"Jl DR Moh Hatta LR Binjai, RT. 003, RW. 007, No Rumah : 686-61, Kel. AIR Paoh, Kec. Baturaja Timur, Kab. Ogan Komering Ulu Prov, Sumatera Selatan 32111",19,32111,"-4.1265336,104.1814336",082280655882,,TRUE,TRUE,TRUE
+288,289,Evi Rostina,,,13,"Jl Terlukis indah, RT. 02, RW. 01, Kel. Terlukis Rahayu, Kec. Martapura, Oku Timur, Sumatera Selatan",22,,"-4.3345521,104.3039742",085267064806,,TRUE,TRUE,TRUE
+289,290,Setiyani,,,13,"Terukis Rahayu, RT.003, RW. 004, Kel. Terukis Rahayu, Kec. Martapura, Kab. OKU Timur Prov, Sumatera Selatan",22,,"-4.2781336,104.277959",087798744886,,TRUE,TRUE,TRUE
+290,291,Puspita Rini,,,13,"DSn Tanjung Waras Merak Batin, RT. 011, RW.003, Kel. Merak Batin, Kec. Natar, Kab. Lampung Selatan Prov Lampung 35362",20,35362,"-5.3018179,105.1959971",081369026757,,TRUE,TRUE,TRUE
+291,292,Ida Astuti,,,13,"Jl. Cempaka 8 Way Kandis Gang Nusa Indah, RT. 24A, RW. 8 Bandar Lampung (Samping Respiesusu)",29,,"-5.345532,105.291101",085279071847,,TRUE,TRUE,TRUE
+292,293,Rusmiyarsi,,,6,"Nangsri Lor, RT. 03, RW. 03, KebakKramat, Kab. Karanganyar, Jawa. Tengah",226,,"-7.5312676,110.8969648",089562704500,,TRUE,TRUE,TRUE
+293,294,Endah Budiarti,,,1,"Perum Bekasi Griya Asri 2, Jl. Flamboyan 1 blok J 25 no 12, RT 001 RW 040. Tambun Selatan, Bekasi.",144,,"-6.2209211,107.0767192",085781080293,,TRUE,TRUE,TRUE
+294,295,Junaiah,,,1,"KP. PAPANGGO, RT. RW 04/04, Desa. MEKARSARI, Kec. RANGKASBITUNG, Kab. LEBAK PROV BANTEN",195,,"-6.3396417,106.3312043",087771042226,,TRUE,TRUE,TRUE
+295,296,Miskah Khairani,,,1,"Jln.Pemuda kp.pulo, RT 02 , RW.08 kel.cipayung jaya, kec cipayung",198,,"-6.4500026,106.7936934",081311840852,,TRUE,TRUE,TRUE
+296,297,Suryanti,,,1,"JL. KEBAGUSAN KECIL GG. WARU NO 51, RT. RW 10/03, Kel. KEBAGUSAN KECIL, Kec. PASAR MINGGU, Kota. JAKARTA SELATAN",204,,"-6.3067308,106.8253167",087778297251,,TRUE,TRUE,TRUE
+297,298,Maesatul Munayah,,,1,"KP KOYA BUGIS, RT. RW 10/03 KASEMEN SERANG, Desa. MERGALUYU Kota Serang, Banten",208,,"-6.0436733067326,106.16135614645407",0895402399518,,TRUE,TRUE,TRUE
+298,299,Nurjanah,,,1,"Perum dekeraton Blok M6 No 25 Desa Pancawati, Kec Klari Kab Karawang.",255,,"-6.3565336,107.3824319",083111789518,,TRUE,TRUE,TRUE
+299,300,Eni Nuraeni,,,1,"jl.Empat no CE 33, lingkungan Vl Pulo Brayan bengkel, Medan.",206,,"-6.2698051,107.2610021",089502742053,,TRUE,TRUE,TRUE
+300,301,Widiastuti,,,1,Jln komplek pendidikan no 16 RT 08 RW 09 Rangkas Bitung Lebak Banten 42314,195,42314,"-6.3564237,106.2551482",,,TRUE,TRUE,TRUE
+301,302,Emi Kustanti (Mitha),,,2,"Panyosongan,RT.02, RW.10, Desa Wanakerta, Kec. Cibatu, Kab. Garut, 44185",240,44185,"-7.1088938,107.9891799",081221248066,,TRUE,TRUE,TRUE
+302,303,Estu Hayatul,,,1,"KP Babakan , RT. 01, RW. 04, Desa. babakan, Kec. Tenjo, Kab. Bogor",207,,"-6.3585475,106.4671212",,,TRUE,TRUE,TRUE
+303,304,Siti Khodijah,,,1,"Karees RT.01, RW.10, desa palumbon sari, Kec. Karawang Timur",193,,"-6.4575806,106.7924546",085886382314,,TRUE,TRUE,TRUE
+304,305,Ahmad Jalaludin,,,1,"KP CISALAM, RT. RW 01/08, Desa. CIJORO PASIR, Kec. RANGKASBITUNG, Kab. LEBAK, BANTEN",195,,"-6.3419421,106.2666094",082213996271,,TRUE,FALSE,FALSE
+305,306,Daniel Setiawan Saragih,,,1,"JL. RAYA BOGOR KM 27 KOMP. ZENI TNI AD, RT. RW 02/08 PEKAYO PASAR REBO JAKARTA TIMUR",205,,"-6.3431507,106.8665305",0881024363030,,TRUE,TRUE,TRUE
+306,307,Santi,,,12,"Jl. Raya Lintas Timur Palembang - Prabumulih No.37, Kec. Gelumbang, Kabupaten Muara Enim, Sumatera Selatan 31171",59,31171,"-3.2367476,104.4354741",085267691543,,TRUE,TRUE,TRUE
+307,308,Ini Titi Istanti,,,12,"Jalan, tidak ditemukan dalam sistem keuangan dan wa, ditolak tidak memenuhi kriteria penerima bantuan",0,,,,,FALSE,TRUE,TRUE
+308,309,Riza Lestiana,,,15,"Jl. Siklepuh perum sapphire residence blok k 22, RT. 003/009, Kel. urahan pacul, kecamatan talang, Kab. tegal",225,,"-6.8891038,109.1556904",082137000122,,TRUE,TRUE,TRUE
+309,310,Iis Umayah Sari,,,2,"Griya Cicental Asri Blok B N0.05 RT.004, RW.007, Kel Mulyasari, Kec. Tamansari, Kota Tasikmalaya",266,,"-6.9181451,107.5707729",,,FALSE,TRUE,TRUE
+310,311,Lucky Luxmawaty Wahyudi,,,7,"Dsn.Ngadiluwih, RT.001,RW.002, Ngadiluwih, Kediri, Jawa Timur",136,,"-7.0539677,108.1923243",085779170999,,TRUE,TRUE,TRUE
+311,312,Nova Eliana,,,8,Desa Gentawangi RT003 RW006 Kec Jatilawang kab Banyumas jawa tengah,308,,,,,FALSE,TRUE,TRUE
+312,313,Sri Fatonah,,,6,"Keboan, RT.01, RW. 01 Sumberadi Mlati sleman yogyakarta",88,,"-7.709271,110.337452",08566703951,,TRUE,TRUE,TRUE
+313,314,Rini Dwi Lestari,,,7,"Pajejeran, RT. 002. RW. 002, Kel. Gunung Gangsir, Kec. Beji, Kab. Pasuruan, Jawa Timur",130,,"-7.5922577,112.7188386",085859178580,,TRUE,FALSE,FALSE
+314,315,Putri Gita Damayanti,,,8,"Ktp. Tenggumung Baru Selatan I-C , RT. 01, RW. 10, Kel. Pegirian, Kec. Semampir, Kota Surabaya, Prov. Jawa Timur",220,,"-7.2333632,112.767617",0895806425085,,TRUE,TRUE,TRUE
+315,316,Ester Silalahi,,,10,"Perum. Duta Mas 12 Blok AA3, Jl. Fl.Tobing, Kel. Gambir Baru, Kec. Kisaran Timur, Kab. Asahan.",15,,"2.9920452,99.6326475",081370229948,081362558728,TRUE,TRUE,TRUE
+316,317,Tarem,,,2,"Jl Awiligar Gg. Gardu Liger Mekar, RT. 05, RW.26, Kel. Cibeunying, Kec. Cimenyan, Kab. Bandung, Jawa Barat",183,,"-6.8805534,107.6377457",089652676088,,TRUE,TRUE,TRUE
+317,318,Novi Norizka,,,4,"Jl. Surabaya no.103, RT. 01, RW. 04 Ds. Banjarjo, Kec. Padangan, Kab. Bojonegoro Maps:",164,,"-7.157824,111.625838",085640951867,,TRUE,TRUE,TRUE
+318,319,Hanny Diarsha Putri,,,4,"JL. MENTAWAI 5 No 68, 003/011, Kel. GEDANMG ANAK, Kec. UNGARAN Timur, KOTA, SEMARANG",83,,"-7.1419836,110.4178911",082323670885,,TRUE,TRUE,TRUE
+319,320,Devi Laela,,,5,"jl. penatusan Timur No179 , RT. 04, RW. 02 ,desa maos kidul, kec. maos, Kab. cilacap, Jawa. tengah kp . 53272",7,53272,"-7.606472,109.146624",085772471364,,TRUE,TRUE,TRUE
+320,321,Devi Agus Ningtyas,,,5,"Desa sidoharum karangduren, RT.03, RW.03, Desa. sidoharum, Kec. sempor, Kab.kebumen",9,54421,"-7.596805,109.487045",088983647121,,TRUE,TRUE,TRUE
+321,322,Dwi Masruroh,,,7,"Jl. Bengawan Solo, RT. 04, RW. 007, Desa. DUKUHDIMORO kecamatan Mojoagung, Kab. Jombang.",32,,"-7.560777,112.359891",085749454961,,TRUE,TRUE,TRUE
+322,323,Desi Anita Sari,,,7,"Jl. Candi Sewu no 6b, RT.11,RW 03,Madiun Lor, Kec. Manguharjo, Kota Madiun, Jawa Timur 63122 belakang, Kel. urahan madiun lor.",31,63122,"-7.616514,111.522209",082139090200,,TRUE,TRUE,TRUE
+323,324,Nafsiyah,,,8,"Perum Permata Candiloka Blok M 4/23, RT. 004, RW. 004, Balonggabus Candi, Sidoarjo, Prov, Jawa Timur 61271",131,61271,"-7.498022,112.7181069",085707118284,,TRUE,TRUE,TRUE
+324,325,Ferinda Febrina,,,10,"JL. Bustamam no.95, Bandar Khalipah, Kec.Percut Sei Tuan, Kab.Deli Serdang, 20371, Sumatera Utara.",147,20371,"3.6085401,98.7453058",082168511566,,TRUE,TRUE,TRUE
+325,326,Jehan Annisa,,,10,"Jl. Platina II no. 58 LK VIII Titi Papan, Kec. Medan Deli, Kota Medan",148,,"3.6808722,98.6660122",082304224138,,TRUE,TRUE,TRUE
+326,327,Yolanda Arif Putri,,,11,"taruko IV tahap II sungai tarung, blok j no 24, rt. 002 rw. 013 kel. Bungo pasang, Bungo Pasang, Kota padang, Sumatera Barat",153,,"-0.869970,100.360974",082173546087,,TRUE,TRUE,TRUE
+327,328,Zurna,,,12,"jalan akses kertapati lorong sulawesi, RT.15, RW.03, kertapati, Kota palembang, sumatra selatan 30258",58,30258,"-3.021853,104.748678",085368896883,,TRUE,TRUE,TRUE
+328,329,Farko,,,12,"Jl Lebak Murni , lr. karya Murni 5, perumahan Sako Park Resident blok e6, Kel. sako, Kec. sako palembang, Sumatera selatan",159,,"-2.9119585,104.793826",083184880387,,TRUE,TRUE,TRUE
+329,330,Yesi Handayani,,,14,"JL. Lintas Gumay Ulu Desa Muara siban 3 Gang mangga 2,,belakang Depot purnain, kec. Pulau pinang kab. Lahat sumatera selatan. 5GR6+MM5 Sukanegara, Kabupaten Lahat, Sumatera Selatan,",61,,"-3.808405070307589,103.51174206818543",081278693013,,TRUE,TRUE,TRUE
+330,331,Mirnawati,,,12,"Perum vila garden garlioc Jl Rona Sihotang No 8, RT. 001 , RW. 004, Kel. Air Melintang, Kec. Muara Enim, Kab. Muara Erim, Provinsi, Sumatera Selatan Kode 31315.",49,31315,"-3.6770421,103.7726317",082175210928,,TRUE,TRUE,TRUE
+331,332,Mery Martini,,,13,"tidak ada kabar no respone Gg anggrek, RT. 20, kel srengen, kec panjang, Bandar lampung, Lampung.",177,,"-5.4990705,105.3292954",,,FALSE,TRUE,TRUE
+332,333,Kasriyati,,,13,"Bruas / Negri Ratu, RT. 01, RW. 02 Rumah no4, Kec. Sungkal Utara, Kab, Kota Bumi Lampung 34555",46,34555,"-5.1481308,104.4389795",081379091824,,TRUE,TRUE,TRUE
+333,334,Aminatun ,,,13,"Negara Ratu Kec. Sungkai Utara, Kabupaten Lampung Utara, Lampung",169,,"-4.657026, 104.741728",85709555857,,TRUE,FALSE,FALSE
+334,335,Rohana,,,13,"Jl yasir hadibroto gg. melati no.43 lk 1, RT. 04,Kel.bumi kedamaian, Kec. Kedamaian, Bandar lampung, Lampung",170,,"-5.4179911,105.2757737",085279606785,,TRUE,TRUE,TRUE
+335,336,Dwi Handayani,,,16,"Bendungan, RT.03, RW. 14, Sidoagung, Godean , Kab. Sleman , Daerah Istimewa Yogyakarta",97,,"-7.765428,110.298736",089634903729,,TRUE,TRUE,TRUE
+336,337,Tri Mardiana,,,17,"Wonosari mulyo 10/22, RT. 21/07, Kel. , wonokusumo, Kec. semampir, Kota surabaya",220,,"-7.2163092,112.7551317",0881036131635,,TRUE,TRUE,TRUE
+337,338,Trisna Wijaya,,,7,"Perum Citra Permata Regency, Jl Topas Barat 3 no 7, RT01 RW15, Cikampek Utara, Kota baru",301,,"-7.6318415,111.5040553",,,FALSE,TRUE,TRUE
+338,339,Fitri Apriyanti,,,1,"Dusun kerajan remaja, RT. 004, RW.004,Ds. Cikampek Kota, Kec. Cikampek kota, Kab. KARAWANG",188,,"-6.4049721,107.4546568",,,TRUE,TRUE,TRUE
+339,340,Ratih Nurdianti,,,2,"Jl. Ciseke, RT. 02, RW. 03 (gang SMP), Kel. waluya, Kec. Cicalengka, Kab. Bandung, Jawa Barat .",52,,"-6.9913198,107.8349779",085282225899,,TRUE,TRUE,TRUE
+340,341,Awang Nawangsih,,,2,"KP. PASIR KURAY, RT. 005. RW. 009DESA CIRANJANG, Kec. CIRANJANG, Kab. CIANJUR",54,,"-6.9120403,107.4102043",081258433622,,TRUE,FALSE,FALSE
+341,342,Sutiah                       ,,,3,"Blok 03, RT. 013, RW. 003, Desa Pesanggrahan, blok jatiroke, kec prumbon, Kota Cirebon",70,,"-7.2389183,108.4085438",082120821707,,TRUE,TRUE,TRUE
+342,343,Sri Wati,,,4,"BODEAN: 015/004, Kel. DUKUH , Kec. BANYUDONO, Kab. BOYOLALI, JATENG",75,,"-7.560673,110.683970",081212251614,,TRUE,TRUE,TRUE
+343,344,Dian Fitriyana,,,4,"Jl. MH Thamrin No.3, Miroto, Kec. Semarang Tengah, Kota Semarang, Jawa. Tengah 50133",40,50133,"-6.9804601,110.4138607",082223218045,,TRUE,TRUE,TRUE
+344,345,Rahmawati,,,4,"Banyuurip, RT. 003, RW. 003, Desa. Banyuurip, Kec. ngampel, Kab. kendal, Jawa. tengah 51357",41,51357,"-6.969087,110.189039",,,TRUE,FALSE,FALSE
+345,346,Ida Kumalasari,,,4,Kradenan RT 01 RW 03 Desa Kradenan Kecamatan Kradenan Kabupaten Grobogan Jateng,278,27118,"-7.6732156,109.6261102",087745620259,,TRUE,TRUE,TRUE
+346,347,Any Rahmawati,,,4,"Desa Banyuurip, RT. 03, RW. 03, Kec. Ngampel, Kab. Kendal, Jawa. tengah",41,,"-6.969087,110.189039",085235145791,,FALSE,TRUE,TRUE
+347,348,Merin Irnawati,,,6,"Dekat Kebayanan I,Perumahan Bhumi Firdaus 1, Tegalombo, Kec. Kalijambe, Kabupaten Sragen, Jawa Tengah 57275",92,57275,"-7.42643,110.82926",085735536955,,TRUE,TRUE,TRUE
+348,349,Siti Rukayah,,,6,"Jagalan, RT. 003. RW. 007, Kec. Jeberes, Kota Surakarta, Jawatengah",89,,"-7.563344,110.842430",081548094445,,TRUE,TRUE,TRUE
+349,350,Yuli Fitriati,,,7,"Jl. KH Musta in Romli, RT. 001/, RW. 002, Kec. Kertosono Nganjuk, Jawa Timur",12,,"-7.5922081,112.084526",087785654997,,TRUE,TRUE,TRUE
+350,351,Wahyu Diandriyani,,,7,"Jl. Pundak, RT. 001. RW. 018 Ds. Banaran, Kec. Kertosono Nganjuk, Jawa Timur",12,,"-7.254832,112.7546892",,,TRUE,TRUE,TRUE
+351,352,Genit Purnaningsih,,,7,DS Tiripan RT 05 RW 03 Dk Kanten Kec Berbek Kab Nganjuk,280,,"-7.6322685,111.8641064",085812463037,,TRUE,TRUE,TRUE
+352,353,Titin Ngarofatun,,,11,"Jl Suko Karyo No 77 RT39 RW9 Madiun Lor, mangunharjo, madiun",290,,"-0.9387954,100.3510734",,,FALSE,TRUE,TRUE
+353,354,Ayu Dyah Kusumawati,,,7,"Kepel, RT. 006. RW. 001 Ds. Banjasari, Kec. Madiun, Kab. Madiun, Jawa Timur",140,,"-7.5941758,111.554026",085759092005,,TRUE,TRUE,TRUE
+354,355,Eka Aprilia Firgianti,,,8,"Jl.terusan batu bara V,rt 09, RW. 09, gang Lanang A.n.Bpk Soni (pijat). Malang, Pandanwangi, Kec. Blimbing, Kota Malang, Jawa Timur",132,,"-7.949840,112.654903",085604198812,,TRUE,TRUE,TRUE
+355,356,Diana Sukmawati,,,8,"Buluh Duko , Kel. Buluh, Kec. Socah, Kab. Bangkalan Prov, Jawa Timur 69161",133,69161,"-7.0904595914763116,112.7180922687217",082110174279,,TRUE,TRUE,TRUE
+356,357,Diana Ade Erma Suryani,,,8,"Jl Stasiun, RT. 04, RW. 02, Desa. Pohgajih, Kec. Selorejo, Kab. Blitar, Provinsi, Jawa Timur",134,,"-8.1487478,112.3605175",085233265383,,TRUE,TRUE,TRUE
+357,358,Siti Maryam,,,9,"Jl raya bayemanRT 005, RW. 002 Dusun Krajan, Kec. Tongas , Kota Probolinggo Prov, Jawa.Timur kode pos 67252.",13,67252,"-7.739228,113.119124",085234199667,,TRUE,TRUE,TRUE
+358,359,Sri Indriani,,,10,"Jl. Jati 20 no. 60 Perumnas Simalingkar A, Kec. Pancur Batu, Kab. Deli Serdang, Sumut",150,,"3.5098448,98.626511",081377283179,,TRUE,TRUE,TRUE
+359,360,Ririn Triyani,,,14,"Jln. Tembus rel no.09 rt01 rw01 kel pagar agung, kec lahat kota lahat",233,,"-4.9447403,103.8420024",,,TRUE,TRUE,TRUE
+360,361,Winah,,,13,"Jl komisaris umar Kp.sawah, RT. 01, RW.01, baturaja, kec. Baturaja barat, Kab Ogan Komering Ulu, Sumatera Selatan",172,,"-4.1229559,104.1525322",85366600234,,TRUE,TRUE,TRUE
+361,362,Damayanti Triwulandari,,,2,Jl Bima No1A RT043 RW004 Kel Oro-oro Ombo Kec Karthoharjo,308,,"-6.9215495,107.5568308",,,FALSE,TRUE,TRUE
+362,363,Dwi Novia Nengsih ,,,10,"Jl. Gelatik KH Dahlan, Kel. Aek Manis, Kec. Sibolga Selatan, Kota Sibolga, Sumut",,,"1.7293444,98.7932909",085249957008,,TRUE,TRUE,TRUE
+363,363,Yenni Kumala Sari,,,10,,,,,,,TRUE,TRUE,TRUE
+364,364,Arin Yuni Susilowati,,,9,"Perum Graha Permata Indah AE36 Keranjingan Sumbersari, Kab. Jember",217,,"-7.7907481,113.2812462",082139569292,,TRUE,TRUE,TRUE
+365,365,Agung Setyo Purnomo,,,8,"Jl. Teluk Grajokan IV / 50 A , RT.02, RW.02,Kel. Pandawangi, Kec. Blimbing, Kota malang",132,,"-7.9497109,112.6529016",081216288157,,TRUE,TRUE,TRUE
+366,366,Diah Wara Purnasanti,,,16,Perum Sidoarum 4 jln Cokrokembang A25 Godean Sleman,97,,"-7.7811186,110.3230718",085642362518,,TRUE,TRUE,TRUE
+367,367,Siti Ropikoh,,,1,desa mekarjaya dusun cimuda rt/rw 01/04 kec ciawigebang kab kuningan jawa barat,189,,"-6.9504898,108.582341",085864013970,,TRUE,TRUE,TRUE
+368,368,Romawati,,,7,"Jl. Desa Bedug RT/RW 01/01, Dawung, Bedug, Kec. Ngadiluwih, Kabupaten Kediri, Jawa Timur 64171 ( toko berkah jaya)",136,64171,"-7.8888941,112.0253579",085707377532,,TRUE,TRUE,TRUE
+369,369,Ayuni Astriyani,,,3,"Dusun Satu, RT. 003. RW. 001, Desa. Sambeng, Kec. Gunung jati, Kota Cirebon",64,,"-6.650324,108.5227155",089509868555,,TRUE,TRUE,TRUE
+370,370,Sri Windiyanti,,,6,"Karang Dusun, Keboan, RT. 003. RW.001 Sumberadi Mlati, Kab. Sleman.",88,,"-7.707977,110.339385",087838448495,,TRUE,TRUE,TRUE
+371,371,Relina Sari,,,5,"Wlahar RT.002, RW.005, Desa Wlahar, Kec. Wangon, Kab. Banyumas",262,,"-7.4649625,109.0752983",,,FALSE,TRUE,TRUE
+372,372,Dina Dwi Oktaviani,,,12,"Perumahan lavender residence, Jl. Tegal Binangun, Plaju Darat, Kec. Plaju, Kota Palembang, Sumatera Selatan c (blok D2 no 8, dibelakang elvira home)",252,30255,"-3.03389430469768,104.79689092667086",081278102773,,TRUE,TRUE,TRUE
+373,373,Sheren Regina Ulfah,,,6,"Dusun Jragan II, RT 02, Kalurahan Poncosari, Srandakan, Bantul, Yogyakarta.",90,,"-7.9654828,110.2326423",082183757099,,TRUE,TRUE,TRUE
+374,374,Yusti Rosita,,,1,"PERUM PUSPA RAYA BLOK DA 34, RT. RW 02/11, BOJONG BARU, BOJONG GEDE, BOGOR",192,,"-6.4884977,106.8090325",089652382201,,TRUE,TRUE,TRUE
+375,375,Santika Fujasari,,,2,Mekarsari Eco Living Blok D24 Desa Cilame Kec. Ngamprah Kab. Bandung Barat,85,,"-6.8501269,107.5095196",,,TRUE,TRUE,TRUE
+376,376,Puji Rochawati,,,7,"Jalan maskumambang gang IV RT 07 RW 03, kelurahan sogaten, Kecamatan Manguharjo, Kota Madiun",93,,"-7.8716997,110.4093451",085655721613,,TRUE,TRUE,TRUE
+377,377,Anisa Rahmawati,,,2,"jl, purwakarta I No.41, Antapani , antapani, kota Bandung, Jawabarat.",245,,"-6.9145601,107.6507382",085523714366,,TRUE,FALSE,FALSE
+378,378,Elly Setyowati,,,5,Kebulusan RT 002 RW001 Kel Kebulusan Kec Pejagoan Jawa tengah,26,,"-7.6732156,109.6261102",,,FALSE,TRUE,TRUE
+379,379,Royani,,,3,"Blok Pekuwon No 40, RT.001, RW. 002, Kel. Kemantren, Kec. sumber, Kab Cirebon",71,,"-6.7591894,108.4866752",089660989330,,TRUE,TRUE,TRUE
+380,380,Nur Hasanah,,,12,"JL.Meritai Lr.Pamili, RT. RW 023/004 No.47 Dusun VI Kec. Rambutan, Kab.Banyuasinm Sumsel.",56,,"-3.0491855,104.8378883",085789131112,,TRUE,TRUE,TRUE
+381,381,Ike Elsye,,,12,,,,,,,TRUE,TRUE,TRUE
+382,382,Yunlis Setyowati,,,6,"Griya Harmoni C4, RT 1, RW 7, Kalipelang Demakan Mojolaban, Sukoharjo 57178",87,57178,"-7.5974223,110.8782787",089671988553,,TRUE,TRUE,TRUE
+383,383,Sudarti,,,7,"JL. Letjen Suprapto, RT.003/, RW. 007 Ds. Jatirejo, Kec. Nganjuk , Kab. Nganjuk, Jawa Timur",138,,"-7.6109438,111.8862684",,,FALSE,TRUE,TRUE
+384,384,Wisma Linda,,,11,"Jln Fatahillah no 5 koto Kaciak, Desa. pauh timur, kec. Pariaman Tengah, Kota pariaman.",154,,"-0.613642,100.120214",085274744861,,TRUE,TRUE,TRUE
+385,385,Ramiana,,,14,"jl.laskar syamsudin. No c.14 RT.013, RW. 005, kel : bandar agung kec. lahat, kab. lahat, Sumatra Selatan. 29MQ+Q4, Trans SP II Padang Muara Dua, Kec. Gumay Ulu, Kabupaten Lahat, Sumatera Selatan 31356.",28,31356,"-3.964285,103.394577",082182020175,,TRUE,TRUE,TRUE
+386,386,Siti Nuzulurrohma A,,,17,"RT 09 Gunungkelir, Pleret, Pleret, Bantul, yogyakarta",0,,"-7.1725588,111.0495539",089671596952,,TRUE,TRUE,TRUE
+387,387,Nur Setyawati,,,4,"Dk. Wonopolo, RT.02. RW01, Ds. Botosengon, Kec. Dempet, Kab. Demak, Jawa. Tengah, 59573",79,59573,"-6.960091,110.697786",082327065270,,TRUE,TRUE,TRUE
+388,388,Dei Yogi Pratama,,,8,"lebak Timur 3 -E/ 16 , RT.05. RW010, Kec. gading, Kec. TambakSari, Kota Surabaya, Jawa Timur",115,,"-7.2486239,112.7821184",082254043210,,TRUE,TRUE,TRUE
+389,389,Asep Saepulloh,,,2,"Cijambe Tengah, RT. 007, RW.010, Kel Cigending, Kec. Ujungberung, Kota Bandung, Prov. Jawa Barat. 40611",256,40611,"-6.906282,107.6896138",08562070137,,TRUE,TRUE,TRUE
+390,390,Yuni Lestari,,,10,"Huta 1 silau bayu, Kec. Gunung Maligas, Pematang Siantar, Kab. Simalungun, Sumut",14,20123,"3.046619,99.135185",082161481967,,TRUE,TRUE,TRUE
+391,391,Mahmuda Ning Sugesti,,,4,Desa Wonosari Kecamatan Kebumen Pak,279,,"-7.14887,111.14863",081384994685,,TRUE,TRUE,TRUE
+392,392,Tengku Aina Rahma Putri,,,1,"Jl. Cendana V Blok DA 9 No. 9 RT.005/RW.008, Kel. Gelam Jaya, Kec. Pasar Kemis, Kab. Tangerang",228,,"-6.1657148,106.576185",083872613994,,TRUE,TRUE,TRUE
+393,393,Yulita Devi Utami,,,12,"LRG pendidikan, RT045, RW16, Plaju. Plaju, Kota Palembang, sumatera Selatan,. Rumah warna Mocca/ Coklat Muda)( dpn Model Tekwan Ayu) Plaju Ulu, Kota Palembang, Sumatera Selatan",195,,"-3.005641, 104.807152",81958005940,,FALSE,TRUE,TRUE
+394,394,Fieda Aulia Irianthi   ,,,5,"Perumahan Buana permai Blok K No 11 RT 004 RW 009, Cipondoh Kota Tangerang, Banten 15148",57,15148,"-7.6305592,109.2582145",085771688935,,FALSE,TRUE,TRUE
+395,395,Siti Aisyah Abdul Majid,,,1,"Cibeureum hilir, RT. RW : 04/08, Kel. Mulyaharja, Kec. Bogor Selatan Blok anggrek/ GG sejuk",186,,"-6.622607,106.794121",0895404680700,,TRUE,TRUE,TRUE
+396,396,Sri Yati,,,1,"JL. SUNGAI TIKAM, RT. RW 10/08 NO 05, Kel. PAPANGGO, Kec. TANJUNG PRIOK, JAKARTA UTARA",191,,"-6.1327789,106.8649445",082113447178,,TRUE,TRUE,TRUE
+397,397,Pratiwi Setya Ningsi,,,5,"Bedeng KAI pintu no. 4 Jl. Stasiun bedeng, RT. 04, RW. 03 Semingkir, Bajing, Kec. Kroya, Kab. Cilacap, Jawa. Tengah 53282",57,53282,"-7.6306442,109.2522003",085702889059,,TRUE,TRUE,TRUE
+398,398,Wentri Yeni,,,11,"Jl Batu gadang, RT. 006, RW.001, Kota padang, Desa. Batu gadang, kecamatan Lubuk kilangan, Sumatera Barat",26,25618,"-0.9623209,100.4686431",081365740686,,FALSE,TRUE,TRUE
+399,399,Suci Okta Amalia Put,,,13,"JL Yudistira No 21, RT.004, Kel. urahan Sawah Lama, Kec. Tanjungkarang Timur, Kota Bandar Lampung Prov Lampung 35125",27,35125,"-5.40871,105.26083",089632614198,,TRUE,TRUE,TRUE
+400,400,Jamilus,,,11,"Jl Kampung Baru n04, RT. 02, RW. 05 Sawahan Timur, Kec. padang timur",17,,"-0.939269,100.372936",085376448197,,TRUE,TRUE,TRUE
+401,401,Ai Hotimah,,,2,"Kp Pasir Kuntul, RT.01, RW. 02, Desa. Bojong Koneng, Kec. Ngamprah, Kab. Bandung Barat",85,,"-6.8311062,107.4870626",0852944601772,,TRUE,TRUE,TRUE
+402,402,Sri Hartati,,,8,"desa Kemukus, RT. 02 WR01, Kec. gombong, Kab. kebumen",117,,"-7.6216744,109.5151701",,,FALSE,TRUE,TRUE
+403,403,Sulatifah,,,8,"jl Mayjend Sungkowo, RT. 08, RW. 01, Kec. Sukowinangun, Kab. Magetan Prov, Jawa Timur",118,,"-7.6337992,111.3393199",,,FALSE,TRUE,TRUE
+404,404,Dumaenci,,,10,"Jl pancasila Dusun III Kp. Sumur, Desa. pay Gambar, Kec. Batang kuis 20372 deli serdang, Sumatera utara",119,20372,"3.6239822,98.8103328",,,FALSE,FALSE,FALSE
+405,405,Siti Juariah,,,2,"kp Rancamindin, RT.001RW011, Kel. Cikuya, Kec. Cicalengka",52,,"-6.987308,107.8286655",,,TRUE,TRUE,TRUE
+406,406,Eny Supriyatini ,,,2,"Jl. Parakan saat I no.33, RT.01, RW.001, Cipamokolan, Rancasari, Kota Bandung, Jawa Barat",244,,"-6.9389515,107.6692742",08170289458,,TRUE,TRUE,TRUE
+407,407,Sularni,,,1,"papan Mas Blok B18 no 5, RT.005, RW.018, Kel. mekar sari, Kec. tambun Selatan Bekasi 17510",144,17510,"-6.2640365,107.020833",,,FALSE,TRUE,TRUE
+408,408,Elsi Resti Rodiana,,,2,"kp , Balekambang RT 3 Rw 16 desa sukamaju kecamatan majalaya , patokan kantor Rw 16 . rumah bapak odang/ibu nur. kode pos 40382",120,40382,"-7.0284775,107.5454595",,,TRUE,TRUE,TRUE
+409,409,Aisah                                     ,,,1,,309,,"-6.1926455,106.6713606",087834363149,,TRUE,TRUE,TRUE
+410,410,Wiwi Widaningsih,,,2,"Kp. Parakantelu, Rt.05, RW.01, Desa Cibunar, Kec.Cibatu, Kab. Garut",240,,"7.0865199,107.9783797",082111369072,,TRUE,TRUE,TRUE
+411,411,Surtika Sari,,,2,"Dusun Karangpucung Kulon, RT.14, RW. 04, Desa. Jajawar, Kec. Banjar, Kota Banjar, Jawa Barat",235,,"-7.3519777,108.4927906",088211242056,,TRUE,TRUE,TRUE
+412,412,Sumarni,,,3,"Jl olah raga No 19 / 205 A, RT.003, RW.006, Kel. Sukapura, Kec. Kejaksaan, Kota Cirebo PRov, Jawa Barat",180,,"-6.708455,108.5559538",085863877027,,TRUE,TRUE,TRUE
+413,413,Turini,,,3,"Jl, Olah Raga II no 220 A, RT. 002, RW. 006, Desa. Sukapura, Kec. Kejakasaan, Kota cirebon Prov, Jawa Barat",180,,"-6.7044848,108.5484232",083144826488,,TRUE,TRUE,TRUE
+414,414,Sri Widayati,,,5,"Dsn Jatisalam, RT.11, RW. 03 Jatisari, Kec. Kebumen, Kab. Kebumen purwokerto",247,,"-7.6954282,109.6952905",081328079404,,TRUE,TRUE,TRUE
+415,415,Ratna Sudarwati,,,2,"Komplek Setraduta Dago N no. 22. Sariwangi, Kec. Parongpong, Kabupaten Bandung Barat, Jawa Barat 40559",258,40559,"-6.8736873,107.5653572",,,FALSE,TRUE,TRUE
+416,416,Tini Suhartini,,,2,"Gg Turi II, RT.016, RW.002 Nagaritengah, Kec. Purwakarta, Kab. purwakarta, Jawa Barat",249,,"-6.5396606,107.443294",087779565714,,TRUE,TRUE,TRUE
+417,418,Yoyoh,,,5,"Dusun Karang Pucung Kulon, RT.17, RW.04, Jajawar, Banjar, Kota Banjar, Jawa Barat",235,,"-7.3519286,108.4886597",085721451761,,TRUE,TRUE,TRUE
+418,417,Yuretsi,,,12,"Jl. Kombes Pol. Drs. Soebarkah Gg. Permai, RT. 003, RW. 003, Kel. Muara Enim, Sumatera Selatan",49,,"-3.6619735,103.7771616",081270348777,,TRUE,TRUE,TRUE
+419,419,Relina Sari,,,5,Desa wlahar grumbul pekodokan 2/5 wangon,220,60152,"-7.4649625,109.0752983",,,FALSE,TRUE,TRUE
+420,420,Supatmi,,,10,Jl. letnan bustan Rt/Rw 17/05,286,,"-7.9863575,112.612195",,,TRUE,TRUE,TRUE
+421,421,Maryati,,,8,Bandung,105,,"-7.1789363,112.6050147",,,TRUE,TRUE,TRUE
+422,274,Riyani,,,5,"Ketawangrejo RW 01 RT 03,kec GRABAG..PURWOREJO..JATENG.",281,,"-7.826389,109.8715918",,,TRUE,TRUE,TRUE
